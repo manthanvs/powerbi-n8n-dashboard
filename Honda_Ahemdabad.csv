@@ -1,0 +1,158 @@
+Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00001,30-06-2026,2026,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,Grey,20,Female,Finance,93915,4248,3408,5959,89385,282,98752,70286,28466,10,3.7
+ORD00007,17-06-2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,Red,33,Male,Finance,87892,5548,6439,1150,0,2143,87790,75926,11864,8,4.6
+ORD00017,14-12-2026,2026,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Shine 125,Commuter,125,Blue,38,Female,UPI,86960,1002,5777,9192,81464,4494,96433,68129,28304,6,3.9
+ORD00025,16-06-2026,2026,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,SP 125,Commuter,125,Blue,39,Male,UPI,93016,969,7005,6210,87639,4408,100854,75813,25041,7,4.8
+ORD00045,4/11/2026,2026,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,Grey,21,Male,Cash,87683,4945,7082,3782,77907,4831,88771,76347,12424,7,4.6
+ORD00049,26-02-2026,2026,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,36,Female,Finance,142897,4759,7484,3398,137186,952,148068,114647,33421,9,3.9
+ORD00059,2/10/2026,2026,10,October,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,38,Female,UPI,139198,3060,7125,3214,131973,4165,142312,108515,33797,11,4.2
+ORD00065,24-02-2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,SP 125,Commuter,125,Black,45,Male,Finance,88110,684,3559,3165,0,2178,91972,72680,19292,1,4.8
+ORD00067,24-01-2026,2026,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,CB350,Premium,348,Grey,21,Female,Cash,210338,5363,7520,8903,202939,2036,219362,174152,45210,11,4.7
+ORD00077,17-02-2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,34,Male,Credit Card,110209,347,3266,7312,0,2417,118023,91896,26127,11,4
+ORD00098,10/5/2026,2026,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Activa 6G,Scooter,110,Grey,44,Female,Cash,81942,621,6310,8670,76754,4567,91734,66081,25653,10,4.3
+ORD00105,9/9/2026,2026,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,Blue,33,Female,Cash,93629,4511,3727,5789,0,1470,97164,70103,27061,11,3.8
+ORD00122,16-09-2026,2026,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,29,Male,Finance,112486,4149,7824,3892,104469,3868,116185,82760,33425,12,4.9
+ORD00126,28-11-2026,2026,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,23,Female,UPI,107518,3131,7786,2206,99910,4477,109902,88600,21302,8,4.3
+ORD00133,9/2/2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,Red,47,Female,Credit Card,93582,6934,5079,3487,81900,4748,90466,67781,22685,9,3.7
+ORD00142,22-06-2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,SP 125,Commuter,125,Grey,35,Female,Cash,88863,5960,4992,5763,77922,4981,88677,74601,14076,12,4.8
+ORD00145,12/10/2026,2026,10,October,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Activa 6G,Scooter,110,Blue,55,Male,Cash,79407,3720,5945,5682,0,2869,84445,60687,23758,3,4.5
+ORD00146,14-03-2026,2026,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,Blue,28,Female,Finance,91017,2636,7873,6208,88026,355,102107,72723,29384,13,4
+ORD00156,1/12/2026,2026,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Black,22,Female,Credit Card,141848,1977,5239,9280,0,2922,151468,117151,34317,8,3.5
+ORD00161,18-07-2025,2025,7,July,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,Grey,37,Male,Credit Card,82547,4765,6419,3757,73761,4021,83937,62185,21752,9,4.4
+ORD00163,11/9/2026,2026,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Shine 125,Commuter,125,Grey,37,Male,UPI,88230,3260,5448,5838,0,1854,94402,69922,24480,4,4.1
+ORD00177,21-04-2025,2025,4,April,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Shine 125,Commuter,125,Blue,42,Female,Cash,87202,6805,6534,5869,80274,123,92677,65243,27434,3,3.8
+ORD00179,29-08-2026,2026,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,52,Female,Finance,110636,2977,7252,5326,0,4041,116196,85194,31002,14,3.5
+ORD00196,6/7/2025,2025,7,July,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,CB350,Premium,348,White,48,Male,UPI,212005,2237,6831,6899,209175,593,222905,173844,49061,11,4.9
+ORD00204,14-09-2026,2026,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,Blue,47,Female,Cash,88204,4835,6484,4163,80800,2569,91447,75156,16291,14,3.9
+ORD00206,27-08-2025,2025,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Red,50,Male,UPI,138219,3390,3682,7232,132633,2196,143547,114097,29450,7,4.7
+ORD00211,30-01-2026,2026,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Unicorn,Premium Commuter,160,Red,39,Male,Cash,112787,2898,7455,8751,109170,719,125376,82508,42868,11,4.3
+ORD00212,3/11/2025,2025,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,Black,42,Male,UPI,94651,4144,7645,5152,0,1076,102228,76284,25944,12,4.1
+ORD00213,11/11/2026,2026,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,White,34,Female,Finance,114548,2772,6833,5203,0,1703,122109,92408,29701,5,4
+ORD00216,13-02-2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,CB350,Premium,348,Grey,28,Female,Credit Card,213207,3890,3489,1791,206436,2881,211716,163610,48106,3,3.7
+ORD00221,20-05-2025,2025,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Unicorn,Premium Commuter,160,Blue,49,Male,Credit Card,108247,2106,3731,2185,104995,1146,110911,84067,26844,5,4.3
+ORD00225,21-05-2025,2025,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,28,Female,UPI,109091,5267,3731,4710,0,3489,108776,88704,20072,2,3.9
+ORD00234,28-09-2026,2026,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Activa 6G,Scooter,110,Grey,48,Male,Credit Card,82083,2432,5419,8574,0,779,92865,60272,32593,2,3.6
+ORD00241,18-04-2025,2025,4,April,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Unicorn,Premium Commuter,160,Red,55,Female,Credit Card,109938,2506,3921,5870,103945,3487,113736,90951,22785,8,4.6
+ORD00258,11/5/2025,2025,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,36,Female,Finance,140150,2430,5351,7795,137651,69,150797,115830,34967,10,3.7
+ORD00290,28-02-2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,24,Male,UPI,113552,1432,6586,8740,111590,530,126916,92423,34493,8,3.7
+ORD00291,20-06-2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,Blue,26,Female,Finance,83021,3095,3380,5221,79029,897,87630,66768,20862,3,3.8
+ORD00293,28-09-2026,2026,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Unicorn,Premium Commuter,160,Black,31,Male,Finance,114572,3973,5379,5278,0,1862,119394,90400,28994,3,4.2
+ORD00310,4/9/2025,2025,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Blue,54,Male,Credit Card,142067,1782,4276,7055,135838,4447,147169,108207,38962,12,3.6
+ORD00313,5/8/2025,2025,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Shine 125,Commuter,125,White,22,Female,Finance,83376,636,4334,6741,0,1755,92060,70050,22010,10,3.9
+ORD00314,7/12/2026,2026,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Shine 125,Commuter,125,White,46,Male,Finance,88928,4436,5925,8759,82872,1620,97556,66463,31093,2,3.9
+ORD00320,3/3/2026,2026,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,34,Male,Finance,140441,1894,3741,2011,0,3077,141222,118798,22424,12,4.5
+ORD00321,8/3/2025,2025,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Shine 125,Commuter,125,Grey,51,Female,Credit Card,89678,3348,3374,2396,81767,4563,87537,68544,18993,10,4.4
+ORD00325,8/1/2026,2026,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,SP 125,Commuter,125,White,54,Male,Cash,89387,5519,6966,2486,83727,141,93179,69608,23571,12,4.6
+ORD00344,19-03-2025,2025,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,CB350,Premium,348,Red,39,Female,Cash,214262,5911,5727,3872,0,994,216956,157963,58993,2,3.9
+ORD00348,23-01-2026,2026,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Blue,24,Female,Credit Card,140234,5285,7928,6168,132225,2724,146321,108292,38029,12,4.8
+ORD00349,23-04-2026,2026,4,April,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Shine 125,Commuter,125,Black,43,Male,Cash,87119,2973,4548,7499,0,4290,91903,65058,26845,7,3.8
+ORD00362,9/5/2026,2026,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,Blue,34,Female,Credit Card,92096,5232,7560,5128,83056,3808,95744,73549,22195,1,3.7
+ORD00374,25-07-2025,2025,7,July,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,31,Female,Cash,137026,5433,6183,4278,130445,1148,140906,108834,32072,7,4
+ORD00376,14-05-2025,2025,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Grey,50,Male,Finance,140959,844,6588,3406,0,1693,148416,110086,38330,2,4.4
+ORD00399,25-11-2025,2025,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Activa 6G,Scooter,110,Red,24,Female,Credit Card,81024,2700,4620,6877,76196,2128,87693,63063,24630,12,4.4
+ORD00402,26-02-2026,2026,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Shine 125,Commuter,125,Blue,39,Female,UPI,84374,3596,6847,5788,0,4414,88999,68464,20535,12,4.1
+ORD00408,19-02-2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,Blue,21,Female,UPI,81402,629,5138,4482,0,854,89539,66411,23128,11,4.5
+ORD00414,13-08-2026,2026,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,50,Male,Cash,108532,3170,5429,1524,104675,687,111628,87749,23879,10,3.6
+ORD00417,6/10/2025,2025,10,October,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Shine 125,Commuter,125,Grey,46,Male,Finance,84570,1536,3706,9738,0,1116,95362,67253,28109,14,4.8
+ORD00446,10/6/2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Shine 125,Commuter,125,Red,26,Female,Cash,83107,2070,3285,6389,79037,2000,88711,64056,24655,1,3.6
+ORD00448,24-05-2026,2026,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Red,38,Male,Credit Card,137420,3323,5447,5585,0,2814,142315,113666,28649,1,4.6
+ORD00455,11/11/2025,2025,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Activa 6G,Scooter,110,White,30,Male,Cash,82188,3397,7480,4954,74279,4512,86713,60694,26019,9,3.7
+ORD00456,14-01-2026,2026,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,CB350,Premium,348,White,49,Female,Credit Card,213449,1226,4638,7822,0,3974,220709,162614,58095,11,3.8
+ORD00471,8/7/2026,2026,7,July,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,CB350,Premium,348,Blue,39,Male,Cash,214246,747,3022,2878,0,883,218516,178309,40207,13,4.4
+ORD00477,8/8/2025,2025,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,White,47,Female,Cash,90016,3608,7976,1157,0,2288,93253,69533,23720,13,4.6
+ORD00483,26-08-2025,2025,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,Grey,20,Female,UPI,79019,249,4248,1051,0,4690,79379,65328,14051,15,4.4
+ORD00522,16-08-2025,2025,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,CB350,Premium,348,White,41,Male,UPI,210413,4898,7004,5843,203935,1580,216782,168101,48681,9,3.9
+ORD00524,4/4/2026,2026,4,April,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,SP 125,Commuter,125,White,31,Male,Cash,93084,5847,3840,9305,0,4492,95890,67677,28213,1,3.9
+ORD00537,10/10/2025,2025,10,October,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,CB350,Premium,348,Grey,49,Female,Cash,214121,4260,5258,7350,0,2730,219739,170355,49384,3,4.3
+ORD00539,19-03-2025,2025,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Hornet 2.0,Sports,184,White,25,Male,UPI,142332,3384,7794,8951,134373,4575,151118,108534,42584,10,5
+ORD00543,2/9/2026,2026,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Black,29,Male,UPI,137199,1226,3719,4288,131662,4311,139669,118949,20720,11,3.5
+ORD00553,2/2/2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Activa 6G,Scooter,110,Black,48,Male,UPI,84060,321,3918,2526,0,159,90024,65061,24963,10,3.9
+ORD00554,18-11-2025,2025,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,White,50,Female,Finance,90760,615,7384,8654,89298,847,105336,68572,36764,13,3.8
+ORD00561,22-01-2026,2026,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Activa 6G,Scooter,110,Grey,41,Male,Cash,84893,2866,3102,4445,79107,2920,86654,65644,21010,1,5
+ORD00582,19-12-2026,2026,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Shine 125,Commuter,125,Grey,31,Male,UPI,86147,3099,4963,6498,0,3389,91120,67039,24081,3,4.1
+ORD00594,18-06-2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Activa 6G,Scooter,110,White,24,Female,Credit Card,82306,5375,6562,5329,76854,77,88745,67727,21018,1,4.8
+ORD00596,6/6/2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,White,20,Female,UPI,143904,6382,3451,6709,133292,4230,143452,109669,33783,13,3.9
+ORD00613,20-09-2025,2025,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Shine 125,Commuter,125,Grey,38,Female,Credit Card,84619,6964,4462,5814,74921,2734,85197,67693,17504,12,3.6
+ORD00629,3/8/2025,2025,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Activa 6G,Scooter,110,Black,52,Male,Credit Card,78120,4889,5379,3247,0,674,81183,62401,18782,11,3.8
+ORD00630,8/2/2026,2026,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,CB350,Premium,348,White,22,Male,Cash,207160,3535,4008,5944,0,2646,210931,169006,41925,4,4.4
+ORD00639,1/8/2026,2026,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,White,44,Male,UPI,110142,3138,4495,9668,0,3549,117618,84720,32898,3,5
+ORD00673,6/5/2025,2025,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,Red,30,Male,Cash,94006,6082,3754,4570,84611,3313,92935,76240,16695,1,4.4
+ORD00697,31-07-2025,2025,7,July,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Shine 125,Commuter,125,Black,41,Male,Finance,85454,3189,7621,6571,0,2968,93489,71164,22325,4,3.5
+ORD00715,17-09-2025,2025,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,White,23,Female,UPI,94158,4525,7063,7826,0,3056,101466,70555,30911,12,3.5
+ORD00726,8/4/2026,2026,4,April,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Shine 125,Commuter,125,Blue,53,Male,Credit Card,83557,627,5766,9105,0,3662,94139,64549,29590,6,4.4
+ORD00727,8/9/2026,2026,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Shine 125,Commuter,125,Red,53,Male,Credit Card,87778,2766,3203,2947,0,4913,86249,69081,17168,15,4.9
+ORD00733,13-08-2025,2025,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,Red,33,Male,Credit Card,87692,5870,3811,6835,0,995,91473,74674,16799,2,3.9
+ORD00756,15-05-2025,2025,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,Blue,34,Female,Cash,90468,338,5364,1391,85587,4543,92342,71434,20908,8,4.5
+ORD00788,17-09-2025,2025,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Unicorn,Premium Commuter,160,White,20,Male,Cash,109084,4140,4746,5290,0,3108,111872,92151,19721,11,4.2
+ORD00803,17-07-2025,2025,7,July,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,White,31,Female,UPI,83639,1263,4696,2680,0,4971,84781,65203,19578,12,3.7
+ORD00817,24-08-2025,2025,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,Black,28,Female,Credit Card,138367,4164,6305,8059,131048,3155,145412,109265,36147,12,4.5
+ORD00828,22-11-2025,2025,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,CB350,Premium,348,Grey,21,Male,Finance,211760,4851,7139,3717,0,2014,215751,178211,37540,15,4.8
+ORD00832,4/4/2026,2026,4,April,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,42,Male,Cash,137860,6187,5648,3120,130568,1105,139336,113667,25669,14,4
+ORD00834,12/1/2025,2025,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,30,Female,Finance,144104,4125,7226,1181,136811,3168,145218,113289,31929,9,4.8
+ORD00842,19-06-2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,Grey,54,Female,Credit Card,94352,2728,4975,2813,88333,3291,96121,76274,19847,3,3.6
+ORD00849,22-07-2026,2026,7,July,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Hornet 2.0,Sports,184,Red,35,Male,Credit Card,143674,3397,3793,5173,135985,4292,144951,109428,35523,2,4.4
+ORD00864,3/11/2025,2025,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,CB350,Premium,348,Black,46,Male,Finance,212138,5029,4804,4082,203914,3195,212800,174052,38748,4,4.4
+ORD00874,19-06-2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Shine 125,Commuter,125,Grey,31,Male,Finance,83798,5876,7722,2445,0,3336,84753,70300,14453,1,3.8
+ORD00878,6/3/2025,2025,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Shine 125,Commuter,125,Blue,31,Male,Finance,82374,1166,6309,5598,78706,2502,90613,64249,26364,15,3.8
+ORD00890,19-06-2026,2026,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Blue,47,Female,Cash,143979,4949,7310,6901,0,1549,151692,114226,37466,8,3.7
+ORD00891,8/5/2025,2025,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,CB350,Premium,348,Blue,34,Female,Finance,208826,160,6491,3220,0,3850,214527,172130,42397,15,4.6
+ORD00910,1/3/2025,2025,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,White,42,Male,Credit Card,84855,3224,5414,6626,0,822,92849,66349,26500,15,4.8
+ORD00947,6/11/2025,2025,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,CB350,Premium,348,Grey,40,Male,UPI,208570,1094,6832,4259,203570,3906,214661,161042,53619,10,4.2
+ORD00957,1/7/2026,2026,7,July,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,Red,27,Female,UPI,81829,4040,6665,1903,0,3131,83226,61933,21293,1,3.7
+ORD00965,6/12/2026,2026,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Hornet 2.0,Sports,184,Red,50,Male,UPI,144651,5322,3632,2740,0,3234,142467,106910,35557,4,4.4
+ORD00966,18-07-2026,2026,7,July,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,CB350,Premium,348,White,38,Male,UPI,210869,3633,5917,7439,204275,2961,217631,170408,47223,13,4.8
+ORD00981,17-01-2025,2025,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Shine 125,Commuter,125,Grey,22,Male,Cash,87122,4060,7728,5768,81157,1905,94653,70391,24262,2,3.6
+ORD00989,23-03-2025,2025,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Shine 125,Commuter,125,Grey,42,Male,UPI,89578,6742,3923,9846,0,4319,92286,63958,28328,14,4.8
+ORD00995,26-06-2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Hornet 2.0,Sports,184,Grey,54,Male,Finance,141233,640,6729,3189,140089,504,150007,106254,43753,5,4.2
+ORD01001,8/1/2025,2025,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Hornet 2.0,Sports,184,White,25,Male,Credit Card,139691,4384,6119,7379,0,1796,147009,117670,29339,8,3.9
+ORD01014,14-03-2026,2026,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Activa 6G,Scooter,110,Black,49,Female,Finance,78361,4323,5814,6775,70829,3209,83418,65443,17975,1,4.2
+ORD01028,10/2/2026,2026,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,Red,49,Male,Cash,81543,1488,4900,8786,77145,2910,90831,67683,23148,11,4.6
+ORD01034,28-01-2025,2025,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Blue,22,Female,Finance,141889,474,6595,6521,139173,2242,152289,115791,36498,4,4.3
+ORD01067,29-01-2025,2025,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,49,Female,Finance,110335,1960,4068,5615,104382,3993,114065,93034,21031,10,3.8
+ORD01082,27-12-2026,2026,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,White,49,Female,Credit Card,110713,5594,5366,2422,0,4915,107992,87798,20194,5,3.8
+ORD01090,25-09-2026,2026,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,Black,50,Male,UPI,138942,544,3793,1797,0,4886,139102,116283,22819,5,4.2
+ORD01095,18-05-2026,2026,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Activa 6G,Scooter,110,Grey,20,Male,UPI,82437,5553,5111,3256,75794,1090,84161,63287,20874,5,4.7
+ORD01109,6/11/2025,2025,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,White,41,Female,Finance,138843,3701,7034,1983,0,897,143262,111213,32049,12,4.2
+ORD01126,25-02-2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Activa 6G,Scooter,110,White,25,Male,Finance,77521,2437,4573,3745,0,2925,80477,66471,14006,5,3.7
+ORD01129,4/3/2025,2025,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,White,24,Female,Credit Card,91420,4041,5584,5222,0,178,98007,75214,22793,9,5
+ORD01133,8/1/2026,2026,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Activa 6G,Scooter,110,Black,29,Female,UPI,77651,1910,4687,6727,0,707,86448,63115,23333,8,4.5
+ORD01153,20-06-2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Grey,37,Male,Finance,143767,2958,7257,7416,138610,2199,153283,117303,35980,1,3.7
+ORD01158,31-01-2025,2025,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,SP 125,Commuter,125,White,41,Male,Cash,90251,3627,4886,2093,86495,129,93474,74469,19005,10,4
+ORD01163,6/3/2025,2025,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Shine 125,Commuter,125,Blue,51,Male,Cash,82884,3956,3522,3830,76742,2186,84094,69912,14182,9,4.3
+ORD01169,9/5/2026,2026,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Activa 6G,Scooter,110,Black,42,Male,Cash,81748,6776,5069,5416,73038,1934,83523,66563,16960,4,3.5
+ORD01180,14-02-2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Grey,36,Female,Cash,140225,392,4938,5541,137973,1860,148452,112754,35698,1,4.2
+ORD01196,30-07-2025,2025,7,July,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Activa 6G,Scooter,110,White,31,Female,Credit Card,78652,4627,5946,3049,0,23,82997,67681,15316,12,3.9
+ORD01200,2/6/2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,Red,31,Female,Credit Card,78544,5539,5842,8079,0,3342,83584,66886,16698,10,4.4
+ORD01217,22-05-2026,2026,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Black,24,Male,Credit Card,144349,1672,3359,9861,138956,3721,152176,114746,37430,3,4.5
+ORD01219,6/11/2026,2026,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,White,32,Male,Credit Card,110461,2995,7062,2756,105347,2119,115165,91412,23753,6,4.9
+ORD01232,24-03-2026,2026,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,SP 125,Commuter,125,Red,49,Male,Credit Card,88340,495,3820,9884,0,2108,99441,72727,26714,15,4.2
+ORD01233,5/10/2026,2026,10,October,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,White,43,Female,Credit Card,142315,1442,7793,6541,140057,816,154391,117828,36563,11,4.5
+ORD01252,11/1/2026,2026,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Shine 125,Commuter,125,Grey,36,Male,UPI,82062,759,6973,8243,79565,1738,94781,65512,29269,13,3.8
+ORD01253,1/9/2025,2025,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Hornet 2.0,Sports,184,Red,30,Male,Finance,143027,6142,3843,2096,132302,4583,138241,110225,28016,10,4.5
+ORD01256,25-06-2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,CB350,Premium,348,Red,20,Male,Finance,209384,409,4721,9357,205049,3926,219127,177445,41682,6,4.5
+ORD01273,7/12/2026,2026,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Hornet 2.0,Sports,184,Blue,35,Male,Cash,140685,6545,6330,9746,0,4137,146079,115372,30707,3,4.2
+ORD01281,8/1/2025,2025,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Shine 125,Commuter,125,White,35,Male,Finance,89545,5268,7811,4040,82363,1914,94214,72176,22038,3,4.7
+ORD01287,13-04-2025,2025,4,April,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,CB350,Premium,348,Blue,20,Male,Finance,214808,6048,4323,7399,0,4888,215594,164397,51197,11,3.8
+ORD01296,28-11-2025,2025,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Activa 6G,Scooter,110,White,33,Male,Cash,79058,5842,7786,4428,70569,2647,82783,60367,22416,14,4.9
+ORD01298,19-06-2026,2026,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,SP 125,Commuter,125,Black,26,Female,Cash,91744,1779,3976,9352,89018,947,102346,75548,26798,1,3.5
+ORD01303,13-05-2026,2026,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,CB350,Premium,348,Black,34,Female,Credit Card,212660,5066,7632,9393,0,4679,219940,163079,56861,13,4.7
+ORD01320,16-01-2026,2026,1,January,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,CB350,Premium,348,Blue,52,Male,UPI,213858,903,4479,1870,208205,4750,214554,169571,44983,8,4.1
+ORD01325,15-09-2025,2025,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,Black,49,Male,Cash,84609,2325,5643,6851,82269,15,94763,65829,28934,8,4.7
+ORD01358,16-03-2025,2025,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Shine 125,Commuter,125,Grey,21,Female,Credit Card,82730,2094,3127,8877,76321,4315,88325,69898,18427,2,4.6
+ORD01386,12/2/2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Unicorn,Premium Commuter,160,Blue,28,Male,Credit Card,107323,3325,4130,6468,99066,4932,109664,88960,20704,6,4.3
+ORD01398,14-12-2026,2026,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,Blue,24,Male,UPI,94905,6294,4254,9765,87936,675,101955,70650,31305,15,3.6
+ORD01405,7/6/2025,2025,6,June,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,SP 125,Commuter,125,Black,30,Female,Finance,88556,5333,3105,1254,82799,424,87158,71835,15323,3,4.4
+ORD01408,27-02-2025,2025,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,37,Male,Cash,108500,3312,5843,3775,0,2356,112450,88690,23760,5,4.1
+ORD01413,27-03-2026,2026,3,March,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,Grey,25,Female,Cash,92438,2026,5719,1666,0,3719,94078,69755,24323,5,3.8
+ORD01414,1/12/2026,2026,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,Activa 6G,Scooter,110,White,41,Female,Finance,77588,2838,5305,3686,73636,1114,82627,65632,16995,1,3.6
+ORD01415,11/8/2025,2025,8,August,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,Blue,45,Male,Cash,93641,2179,4568,7032,91074,388,102674,74031,28643,15,4.9
+ORD01417,13-09-2025,2025,9,September,Q3,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Shine 125,Commuter,125,Red,23,Female,UPI,85483,3454,4229,9624,0,4664,91218,68627,22591,1,4.4
+ORD01448,9/10/2026,2026,10,October,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Hornet 2.0,Sports,184,Red,25,Female,Finance,140045,6272,7709,6242,132232,1541,146183,107205,38978,2,4.2
+ORD01450,14-12-2026,2026,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,55,Female,UPI,138154,3439,4643,5631,130042,4673,140316,110006,30310,13,3.9
+ORD01454,20-11-2026,2026,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Unicorn,Premium Commuter,160,Black,42,Female,Finance,113648,1645,5740,3793,109797,2206,119330,90891,28439,5,4
+ORD01458,31-12-2025,2025,12,December,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,CB350,Premium,348,Grey,24,Female,Credit Card,208931,5843,5285,7115,202557,531,214957,164039,50918,10,4.3
+ORD01460,11/4/2025,2025,4,April,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,Hornet 2.0,Sports,184,Red,33,Male,UPI,141992,5781,5704,9484,133434,2777,148622,111183,37439,1,3.5
+ORD01474,19-11-2025,2025,11,November,Q4,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Showroom Walk-in,CB350,Premium,348,Grey,39,Female,UPI,209452,4661,4770,8254,201598,3193,214622,173280,41342,1,4.4
+ORD01484,4/2/2026,2026,2,February,Q1,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,Red,36,Female,UPI,94741,5052,6673,1001,84794,4895,92468,67829,24639,7,4.8
+ORD01495,10/4/2025,2025,4,April,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Online Booking,SP 125,Commuter,125,Black,54,Male,Finance,91792,6558,5573,9694,0,4620,95881,75781,20100,5,4
+ORD01496,1/5/2025,2025,5,May,Q2,Gujarat,Ahmedabad,Honda Dealer Ahmedabad,Corporate Sale,SP 125,Commuter,125,Grey,32,Male,UPI,93992,6714,4624,9898,0,4735,97065,75304,21761,12,3.6

@@ -1,0 +1,300 @@
+﻿Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00003,20-07-2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Blue,20,Female,Cash,93279,3628,3476,7948,86328,3323,97752,70208,27544,7,4.7
+ORD00011,26-04-2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Grey,53,Male,Cash,79889,294,3266,2139,0,1237,83763,61438,22325,2,4.5
+ORD00012,22-07-2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Blue,26,Male,UPI,140308,2652,3022,6354,0,3069,143963,106107,37856,12,4.7
+ORD00013,24-09-2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,White,44,Female,Credit Card,213535,187,5510,7697,0,78,226477,162714,63763,7,5
+ORD00014,19-01-2025,2025,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Black,39,Female,Credit Card,87841,2415,7559,8620,0,505,101100,67740,33360,3,4.2
+ORD00015,17-02-2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Grey,30,Male,Credit Card,138158,1751,5405,6080,132188,4219,143673,115821,27852,8,3.7
+ORD00020,1/7/2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,Grey,51,Female,UPI,88400,6777,5926,7008,78910,2713,91844,64558,27286,9,3.5
+ORD00027,3/1/2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Grey,46,Female,UPI,81515,2376,4060,3037,75824,3315,82921,60801,22120,3,4.8
+ORD00034,12/7/2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Red,40,Male,Finance,82951,1466,3706,8185,78554,2931,90445,68508,21937,12,5
+ORD00038,25-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Black,53,Female,Finance,112253,4086,5190,9922,0,4017,119262,92505,26757,6,4
+ORD00039,16-11-2026,2026,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Blue,44,Male,Cash,109960,1094,7979,2671,0,3648,115868,92477,23391,5,3.9
+ORD00054,29-10-2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,White,35,Female,Credit Card,137434,3373,3674,6857,0,823,143769,112633,31136,13,4.6
+ORD00055,1/6/2026,2026,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Blue,23,Female,Cash,92557,555,3455,8223,88891,3111,100569,71539,29030,4,4.4
+ORD00056,31-10-2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,34,Female,Cash,140718,1518,3301,8018,138490,710,149809,107281,42528,10,3.7
+ORD00062,11/4/2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Blue,38,Female,Cash,94085,3493,4163,1435,87789,2803,93387,70622,22765,3,3.6
+ORD00070,20-07-2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,White,48,Male,Credit Card,86834,4825,4847,9426,80418,1591,94691,72240,22451,3,4.8
+ORD00071,15-04-2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,White,27,Male,UPI,212348,2164,6582,3486,208479,1705,218547,159404,59143,15,3.8
+ORD00076,24-04-2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Grey,36,Female,Credit Card,87306,3814,3374,2754,0,4416,85204,64877,20327,8,4.2
+ORD00081,19-01-2025,2025,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Black,39,Male,Finance,207731,6234,4837,7063,197591,3906,209491,175308,34183,15,4.8
+ORD00086,16-06-2025,2025,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Blue,20,Female,Finance,86518,2782,6521,4137,0,3069,91325,71366,19959,15,3.6
+ORD00089,19-04-2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Grey,36,Female,Finance,110393,2347,4734,1022,0,4482,109320,84909,24411,11,4.2
+ORD00090,29-08-2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Black,34,Female,Finance,83354,5880,6825,1521,0,4330,81490,71811,9679,4,4.1
+ORD00094,20-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,White,22,Female,Credit Card,81038,6536,7261,8845,0,4693,85915,63280,22635,11,3.7
+ORD00100,9/5/2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Red,37,Male,Finance,140480,6538,3522,9840,129709,4233,143071,114304,28767,9,4.1
+ORD00102,5/3/2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,White,38,Male,Credit Card,112668,4691,6177,7788,104690,3287,118655,83812,34843,11,4.4
+ORD00104,8/12/2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Grey,23,Male,Cash,109915,5268,4124,1937,102609,2038,108670,89669,19001,12,4.7
+ORD00108,19-12-2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,Grey,38,Female,UPI,82191,5297,6129,6529,0,129,89423,60177,29246,12,3.9
+ORD00111,1/7/2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Red,41,Female,Finance,111959,2874,6317,3493,0,3510,115385,83866,31519,9,4.4
+ORD00127,28-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,White,33,Male,Credit Card,141914,5175,6986,1405,0,4237,140893,114718,26175,8,4.7
+ORD00128,29-09-2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Red,30,Male,Credit Card,209019,378,4631,4499,205956,2685,215086,162587,52499,8,4.1
+ORD00132,10/3/2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,White,20,Female,Cash,212973,90,4156,7722,0,1261,223500,175993,47507,8,3.7
+ORD00138,13-02-2026,2026,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Grey,37,Female,Finance,139875,4875,6360,4907,134849,151,146116,116733,29383,4,4.2
+ORD00148,14-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Blue,39,Male,Credit Card,92971,3919,6984,6811,0,4712,98135,70631,27504,9,4.7
+ORD00151,20-07-2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Black,27,Female,Cash,93966,3046,5256,8263,87496,3424,101015,70531,30484,3,4.6
+ORD00165,26-07-2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Red,52,Female,Finance,92332,6753,5845,2025,83774,1805,91644,69062,22582,13,3.5
+ORD00173,15-07-2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,White,44,Female,Cash,86367,1101,7795,5545,80502,4764,93842,67840,26002,10,4.3
+ORD00186,5/10/2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Red,44,Male,Finance,88198,3951,7273,2713,81465,2782,91451,67651,23800,1,4.1
+ORD00188,29-03-2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Blue,54,Female,Credit Card,80751,2383,5257,3453,78012,356,86722,64544,22178,11,3.8
+ORD00194,15-07-2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,White,44,Male,Finance,87402,320,6582,1318,0,4514,90468,70353,20115,10,3.7
+ORD00200,9/6/2026,2026,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,Grey,43,Female,Credit Card,82964,3112,6548,8998,78587,1265,94133,66607,27526,15,5
+ORD00201,7/10/2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,Black,55,Female,Cash,209616,20,6087,1962,0,4133,213512,159935,53577,13,4.9
+ORD00202,1/4/2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Black,33,Female,Cash,83379,6962,7223,6011,0,1409,88242,63072,25170,3,3.8
+ORD00208,8/10/2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,White,27,Female,UPI,86178,5660,3721,7418,78369,2149,89508,65530,23978,3,4.3
+ORD00215,13-11-2026,2026,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Red,51,Female,Cash,140682,1123,7504,7956,0,4955,150064,116897,33167,15,4.8
+ORD00217,22-12-2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Red,37,Female,Finance,144301,3745,7191,3033,138605,1951,148829,108494,40335,9,4.9
+ORD00224,15-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Grey,34,Male,Finance,93884,3569,3189,8176,0,2956,98724,75921,22803,4,4.1
+ORD00226,26-08-2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Red,42,Female,UPI,112868,6945,7922,5698,104154,1769,117774,90976,26798,5,3.7
+ORD00227,26-11-2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Blue,32,Female,Credit Card,141666,4439,5252,1988,0,124,144343,112739,31604,13,4.4
+ORD00229,18-09-2026,2026,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Black,30,Male,Cash,137216,1012,5948,9924,133349,2855,149221,108264,40957,3,4.7
+ORD00231,4/9/2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,Red,37,Male,UPI,214985,641,3873,6413,0,4335,220295,169790,50505,15,3.6
+ORD00246,26-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Red,51,Female,Credit Card,111444,4469,6335,2472,106959,16,115766,87562,28204,6,3.9
+ORD00254,9/12/2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,33,Female,UPI,111171,1002,6401,1553,106095,4074,114049,82642,31407,2,3.7
+ORD00259,11/8/2026,2026,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,Blue,47,Female,Cash,214703,462,4893,1308,0,3688,216754,164984,51770,14,3.7
+ORD00260,27-11-2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Red,34,Female,Finance,210745,3463,5164,7903,0,3202,217147,158704,58443,5,3.7
+ORD00266,26-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Grey,45,Male,UPI,114365,5732,5675,8759,105139,3494,119573,93329,26244,5,3.6
+ORD00267,25-04-2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,White,47,Male,UPI,138963,6951,4446,7203,128062,3950,139711,110743,28968,10,4.8
+ORD00277,23-05-2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Red,49,Male,Credit Card,92663,6719,7624,5800,82108,3836,95532,67913,27619,4,3.7
+ORD00278,17-02-2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,51,Female,Credit Card,114030,5805,7751,1742,0,3090,114628,87844,26784,5,4
+ORD00279,27-12-2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,White,36,Female,UPI,214766,3582,5996,1920,207449,3735,215365,161434,53931,13,5
+ORD00282,15-09-2026,2026,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Blue,47,Female,Cash,88957,3135,4170,4767,84544,1278,93481,76449,17032,8,3.9
+ORD00288,4/8/2026,2026,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,Blue,51,Male,Cash,82120,3405,5858,3281,74014,4701,83153,64615,18538,10,4.6
+ORD00294,31-01-2025,2025,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Blue,33,Female,Cash,93458,4933,3076,9852,85521,3004,98449,67616,30833,12,4.5
+ORD00296,21-12-2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Red,45,Male,Credit Card,89002,3069,3477,1376,84891,1042,89744,69546,20198,2,4
+ORD00301,16-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Black,25,Male,UPI,85456,813,3012,5575,82610,2033,91197,66019,25178,1,4.4
+ORD00305,29-09-2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,White,54,Female,Cash,93872,6425,6783,4610,85974,1473,97367,69810,27557,8,4.4
+ORD00307,30-07-2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Red,41,Female,UPI,92398,1363,3905,3594,90565,470,98064,68289,29775,12,4.8
+ORD00311,13-11-2026,2026,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,Black,33,Female,Cash,208831,759,3641,8323,207718,354,219682,174827,44855,6,4.2
+ORD00317,27-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Grey,55,Female,Finance,91157,5754,6522,5516,0,3862,93579,71949,21630,14,3.9
+ORD00319,22-09-2026,2026,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,46,Female,Credit Card,144262,6007,7192,7135,138153,102,152480,105912,46568,12,3.9
+ORD00324,18-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Grey,49,Female,Finance,112955,5045,6974,6466,0,1748,119602,87173,32429,2,4.6
+ORD00329,27-05-2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Red,29,Female,Credit Card,82075,5656,5817,3431,76367,52,85615,64280,21335,4,4.3
+ORD00340,4/7/2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,White,24,Male,UPI,81291,5612,7930,6726,75577,102,90233,62480,27753,11,4.7
+ORD00341,10/7/2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Grey,35,Male,Cash,86415,6693,6239,4883,74873,4849,85995,66260,19735,11,3.6
+ORD00343,24-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,Black,46,Male,UPI,83123,1043,6625,7698,80721,1359,95044,65249,29795,11,4.4
+ORD00355,21-08-2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Grey,24,Female,Cash,79434,2909,4572,1722,73832,2693,80126,61662,18464,8,4.9
+ORD00364,4/2/2026,2026,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,Red,23,Female,UPI,209103,762,4209,9230,0,4585,217195,165746,51449,10,4.8
+ORD00370,17-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,42,Female,Cash,113882,5809,5058,4444,0,4073,113502,91496,22006,12,4.9
+ORD00375,9/2/2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,White,40,Female,Cash,90041,3642,5853,2701,0,2465,92488,67842,24646,8,4.2
+ORD00383,15-03-2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Red,31,Female,Credit Card,212708,1398,4809,8246,0,4418,219947,167516,52431,14,3.9
+ORD00384,2/3/2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Grey,51,Female,Cash,137328,4340,3022,9368,0,4514,140864,105600,35264,15,3.9
+ORD00391,10/8/2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Blue,26,Male,Credit Card,108335,6962,3307,4152,98325,3048,105784,82815,22969,15,4.4
+ORD00397,26-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,White,44,Male,Finance,89999,4029,5194,8904,83532,2438,97630,74654,22976,14,5
+ORD00404,23-02-2026,2026,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Grey,48,Male,UPI,140741,481,3994,2300,139763,497,146057,106096,39961,4,3.9
+ORD00406,22-02-2026,2026,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,Blue,23,Male,Credit Card,79109,4932,6188,9054,0,381,89038,63631,25407,4,3.7
+ORD00407,29-09-2026,2026,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,47,Female,Finance,109988,1312,4445,8352,106694,1982,119491,91821,27670,15,4.6
+ORD00413,8/7/2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,White,24,Female,Finance,213023,3963,4670,4477,0,2799,215408,168437,46971,4,4.3
+ORD00416,15-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Red,22,Female,Credit Card,92747,1731,4777,5766,88518,2498,99061,76088,22973,10,4.9
+ORD00420,29-04-2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,White,45,Male,UPI,80184,697,3393,5004,76472,3015,84869,64091,20778,15,4.9
+ORD00422,30-04-2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,54,Male,Cash,109365,6062,3889,6746,102833,470,113468,87389,26079,7,4.4
+ORD00423,22-05-2026,2026,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,Grey,32,Female,Finance,209048,4433,6335,8712,0,1170,218492,178341,40151,11,4.2
+ORD00442,2/11/2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Grey,32,Female,Finance,113079,6195,6311,7221,0,4427,115989,87014,28975,11,4.6
+ORD00443,5/1/2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,Grey,48,Female,Credit Card,82939,4284,4352,6890,0,17,89880,60221,29659,4,4.2
+ORD00444,5/9/2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Black,54,Female,Cash,89334,844,7665,8411,86901,1589,102977,69019,33958,8,3.9
+ORD00445,9/8/2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,White,23,Female,UPI,80829,162,4679,3751,77826,2841,86256,60393,25863,2,5
+ORD00450,9/11/2026,2026,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Blue,27,Male,Credit Card,91376,2838,3868,1004,87680,858,92552,72249,20303,12,4.6
+ORD00452,2/9/2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Black,30,Female,Credit Card,90994,2918,3503,1076,86579,1497,91158,69673,21485,6,4.5
+ORD00459,17-02-2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,White,35,Male,Credit Card,214625,660,7513,8905,209390,4575,225808,166843,58965,11,4.8
+ORD00461,12/7/2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Red,30,Female,Credit Card,87107,1326,6877,9064,82128,3653,98069,72193,25876,10,5
+ORD00464,20-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,White,30,Female,Finance,143054,1037,5982,5052,0,2219,150832,106636,44196,8,4.1
+ORD00467,15-04-2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,White,47,Female,Credit Card,93240,270,6160,3627,91668,1302,101455,70995,30460,14,4.2
+ORD00468,5/9/2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,51,Female,Credit Card,109737,1197,5684,2017,107497,1043,115198,83084,32114,2,3.7
+ORD00469,17-12-2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Grey,44,Male,UPI,87963,3707,3132,4186,0,907,90667,73451,17216,11,3.8
+ORD00475,7/3/2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,White,22,Female,Cash,114245,2839,4585,5220,107129,4277,116934,92550,24384,12,4.9
+ORD00479,16-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,White,46,Female,Finance,83478,1380,3636,8302,0,2408,91628,67841,23787,12,4.8
+ORD00488,21-06-2026,2026,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,White,51,Female,Finance,107892,4454,3000,6447,102088,1350,111535,93184,18351,7,3.9
+ORD00496,31-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,24,Male,Cash,113295,5385,4293,1314,104599,3311,110206,91901,18305,13,5
+ORD00500,16-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,White,24,Male,UPI,82397,1288,3706,8799,77177,3932,89682,63128,26554,12,4.1
+ORD00501,4/12/2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Grey,55,Male,UPI,110233,4734,6885,6011,101284,4215,114180,90684,23496,5,4.7
+ORD00503,24-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Red,40,Female,UPI,144695,46,7785,6461,144108,541,158354,112104,46250,5,4.4
+ORD00505,8/1/2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Red,55,Female,UPI,113472,2719,5259,3060,108438,2315,116757,91628,25129,4,4.3
+ORD00520,2/8/2026,2026,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,White,21,Female,Finance,84304,4415,5044,4124,0,4928,84129,61546,22583,10,3.8
+ORD00523,12/5/2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,White,52,Female,Finance,91555,4508,7970,8454,0,2679,100792,73581,27211,2,3.7
+ORD00542,22-08-2026,2026,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,21,Male,Credit Card,108675,3231,5152,8313,0,582,118327,88371,29956,13,3.6
+ORD00544,25-08-2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,White,25,Female,Credit Card,207176,2533,3926,7671,200641,4002,212238,177859,34379,7,4.8
+ORD00547,12/1/2025,2025,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Black,23,Female,Cash,139130,1792,7284,7086,134479,2859,148849,109849,39000,3,4.6
+ORD00552,19-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,Red,45,Female,Cash,77591,1368,3540,2238,74459,1764,80237,60933,19304,6,4.7
+ORD00556,16-07-2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Grey,23,Male,UPI,89295,1570,5030,9704,85728,1997,100462,73706,26756,8,4.7
+ORD00562,28-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Black,31,Female,UPI,140230,3419,7553,3945,0,1684,146625,106301,40324,9,4.3
+ORD00563,7/8/2026,2026,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Blue,37,Female,Cash,212528,3178,6441,2639,0,4841,213589,177479,36110,3,4.1
+ORD00565,30-01-2025,2025,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,Grey,44,Female,Finance,211272,1571,4030,5765,209433,268,219228,160596,58632,2,3.6
+ORD00566,23-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Black,32,Female,Credit Card,84303,5662,7498,7187,73809,4832,88494,67425,21069,15,3.8
+ORD00574,25-05-2026,2026,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Black,41,Female,Finance,93619,3630,5466,8570,0,1366,102659,72197,30462,10,5
+ORD00586,3/8/2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,Red,27,Male,Credit Card,214521,5599,6195,4483,208073,849,218751,177489,41262,8,4.5
+ORD00587,4/8/2026,2026,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,Grey,49,Male,Credit Card,79086,6453,6578,3514,0,3146,79579,67261,12318,10,3.5
+ORD00590,13-10-2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Grey,52,Female,Finance,111283,1636,5012,4055,107185,2462,116252,84664,31588,13,3.6
+ORD00595,1/5/2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Black,22,Male,Cash,80082,4022,5195,5613,73432,2628,84240,63718,20522,10,4
+ORD00607,12/12/2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Black,36,Male,UPI,114751,5198,7835,7818,104924,4629,120577,87323,33254,15,4.6
+ORD00609,29-04-2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Red,23,Female,UPI,88495,4755,6676,1607,0,4975,87048,66873,20175,1,3.9
+ORD00616,1/2/2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Black,35,Male,Cash,89603,6350,4920,6360,81605,1648,92885,69406,23479,10,4.4
+ORD00620,16-04-2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,Black,39,Female,Finance,80395,4909,4837,2246,72081,3405,79164,65668,13496,10,3.5
+ORD00622,2/8/2026,2026,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Blue,44,Female,Cash,140338,2789,5117,6542,134583,2966,146242,110166,36076,14,3.9
+ORD00626,21-09-2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,White,20,Female,Cash,89108,1894,4604,2245,0,3624,90439,67935,22504,8,4.5
+ORD00627,16-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Grey,29,Female,Finance,211991,407,3075,7711,206692,4892,217478,158403,59075,8,3.5
+ORD00631,18-04-2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,33,Male,Cash,113479,4908,3432,8704,106095,2476,118231,82578,35653,1,4.7
+ORD00634,16-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,Red,41,Female,Cash,88471,2886,7039,7070,0,2906,96788,66069,30719,3,4.6
+ORD00642,23-06-2026,2026,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Grey,47,Female,Finance,80562,908,6647,2304,79624,30,88575,67823,20752,5,4
+ORD00643,8/6/2025,2025,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,White,53,Female,Cash,81477,5053,5422,3092,0,1651,83287,66072,17215,4,3.6
+ORD00648,8/12/2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,Red,21,Male,UPI,79892,5656,6828,9368,0,1260,89172,60519,28653,7,4.7
+ORD00657,15-06-2025,2025,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Blue,47,Male,Credit Card,110234,4024,3537,2390,103801,2409,109728,87712,22016,10,4.8
+ORD00658,3/1/2025,2025,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Grey,35,Male,Finance,110065,6153,4222,8092,0,705,115521,90508,25013,13,4.9
+ORD00659,13-08-2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Black,55,Male,UPI,142253,5446,5126,1575,0,4262,139246,109054,30192,13,4.2
+ORD00670,4/2/2026,2026,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Grey,29,Female,Cash,110116,1833,5652,1013,104187,4096,110852,90215,20637,12,3.9
+ORD00696,28-11-2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,Red,26,Female,Cash,80101,1494,5207,9825,0,928,92711,66100,26611,6,3.6
+ORD00702,21-04-2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,Grey,52,Female,Finance,208416,179,3272,8868,204684,3553,216824,165789,51035,12,4.1
+ORD00710,11/4/2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Black,35,Female,Credit Card,140738,2272,6525,5934,134191,4275,146650,113938,32712,4,3.6
+ORD00714,6/6/2025,2025,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Blue,20,Male,UPI,142826,5536,7123,4479,0,4341,144551,106147,38404,4,4.6
+ORD00722,4/9/2026,2026,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,White,46,Male,Credit Card,211615,3542,4965,2181,0,3227,211992,165539,46453,8,4.1
+ORD00728,15-12-2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Black,36,Female,Credit Card,85018,3858,7845,9146,80304,856,97295,67931,29364,4,4.7
+ORD00736,29-10-2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Black,20,Female,Cash,113708,4810,3177,7508,107848,1050,118533,82875,35658,11,3.8
+ORD00740,1/8/2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Red,23,Male,Credit Card,86838,5587,6838,8096,0,4393,91792,64544,27248,10,3.6
+ORD00744,11/5/2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Blue,36,Female,Credit Card,87405,4594,6734,2223,0,1757,90011,65067,24944,15,3.6
+ORD00763,3/6/2025,2025,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,Blue,47,Female,UPI,83529,2832,4308,1498,0,1532,84971,67805,17166,13,3.6
+ORD00767,26-05-2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Red,20,Female,Cash,84178,4195,5874,7959,0,1668,92148,61383,30765,4,4.5
+ORD00771,5/11/2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,White,51,Male,Cash,84100,6404,5291,6980,73398,4298,85669,65158,20511,8,4.4
+ORD00772,23-09-2026,2026,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,Red,42,Male,Cash,83502,2797,4006,2299,80573,132,86878,61898,24980,14,4.4
+ORD00777,26-07-2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Red,28,Female,Credit Card,93224,4296,4394,6664,86252,2676,97310,68310,29000,9,4.6
+ORD00786,7/12/2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,37,Female,Cash,111109,1292,3241,3072,0,3094,113036,84892,28144,15,4.4
+ORD00787,3/4/2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Grey,42,Female,Credit Card,109022,4076,4209,4555,100225,4721,108989,90993,17996,6,4.6
+ORD00792,30-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,Red,36,Female,Finance,83650,822,3626,3046,81389,1439,88061,64577,23484,14,4.2
+ORD00796,30-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,White,34,Female,UPI,144904,1425,5327,3199,139464,4015,147990,113241,34749,1,4.9
+ORD00798,21-07-2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Grey,23,Male,Credit Card,91727,6301,3320,9455,80513,4913,93288,70601,22687,5,4.2
+ORD00799,6/6/2025,2025,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,39,Female,Credit Card,109935,5844,5756,2566,102297,1794,110619,89695,20924,13,3.7
+ORD00801,3/4/2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Red,22,Female,Credit Card,114427,3995,3547,5699,0,2410,117268,85667,31601,7,4.2
+ORD00802,26-05-2026,2026,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,White,33,Male,Credit Card,84010,6581,4560,7566,0,581,88974,67180,21794,4,4.5
+ORD00810,3/12/2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,White,40,Female,UPI,88146,2338,4261,1161,81674,4134,87096,68609,18487,5,3.8
+ORD00811,22-03-2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Black,43,Male,UPI,110687,3550,4069,4763,0,1102,114867,85657,29210,7,4.4
+ORD00819,4/9/2026,2026,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,White,42,Female,UPI,211507,4675,7989,3819,203390,3442,215198,165992,49206,11,4.8
+ORD00826,18-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,Black,36,Female,Credit Card,84501,1281,3252,7216,80197,3023,90665,67910,22755,7,4.6
+ORD00835,24-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,Grey,36,Female,Cash,77377,6170,7859,2586,0,1072,80580,60755,19825,11,3.6
+ORD00836,18-07-2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Black,22,Male,Credit Card,92169,729,3207,4853,0,4741,94759,70788,23971,13,4.9
+ORD00841,6/12/2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,Black,25,Female,Cash,211112,5488,7421,9802,203864,1760,221087,171005,50082,5,4.8
+ORD00850,12/2/2026,2026,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Red,28,Female,Credit Card,144722,4004,3751,3762,0,1662,146569,108572,37997,6,4.8
+ORD00852,21-06-2026,2026,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,White,41,Male,Cash,86830,5924,5428,3085,78629,2277,87142,67214,19928,11,4.2
+ORD00861,3/8/2026,2026,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Black,32,Male,Finance,78730,5454,7810,9612,68994,4282,86416,67649,18767,7,4.3
+ORD00867,24-05-2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,White,31,Male,Finance,91013,5995,3888,1442,0,1339,89009,68656,20353,5,4.4
+ORD00875,26-05-2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Blue,47,Male,Credit Card,113862,1417,3399,6494,107608,4837,117501,83202,34299,1,4.4
+ORD00881,27-04-2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Blue,38,Female,Credit Card,139944,1126,7890,1971,138227,591,148088,107755,40333,4,4.2
+ORD00884,11/6/2025,2025,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Black,33,Female,Cash,138466,6608,3586,9912,127438,4420,140936,112754,28182,3,4.6
+ORD00895,24-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,White,23,Male,Credit Card,108040,2410,6713,3897,0,3550,112690,89207,23483,8,4.6
+ORD00898,23-02-2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Grey,39,Female,Cash,141382,4050,6632,9120,0,3486,149598,113646,35952,7,3.8
+ORD00899,11/4/2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,White,55,Female,UPI,213680,3751,3006,1074,206181,3748,210261,165354,44907,5,3.7
+ORD00901,13-04-2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Black,53,Female,UPI,143738,3769,4071,2537,0,762,145815,114388,31427,11,4.1
+ORD00904,25-11-2026,2026,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Black,49,Female,Credit Card,86531,5559,4945,1867,79957,1015,86769,69124,17645,13,4.7
+ORD00906,3/9/2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,23,Male,Cash,108581,3593,7562,4781,0,163,117168,86187,30981,12,5
+ORD00907,29-08-2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,White,35,Female,Credit Card,85405,6193,4048,5428,77167,2045,86643,66496,20147,5,3.6
+ORD00911,19-06-2025,2025,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,White,35,Male,Cash,139621,1992,5276,4874,135821,1808,145971,108944,37027,8,4.1
+ORD00918,30-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Blue,54,Female,Finance,207508,3926,6772,8553,200671,2911,215996,160297,55699,14,4.2
+ORD00920,12/2/2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Blue,45,Male,UPI,89960,1405,4250,7102,83720,4835,95072,69429,25643,1,4.7
+ORD00921,16-08-2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Red,51,Female,Cash,213281,1552,4767,7961,0,4619,219838,165613,54225,3,4.8
+ORD00929,3/12/2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,Grey,27,Male,Finance,207739,1127,3345,8846,0,1485,217318,159317,58001,7,4.7
+ORD00931,30-11-2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,36,Male,Finance,114133,4610,5062,4825,105293,4230,115180,90237,24943,7,3.9
+ORD00938,8/10/2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Grey,29,Female,Credit Card,138079,2341,6380,6127,0,1112,147133,115679,31454,3,4.5
+ORD00943,11/9/2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,30,Male,Cash,138147,6971,6424,9670,128623,2553,144717,114051,30666,7,4.2
+ORD00944,27-04-2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,Black,26,Male,Credit Card,87337,6811,7724,9392,80236,290,97352,68859,28493,15,4.6
+ORD00955,10/3/2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Black,46,Female,Credit Card,108069,4912,6992,8121,99915,3242,115028,92674,22354,14,4.6
+ORD00974,26-03-2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,White,50,Male,Credit Card,93752,2261,6001,8473,86543,4948,101017,69283,31734,14,3.6
+ORD00975,10/6/2026,2026,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Red,50,Male,UPI,82504,5685,5498,8261,76422,397,90181,65959,24222,3,3.8
+ORD00976,2/6/2026,2026,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Blue,32,Female,UPI,208721,2200,4586,1533,201609,4912,207728,162547,45181,4,3.6
+ORD00982,21-10-2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,White,35,Female,Finance,93204,6123,7778,2350,0,94,97115,69769,27346,8,4.9
+ORD00983,15-08-2026,2026,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,Grey,40,Female,Credit Card,208274,6190,5083,4963,201943,141,211989,160570,51419,2,4.3
+ORD00994,27-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,White,21,Male,Cash,79531,6174,7612,4811,0,3086,82694,65084,17610,6,3.8
+ORD01003,26-05-2026,2026,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Red,42,Male,UPI,90098,4141,6390,5594,0,131,97810,74955,22855,2,4.8
+ORD01018,2/9/2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,White,36,Male,Cash,82925,5533,6256,6940,0,2520,88068,61159,26909,9,4.2
+ORD01020,13-06-2025,2025,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Grey,22,Male,UPI,144489,5239,5971,9392,137185,2065,152548,109104,43444,11,4.3
+ORD01027,24-04-2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,28,Female,Credit Card,138093,5071,5934,3081,128680,4342,137695,111232,26463,12,4.2
+ORD01037,26-06-2026,2026,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Blue,41,Female,Cash,211829,3612,6145,1012,207803,414,214960,177467,37493,6,4.2
+ORD01049,30-11-2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Grey,27,Male,UPI,110018,3191,4141,5244,104817,2010,114202,89270,24932,9,3.8
+ORD01050,14-07-2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Black,47,Female,Cash,112440,1380,5879,4981,106408,4652,117268,93103,24165,13,3.7
+ORD01060,28-06-2026,2026,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Red,48,Female,UPI,114283,4216,7955,5425,0,3365,120082,92718,27364,4,4.6
+ORD01062,14-11-2026,2026,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,Red,35,Male,Credit Card,82504,2330,5469,7621,78222,1952,91312,70925,20387,14,4.9
+ORD01070,31-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,White,29,Male,Finance,90924,5091,7245,3401,82212,3621,92858,72612,20246,14,4.9
+ORD01073,10/1/2025,2025,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Blue,32,Female,Finance,138448,2224,4591,8057,135752,472,148400,115649,32751,8,3.6
+ORD01078,27-04-2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Blue,41,Male,Credit Card,112561,857,3349,4854,0,595,119312,90678,28634,6,4.9
+ORD01086,18-11-2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,Black,35,Female,Credit Card,211560,3169,7604,2398,0,2347,216046,162508,53538,8,4.1
+ORD01091,14-02-2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,55,Male,Credit Card,109318,4242,7071,3794,101939,3137,112804,91289,21515,7,4.5
+ORD01100,8/8/2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Black,43,Male,Credit Card,88819,1706,4219,5660,87021,92,96900,70874,26026,14,3.6
+ORD01105,1/10/2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,Black,47,Male,Cash,212193,5169,3483,4512,205950,1074,213945,164870,49075,7,5
+ORD01108,26-07-2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Red,33,Male,Cash,94649,1613,7483,2980,0,3578,99921,75031,24890,7,4.4
+ORD01125,20-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Blue,47,Female,Cash,113643,1455,4498,6061,0,527,122220,83854,38366,1,4.9
+ORD01138,21-03-2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,White,50,Male,UPI,89761,1306,4382,1990,0,588,94239,73407,20832,5,4.6
+ORD01139,8/2/2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Red,24,Female,Finance,78886,898,5885,9958,0,4804,89027,63967,25060,3,4.7
+ORD01145,18-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,White,20,Male,Credit Card,88013,6136,4056,3754,78889,2988,86699,70482,16217,7,4.5
+ORD01160,8/1/2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Red,29,Female,Finance,144367,1352,3168,4354,139191,3824,146713,109201,37512,14,3.8
+ORD01161,2/7/2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Grey,42,Female,Credit Card,143557,1246,6123,7573,141684,627,155380,106434,48946,9,4.2
+ORD01165,28-01-2025,2025,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Grey,54,Male,UPI,214860,4383,5393,3934,206818,3659,216145,164862,51283,14,3.6
+ORD01167,18-02-2026,2026,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,Blue,28,Male,Cash,81609,4231,7801,6109,77248,130,91158,60051,31107,13,3.8
+ORD01168,16-02-2026,2026,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,Grey,22,Female,Cash,85192,426,5234,8918,80322,4444,94474,68678,25796,5,4.7
+ORD01176,9/4/2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Black,33,Male,UPI,89660,3867,4143,2305,83170,2623,89618,73969,15649,9,4.8
+ORD01177,22-09-2026,2026,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,White,55,Female,UPI,141815,6638,3558,7219,134803,374,145580,110209,35371,7,4
+ORD01182,2/11/2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,Blue,31,Female,Finance,211894,3342,5963,6810,0,2357,218968,161759,57209,13,3.9
+ORD01184,29-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Black,20,Male,Finance,92103,5828,6085,8512,81920,4355,96517,71737,24780,5,3.6
+ORD01187,16-11-2026,2026,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Red,27,Female,UPI,77738,6190,4282,9997,0,871,84956,62736,22220,6,4.1
+ORD01189,24-07-2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,White,55,Male,Cash,213463,1182,5808,1810,0,1825,218074,176148,41926,3,4.2
+ORD01195,17-12-2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,49,Female,Cash,140527,6068,5155,3974,133137,1322,142266,110227,32039,1,4.3
+ORD01203,18-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Black,34,Male,Credit Card,88663,1938,4319,1891,81828,4897,88038,73774,14264,10,3.9
+ORD01210,31-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,Black,24,Male,Cash,213482,942,6830,9739,208309,4231,224878,171690,53188,14,5
+ORD01211,20-09-2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,Grey,44,Female,Cash,84003,5818,6042,1068,75094,3091,82204,63509,18695,11,4
+ORD01223,15-11-2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Red,46,Female,Cash,82536,6599,3913,4565,71587,4350,80065,66264,13801,7,4.4
+ORD01226,23-03-2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Black,24,Male,Finance,88747,4501,3912,5383,79262,4984,88557,68378,20179,5,4.6
+ORD01236,17-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Blue,39,Female,Credit Card,84194,3207,6221,8392,77380,3607,91993,64236,27757,8,3.8
+ORD01240,25-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,28,Female,Finance,112608,500,3779,8908,110019,2089,122706,87533,35173,4,4.6
+ORD01242,15-09-2025,2025,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,White,48,Female,UPI,208649,3107,7071,8187,201916,3626,217174,167030,50144,8,4.1
+ORD01243,1/2/2026,2026,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,43,Female,Cash,113797,2542,3604,6900,0,3879,117880,92359,25521,7,4.3
+ORD01245,14-10-2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,44,Male,Finance,110934,3243,7524,3823,107619,72,118966,90282,28684,11,4.5
+ORD01246,3/3/2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Black,41,Female,Cash,88880,2350,3439,6559,0,1230,95298,73017,22281,8,4
+ORD01248,8/3/2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Shine 125,Commuter,125,White,20,Male,UPI,87963,162,7250,3495,86535,1266,97280,65840,31440,13,4.2
+ORD01262,26-07-2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,Red,39,Female,Cash,78419,3897,7403,5710,73247,1275,86360,61303,25057,11,4.6
+ORD01265,19-06-2026,2026,6,June,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,White,52,Male,Credit Card,214805,4837,3565,4766,207448,2520,215779,174388,41391,3,4.5
+ORD01266,23-11-2026,2026,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Black,53,Female,Cash,139309,998,7911,3270,136694,1617,147875,117760,30115,6,4.8
+ORD01267,10/8/2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,Grey,54,Female,Credit Card,81052,6149,6457,8579,70553,4350,85589,61906,23683,7,3.5
+ORD01276,2/2/2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Grey,49,Male,Cash,91685,4798,6106,1262,0,146,94109,69244,24865,6,4.7
+ORD01277,14-12-2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Blue,46,Male,Credit Card,94050,1258,3431,5780,88868,3924,98079,70523,27556,12,4.8
+ORD01278,10/11/2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Blue,38,Female,Finance,92271,4274,5430,7780,0,3844,97363,73307,24056,14,4.5
+ORD01283,28-11-2025,2025,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Blue,34,Male,Cash,139004,5121,4878,4833,0,3525,140069,118633,21436,12,4.4
+ORD01284,31-03-2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Black,41,Male,UPI,88944,541,5019,8268,0,3056,98634,70975,27659,10,3.7
+ORD01288,21-05-2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Grey,23,Male,UPI,80741,3263,5285,7180,0,2568,87375,63898,23477,7,4.6
+ORD01300,29-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Red,33,Female,Credit Card,142403,2552,4662,7614,138256,1595,150532,118511,32021,4,4.6
+ORD01308,27-01-2025,2025,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,White,21,Female,Credit Card,110542,4408,5768,3435,0,1649,113688,85967,27721,8,4
+ORD01316,6/10/2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,White,46,Male,Cash,90758,2365,4821,7175,0,4090,96299,67712,28587,12,3.9
+ORD01317,11/4/2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,23,Female,UPI,140544,6500,3607,8405,130501,3543,142513,116270,26243,13,4.1
+ORD01330,12/10/2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Unicorn,Premium Commuter,160,Blue,23,Female,Finance,109192,6776,7658,8485,0,2166,116393,85500,30893,4,4.8
+ORD01332,10/4/2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Blue,29,Female,Credit Card,114344,2913,6698,2571,108112,3319,117381,83507,33874,4,4.1
+ORD01335,4/10/2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,53,Male,Finance,138832,302,4004,6155,138028,502,148187,115626,32561,4,4.5
+ORD01337,24-05-2026,2026,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Grey,46,Male,Finance,137190,1902,7282,4361,131008,4280,142651,116113,26538,14,4.8
+ORD01339,5/12/2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,White,52,Male,Cash,91636,5864,7814,9954,0,3652,99888,75590,24298,5,4.9
+ORD01340,20-10-2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,White,48,Male,Finance,84466,4501,3353,8353,75321,4644,87027,63903,23124,3,4.6
+ORD01347,29-04-2025,2025,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,White,31,Female,Credit Card,210141,3702,6907,8326,203776,2663,219009,173195,45814,10,4.6
+ORD01349,22-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,White,49,Female,Credit Card,139459,383,3792,5125,136279,2797,145196,113743,31453,9,4
+ORD01350,16-05-2025,2025,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Red,53,Male,UPI,92698,3513,4563,2021,85268,3917,91852,70890,20962,5,4
+ORD01357,5/7/2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,20,Female,Cash,139462,5834,6476,6079,0,4283,141900,118019,23881,1,3.7
+ORD01367,2/3/2026,2026,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,CB350,Premium,348,Black,28,Female,Finance,210470,5535,7368,6012,202723,2212,216103,173556,42547,2,3.8
+ORD01373,17-08-2025,2025,8,August,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Black,43,Female,Finance,82240,1469,5669,9130,75927,4844,90726,65420,25306,9,4.8
+ORD01378,29-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,White,23,Female,Credit Card,108517,908,4667,7814,106154,1455,118635,87916,30719,10,4.9
+ORD01379,18-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Black,46,Male,Cash,143097,1514,3986,7124,136797,4786,147907,107098,40809,4,4.2
+ORD01383,3/10/2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,Black,45,Male,Finance,88959,4035,3006,2538,0,3484,86984,68175,18809,8,3.7
+ORD01385,16-01-2026,2026,1,January,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,CB350,Premium,348,Red,40,Male,Cash,211843,5349,3647,4890,204813,1681,213350,177879,35471,6,3.6
+ORD01390,14-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,28,Female,Cash,107615,1614,5810,7230,0,608,118433,86390,32043,5,3.8
+ORD01392,1/7/2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Black,46,Female,Cash,91526,1535,4955,8155,89169,822,102279,67977,34302,1,3.6
+ORD01394,24-03-2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Shine 125,Commuter,125,Grey,25,Male,Cash,89855,1143,6050,6405,84403,4309,96858,67162,29696,4,4.3
+ORD01395,8/10/2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,SP 125,Commuter,125,Red,34,Male,UPI,92967,2107,6473,3619,85974,4886,96066,68639,27427,1,3.7
+ORD01396,19-02-2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Black,39,Female,Cash,84597,3461,7178,4340,77706,3430,89224,60262,28962,8,3.5
+ORD01399,21-12-2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Grey,35,Male,Cash,92394,3353,6192,7092,87090,1951,100374,73764,26610,6,4.9
+ORD01404,4/4/2026,2026,4,April,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Hornet 2.0,Sports,184,Blue,50,Female,Finance,140426,594,6432,8500,0,3119,151645,117672,33973,7,4.7
+ORD01416,20-02-2026,2026,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,SP 125,Commuter,125,White,35,Male,Finance,94627,5714,5395,7850,84750,4163,97995,71416,26579,9,4
+ORD01435,8/9/2026,2026,9,September,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Black,46,Male,UPI,89229,6136,6556,3295,0,2210,90734,71466,19268,4,4
+ORD01436,9/3/2025,2025,3,March,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,41,Female,Finance,142858,4300,3149,5024,0,4535,142196,111196,31000,11,3.9
+ORD01455,26-11-2026,2026,11,November,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,White,24,Male,Cash,78164,364,3409,6679,0,799,87089,65084,22005,12,3.9
+ORD01459,25-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,CB350,Premium,348,Black,51,Female,Finance,212312,2666,6245,7384,208627,1019,222256,158243,64013,9,4.3
+ORD01465,1/7/2026,2026,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Grey,35,Female,Cash,78173,5746,3587,5396,0,621,80789,64915,15874,5,3.5
+ORD01468,20-10-2025,2025,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,26,Male,UPI,107530,2050,6479,7358,102290,3190,116127,85080,31047,4,4.2
+ORD01471,30-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Hornet 2.0,Sports,184,Grey,28,Male,Cash,140299,885,4263,6915,137957,1457,149135,109624,39511,8,4.1
+ORD01479,31-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Activa 6G,Scooter,110,Red,54,Male,UPI,82521,6046,3081,9396,0,3395,85557,65645,19912,1,3.6
+ORD01480,22-10-2026,2026,10,October,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Unicorn,Premium Commuter,160,Blue,30,Female,Finance,108648,4911,7770,9424,102813,924,120007,90223,29784,11,3.9
+ORD01488,23-12-2025,2025,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,Activa 6G,Scooter,110,Blue,27,Female,Cash,83869,4573,3580,5863,76548,2748,85991,66008,19983,6,3.7
+ORD01491,30-07-2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Unicorn,Premium Commuter,160,White,37,Female,UPI,108738,1268,5793,4196,104165,3305,114154,91934,22220,1,4.5
+ORD01492,18-02-2025,2025,2,February,Q1,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Black,53,Male,Finance,94546,3389,7814,6386,89263,1894,103463,70893,32570,15,3.9
+ORD01497,22-05-2026,2026,5,May,Q2,Delhi,New Delhi,Honda Dealer New Delhi,Corporate Sale,Activa 6G,Scooter,110,Red,45,Male,Cash,79312,5468,6486,1302,68970,4874,76758,65587,11171,10,4.2
+ORD01498,16-07-2025,2025,7,July,Q3,Delhi,New Delhi,Honda Dealer New Delhi,Showroom Walk-in,Shine 125,Commuter,125,Black,36,Female,Finance,88647,2124,3409,8832,82990,3533,95231,65764,29467,13,3.8
+ORD01500,19-12-2026,2026,12,December,Q4,Delhi,New Delhi,Honda Dealer New Delhi,Online Booking,SP 125,Commuter,125,Red,37,Male,Finance,92377,4366,3481,6065,84063,3948,93609,67742,25867,11,4.9

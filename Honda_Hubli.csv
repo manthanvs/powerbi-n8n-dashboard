@@ -1,0 +1,98 @@
+Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00032,1/5/2026,2026,5,May,Q2,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,SP 125,Commuter,125,Black,53,Male,Finance,87216,1368,7226,8228,0,4120,97182,69325,27857,5,4.5
+ORD00040,14-09-2026,2026,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,SP 125,Commuter,125,Black,52,Female,UPI,88730,6798,3519,5554,79915,2017,88988,69786,19202,3,3.5
+ORD00050,14-03-2025,2025,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Blue,51,Female,Credit Card,89145,5516,3727,5359,0,810,91905,63879,28026,9,4.5
+ORD00069,6/3/2026,2026,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,SP 125,Commuter,125,Black,55,Female,Cash,91543,57,5301,2852,88542,2944,96695,69636,27059,15,3.8
+ORD00073,16-06-2026,2026,6,June,Q2,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Shine 125,Commuter,125,Grey,52,Male,Credit Card,84617,3186,7103,1527,78742,2689,87372,67803,19569,9,4.2
+ORD00074,21-11-2025,2025,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Shine 125,Commuter,125,Red,23,Female,UPI,88643,3031,7691,3242,0,1676,94869,65286,29583,14,3.8
+ORD00091,9/11/2026,2026,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Activa 6G,Scooter,110,Red,38,Male,UPI,79282,6745,4658,7847,68740,3797,81245,67506,13739,4,4.6
+ORD00114,4/9/2025,2025,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,CB350,Premium,348,Grey,42,Male,UPI,214305,1018,6662,8237,0,3325,224861,160769,64092,4,4.4
+ORD00137,14-11-2025,2025,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,CB350,Premium,348,Red,48,Female,Finance,207528,4509,4181,8681,202207,812,215069,161264,53805,5,3.7
+ORD00154,24-07-2025,2025,7,July,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,SP 125,Commuter,125,Grey,20,Female,Cash,89848,3074,3084,4803,84873,1901,92760,71603,21157,3,4.3
+ORD00172,10/9/2025,2025,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Unicorn,Premium Commuter,160,Grey,45,Male,Credit Card,113911,477,5035,2082,109188,4246,116305,86208,30097,1,3.9
+ORD00181,26-12-2025,2025,12,December,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Hornet 2.0,Sports,184,Grey,29,Female,UPI,143828,2133,3449,3801,0,4514,144431,107107,37324,2,4.5
+ORD00220,28-09-2025,2025,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Grey,30,Female,UPI,86884,4934,7492,8164,77297,4653,92953,63965,28988,9,4.2
+ORD00238,14-03-2025,2025,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,50,Male,UPI,139886,6154,5837,7534,0,1404,145699,108230,37469,3,4.5
+ORD00245,8/4/2026,2026,4,April,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Black,50,Male,Cash,85457,4915,4851,3490,76969,3573,85310,69260,16050,11,3.7
+ORD00261,25-11-2025,2025,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,SP 125,Commuter,125,Blue,43,Male,Cash,92829,1713,3455,2016,0,3233,93354,70224,23130,3,4.9
+ORD00264,2/4/2025,2025,4,April,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Unicorn,Premium Commuter,160,White,31,Female,Cash,108392,69,4010,6698,106321,2002,117029,92092,24937,10,4.5
+ORD00272,3/11/2026,2026,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Hornet 2.0,Sports,184,Blue,50,Male,Credit Card,137372,2157,7852,5341,0,3363,145045,111185,33860,2,4
+ORD00274,7/10/2026,2026,10,October,Q4,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Hornet 2.0,Sports,184,Red,46,Male,UPI,141905,5640,6225,9812,132805,3460,148842,114677,34165,8,4.7
+ORD00280,26-11-2025,2025,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Black,44,Female,Finance,83579,1967,3235,6074,0,1997,88924,70152,18772,13,4
+ORD00284,28-03-2026,2026,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,CB350,Premium,348,White,35,Male,Finance,208866,3805,4100,4554,203291,1770,211945,163229,48716,2,4.7
+ORD00334,13-01-2026,2026,1,January,Q1,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,CB350,Premium,348,White,44,Female,UPI,210251,6322,6630,5915,200350,3579,212895,167512,45383,7,4.4
+ORD00346,14-04-2025,2025,4,April,Q2,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Shine 125,Commuter,125,Red,30,Female,Credit Card,85525,5081,3040,2793,78363,2081,84196,67217,16979,11,5
+ORD00347,13-02-2025,2025,2,February,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,SP 125,Commuter,125,Black,47,Female,Credit Card,90802,5962,3975,6026,83259,1581,93260,71340,21920,11,3.7
+ORD00365,20-07-2026,2026,7,July,Q3,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,White,21,Male,Cash,84971,5819,6793,8521,0,374,94092,68011,26081,14,4.1
+ORD00405,9/11/2026,2026,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Unicorn,Premium Commuter,160,Red,23,Female,Cash,108833,5065,6935,1279,101942,1826,110156,90369,19787,9,4.3
+ORD00410,13-09-2025,2025,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Activa 6G,Scooter,110,Grey,51,Female,Finance,83542,6973,5520,9574,71658,4911,86752,61266,25486,1,4.7
+ORD00427,4/4/2026,2026,4,April,Q2,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Hornet 2.0,Sports,184,Grey,36,Male,UPI,143862,3897,7541,6498,0,1991,152013,111016,40997,5,3.6
+ORD00428,11/9/2026,2026,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,CB350,Premium,348,Grey,51,Male,Credit Card,213122,4394,6443,6380,0,3543,218008,175371,42637,13,4.5
+ORD00466,21-02-2025,2025,2,February,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,SP 125,Commuter,125,Black,38,Male,Credit Card,94076,2481,6457,8904,0,1320,105636,68338,37298,7,3.9
+ORD00474,9/11/2025,2025,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Hornet 2.0,Sports,184,Red,49,Female,Finance,144949,6551,5617,1182,138092,306,144891,108303,36588,4,3.8
+ORD00490,6/11/2026,2026,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Unicorn,Premium Commuter,160,Black,26,Female,UPI,111550,940,6297,8075,0,4407,120575,90411,30164,1,3.9
+ORD00498,29-09-2026,2026,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Unicorn,Premium Commuter,160,Grey,33,Female,UPI,110528,386,7550,8036,109048,1094,124634,92617,32017,14,3.8
+ORD00525,2/10/2026,2026,10,October,Q4,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Blue,30,Female,UPI,82321,6905,7133,1731,71411,4005,80275,71626,8649,4,3.6
+ORD00571,24-01-2025,2025,1,January,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,21,Male,UPI,109142,4791,4741,9936,100285,4066,114962,83404,31558,9,4.9
+ORD00597,4/5/2025,2025,5,May,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Activa 6G,Scooter,110,Black,33,Male,Credit Card,78837,5260,6569,1523,0,340,81329,66512,14817,2,3.9
+ORD00615,7/4/2026,2026,4,April,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,CB350,Premium,348,White,41,Male,UPI,211714,3460,4496,2128,0,2975,211903,165777,46126,14,3.6
+ORD00617,30-05-2025,2025,5,May,Q2,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Unicorn,Premium Commuter,160,Red,32,Female,Cash,111913,6008,7287,7564,0,1880,118876,92989,25887,5,4.9
+ORD00633,11/7/2026,2026,7,July,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Activa 6G,Scooter,110,Black,23,Female,Credit Card,77152,1994,4473,9501,0,3604,85528,63837,21691,14,4.1
+ORD00640,19-10-2025,2025,10,October,Q4,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Activa 6G,Scooter,110,Blue,32,Male,Cash,80018,3938,4951,8613,71690,4390,85254,61757,23497,12,4
+ORD00679,17-05-2025,2025,5,May,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,SP 125,Commuter,125,Blue,42,Female,Credit Card,90057,6112,5485,1120,0,3583,86967,72021,14946,3,4.9
+ORD00681,2/10/2026,2026,10,October,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Activa 6G,Scooter,110,Grey,52,Male,Credit Card,82412,2732,7027,1195,79151,529,87373,65542,21831,4,3.8
+ORD00690,5/7/2025,2025,7,July,Q3,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Activa 6G,Scooter,110,Red,20,Male,Cash,81521,488,3598,8110,80602,431,92310,67187,25123,11,4.9
+ORD00730,14-12-2026,2026,12,December,Q4,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,CB350,Premium,348,Blue,22,Female,UPI,214886,3488,6124,4347,0,3486,218383,159832,58551,12,4.7
+ORD00746,15-09-2025,2025,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Unicorn,Premium Commuter,160,White,45,Female,UPI,111708,5528,3812,6000,101474,4706,111286,89445,21841,4,4.6
+ORD00748,12/3/2025,2025,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,CB350,Premium,348,Blue,35,Female,Cash,213002,3534,5221,5274,0,679,219284,164463,54821,8,3.9
+ORD00757,20-10-2025,2025,10,October,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,SP 125,Commuter,125,Black,20,Male,Credit Card,89221,4194,5850,3526,84541,486,93917,75455,18462,12,4.9
+ORD00758,12/12/2025,2025,12,December,Q4,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Hornet 2.0,Sports,184,White,55,Male,Credit Card,139718,3060,6865,1304,134368,2290,142537,115249,27288,7,4.1
+ORD00760,31-03-2025,2025,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Activa 6G,Scooter,110,Blue,28,Female,UPI,80626,6446,5211,3680,0,3511,79560,63092,16468,12,3.9
+ORD00766,18-09-2025,2025,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,30,Male,UPI,144062,2175,3435,7782,139901,1986,151118,110947,40171,4,4.8
+ORD00800,24-01-2025,2025,1,January,Q1,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,CB350,Premium,348,Red,36,Male,Finance,211397,988,5830,7201,205796,4613,218827,172251,46576,15,3.9
+ORD00814,29-04-2026,2026,4,April,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Grey,28,Female,UPI,84463,3459,6752,8376,0,334,95798,68099,27699,6,3.6
+ORD00851,20-02-2026,2026,2,February,Q1,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Shine 125,Commuter,125,Blue,29,Female,UPI,88389,6701,5514,5157,0,4193,88166,70872,17294,11,4.4
+ORD00860,12/8/2026,2026,8,August,Q3,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Activa 6G,Scooter,110,Red,21,Female,Credit Card,80852,407,3104,1491,76253,4192,80848,65698,15150,14,4.9
+ORD00902,11/3/2025,2025,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Unicorn,Premium Commuter,160,Red,40,Female,UPI,109278,6944,4609,3552,101636,698,109797,87471,22326,12,3.7
+ORD00905,25-01-2025,2025,1,January,Q1,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Shine 125,Commuter,125,Blue,23,Female,Credit Card,82596,4085,5086,4499,0,3734,84362,69895,14467,9,4.9
+ORD00941,30-08-2026,2026,8,August,Q3,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,CB350,Premium,348,Grey,39,Male,Credit Card,210371,4922,4008,3719,201500,3949,209227,158135,51092,11,3.7
+ORD00958,17-11-2025,2025,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Unicorn,Premium Commuter,160,Red,21,Female,Credit Card,110254,1841,6587,6731,104830,3583,118148,89741,28407,10,4.8
+ORD00991,9/9/2026,2026,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Activa 6G,Scooter,110,Grey,33,Female,Finance,83977,6567,4545,9052,73424,3986,87021,62138,24883,11,4.4
+ORD01002,10/2/2026,2026,2,February,Q1,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Unicorn,Premium Commuter,160,Grey,51,Female,UPI,108644,4913,3341,8770,98911,4820,111022,86301,24721,1,3.8
+ORD01006,5/9/2025,2025,9,September,Q3,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,CB350,Premium,348,Red,21,Female,UPI,210847,2529,5890,9471,207829,489,223190,177137,46053,15,4.1
+ORD01007,22-08-2025,2025,8,August,Q3,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Activa 6G,Scooter,110,White,33,Male,Finance,78600,3453,3750,9729,0,2002,86624,62314,24310,7,3.6
+ORD01056,18-11-2025,2025,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Activa 6G,Scooter,110,Blue,25,Male,Cash,81540,6012,7591,5449,73269,2259,86309,65448,20861,6,5
+ORD01059,29-04-2026,2026,4,April,Q2,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Hornet 2.0,Sports,184,White,27,Male,Cash,139718,3291,5857,4831,133152,3275,143840,114024,29816,5,3.9
+ORD01061,7/8/2025,2025,8,August,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Hornet 2.0,Sports,184,Grey,38,Female,Cash,137946,3340,4475,4140,0,2774,140447,108737,31710,15,4
+ORD01065,11/12/2025,2025,12,December,Q4,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Unicorn,Premium Commuter,160,Grey,46,Male,Credit Card,113410,2416,4038,2047,0,2609,114470,88054,26416,11,3.8
+ORD01081,17-10-2026,2026,10,October,Q4,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Activa 6G,Scooter,110,Blue,47,Female,Cash,79157,2652,6358,8179,0,4805,86237,60482,25755,3,4.5
+ORD01087,14-06-2026,2026,6,June,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Activa 6G,Scooter,110,Blue,39,Male,UPI,79485,1232,3991,6668,0,4039,84873,65842,19031,11,4.9
+ORD01121,16-03-2026,2026,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Hornet 2.0,Sports,184,Black,20,Female,UPI,138992,1917,7868,1081,0,1120,144904,117629,27275,13,3.6
+ORD01131,16-08-2026,2026,8,August,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Shine 125,Commuter,125,Blue,35,Female,Credit Card,82229,6574,3090,1247,0,1829,78163,71932,6231,11,4.5
+ORD01132,6/5/2026,2026,5,May,Q2,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Hornet 2.0,Sports,184,White,33,Male,Cash,144380,6837,3799,2545,0,2285,141602,117489,24113,6,3.9
+ORD01143,5/12/2025,2025,12,December,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Activa 6G,Scooter,110,Black,31,Male,Credit Card,84647,3822,5770,3517,80287,538,89574,63919,25655,15,4.7
+ORD01152,7/4/2026,2026,4,April,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Black,23,Male,UPI,82779,3595,4873,1942,0,3354,82645,67800,14845,12,4.5
+ORD01159,10/1/2025,2025,1,January,Q1,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Hornet 2.0,Sports,184,Red,54,Female,Credit Card,139280,4905,6673,9942,133770,605,150385,105060,45325,10,4.5
+ORD01198,17-06-2025,2025,6,June,Q2,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Activa 6G,Scooter,110,Red,54,Female,Finance,84657,1695,7249,6820,82895,67,96964,61958,35006,1,3.9
+ORD01220,28-08-2026,2026,8,August,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Hornet 2.0,Sports,184,White,47,Male,UPI,143039,5155,3269,2431,133052,4832,138752,117341,21411,15,3.8
+ORD01224,25-10-2026,2026,10,October,Q4,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Red,38,Female,UPI,89703,4073,6441,6143,0,3673,94541,69086,25455,8,4.9
+ORD01231,24-03-2026,2026,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Red,27,Female,Cash,85397,5372,7809,9439,0,3368,93905,68284,25621,3,4.7
+ORD01238,27-03-2025,2025,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,CB350,Premium,348,Red,43,Male,Cash,207654,2487,6746,2270,0,3919,210264,172659,37605,4,4.8
+ORD01244,7/11/2026,2026,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Activa 6G,Scooter,110,Black,54,Female,Finance,82659,1897,4522,6842,77349,3413,88713,61355,27358,3,4.6
+ORD01250,10/6/2026,2026,6,June,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,SP 125,Commuter,125,Black,27,Male,Finance,87234,656,5365,6266,82824,3754,94455,68041,26414,9,4.7
+ORD01260,5/2/2025,2025,2,February,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Activa 6G,Scooter,110,Blue,23,Female,Cash,83875,5374,6012,9338,0,1090,92761,60284,32477,7,4.9
+ORD01263,23-03-2025,2025,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Activa 6G,Scooter,110,Blue,26,Male,Finance,84245,2036,3286,4704,77739,4470,85729,63582,22147,4,3.9
+ORD01286,29-11-2025,2025,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Activa 6G,Scooter,110,Red,35,Female,Cash,82600,6155,7057,4068,76372,73,87497,62107,25390,10,4.8
+ORD01304,22-04-2026,2026,4,April,Q2,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,CB350,Premium,348,White,32,Male,UPI,212732,5000,6301,3311,0,1692,215652,175842,39810,12,4.7
+ORD01323,3/11/2025,2025,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Shine 125,Commuter,125,Blue,50,Male,Cash,84608,1514,7845,5309,79082,4012,92236,66493,25743,14,4.5
+ORD01327,25-03-2026,2026,3,March,Q1,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Blue,48,Male,Finance,82359,1904,6475,5398,0,2351,89977,68981,20996,3,3.5
+ORD01344,13-04-2025,2025,4,April,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Activa 6G,Scooter,110,Blue,47,Male,UPI,84909,4585,6469,1149,76450,3874,84068,64247,19821,7,4.6
+ORD01345,21-12-2025,2025,12,December,Q4,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,33,Male,Finance,112885,4877,5918,7235,103152,4856,116305,88805,27500,13,4.8
+ORD01351,10/7/2026,2026,7,July,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Shine 125,Commuter,125,Blue,46,Female,Credit Card,84870,5936,6923,3430,0,3796,85491,69326,16165,6,4.3
+ORD01368,28-06-2025,2025,6,June,Q2,Karnataka,Hubli,Honda Dealer Hubli,Showroom Walk-in,Shine 125,Commuter,125,Blue,34,Male,UPI,86591,3379,6811,5343,0,4911,90455,70661,19794,15,3.8
+ORD01393,23-11-2025,2025,11,November,Q4,Karnataka,Hubli,Honda Dealer Hubli,Online Booking,Hornet 2.0,Sports,184,Red,33,Female,Finance,144564,2741,6814,9513,138078,3745,154405,105949,48456,6,4.2
+ORD01420,6/2/2025,2025,2,February,Q1,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Activa 6G,Scooter,110,Red,29,Male,Credit Card,82059,2299,4292,7806,78151,1609,90249,61061,29188,7,4.5
+ORD01438,24-08-2026,2026,8,August,Q3,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,CB350,Premium,348,Blue,31,Female,Credit Card,214739,1705,6324,2078,0,3412,218024,160753,57271,5,3.8
+ORD01466,24-02-2025,2025,2,February,Q1,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Hornet 2.0,Sports,184,White,41,Male,Finance,138047,3052,5654,1365,131483,3512,138502,116173,22329,4,3.9
+ORD01476,14-10-2025,2025,10,October,Q4,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,Unicorn,Premium Commuter,160,Red,20,Female,UPI,114444,1862,7906,9688,109818,2764,127412,90262,37150,5,4.9
+ORD01481,23-01-2026,2026,1,January,Q1,Karnataka,Hubli,Honda Dealer Hubli,Corporate Sale,CB350,Premium,348,White,46,Female,UPI,213763,960,6770,7422,211908,895,226100,175458,50642,10,4.3

@@ -1,0 +1,107 @@
+﻿Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00018,30-12-2025,2025,12,December,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,34,Male,Finance,111991,6260,6503,5494,104357,1374,116354,84243,32111,8,4
+ORD00026,29-05-2026,2026,5,May,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,White,38,Female,Credit Card,212283,2842,7732,5393,206791,2650,219916,170407,49509,11,3.6
+ORD00031,13-12-2026,2026,12,December,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Activa 6G,Scooter,110,Blue,42,Male,Finance,77731,3689,3620,1057,73395,647,78072,64036,14036,3,3.6
+ORD00037,17-07-2025,2025,7,July,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,SP 125,Commuter,125,White,29,Male,Cash,90929,1436,7638,2928,86347,3146,96913,73936,22977,5,4.6
+ORD00046,4/3/2026,2026,3,March,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Activa 6G,Scooter,110,Black,42,Female,Cash,81145,3424,7044,1870,0,2458,84177,60804,23373,14,4.2
+ORD00060,22-08-2025,2025,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,SP 125,Commuter,125,Black,37,Female,Cash,94205,5939,3075,3923,0,1101,94163,73321,20842,7,4.1
+ORD00082,25-09-2026,2026,9,September,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,CB350,Premium,348,Blue,27,Female,UPI,207494,6643,4473,3543,196788,4063,204804,166005,38799,2,4.4
+ORD00113,2/5/2025,2025,5,May,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,CB350,Premium,348,Blue,31,Male,Credit Card,213883,1319,3121,4721,0,4807,215599,163705,51894,10,4
+ORD00140,11/4/2026,2026,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,Blue,49,Male,Cash,213358,4131,6153,1262,0,4907,211735,164427,47308,9,3.8
+ORD00191,15-06-2025,2025,6,June,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Shine 125,Commuter,125,Grey,26,Male,Cash,86466,2469,6086,9176,83292,705,98554,64946,33608,1,4
+ORD00232,31-12-2026,2026,12,December,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,Black,23,Male,Finance,210868,6156,5679,9949,200826,3886,216454,177296,39158,11,3.7
+ORD00237,21-08-2025,2025,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,CB350,Premium,348,White,41,Male,Credit Card,208449,916,4886,4270,205381,2152,214537,162433,52104,5,3.6
+ORD00253,22-07-2025,2025,7,July,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,23,Male,UPI,142167,804,5290,3319,137385,3978,145994,118351,27643,15,4.3
+ORD00265,1/9/2026,2026,9,September,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Unicorn,Premium Commuter,160,Black,34,Male,Finance,112869,6017,7892,1105,0,1407,114442,92639,21803,2,4.7
+ORD00269,19-04-2025,2025,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Hornet 2.0,Sports,184,Red,23,Female,UPI,137957,1328,7275,7507,135881,748,150663,114029,36634,4,4.7
+ORD00276,25-04-2025,2025,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,CB350,Premium,348,Grey,55,Female,Cash,212512,1757,4260,6156,208149,2606,218565,162295,56270,1,4.2
+ORD00299,29-05-2025,2025,5,May,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Unicorn,Premium Commuter,160,Grey,25,Female,Cash,109099,5942,7410,8841,99022,4135,115273,85815,29458,12,3.7
+ORD00308,16-04-2026,2026,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Unicorn,Premium Commuter,160,Blue,29,Female,Cash,112067,4227,4365,6723,0,3297,115631,90571,25060,10,5
+ORD00315,1/11/2025,2025,11,November,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,CB350,Premium,348,White,46,Female,UPI,212342,1023,6349,9761,209082,2237,225192,177380,47812,1,3.9
+ORD00326,1/4/2025,2025,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Activa 6G,Scooter,110,Black,54,Male,Cash,82554,3140,4278,3313,74961,4453,82552,62831,19721,12,4.1
+ORD00336,21-09-2026,2026,9,September,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Shine 125,Commuter,125,Blue,33,Male,UPI,87445,4485,3533,7427,0,964,92956,66680,26276,13,3.5
+ORD00345,22-03-2026,2026,3,March,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,Grey,20,Male,UPI,208806,5897,7625,1269,0,616,211187,173752,37435,3,4.9
+ORD00352,30-10-2025,2025,10,October,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Hornet 2.0,Sports,184,Black,40,Female,Cash,139203,473,5896,6157,135567,3163,147620,117855,29765,5,4.7
+ORD00359,11/10/2026,2026,10,October,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,CB350,Premium,348,Blue,40,Female,Finance,207848,326,7388,4885,0,1497,218298,177697,40601,14,3.6
+ORD00379,2/1/2025,2025,1,January,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,CB350,Premium,348,Grey,26,Female,Finance,211270,4170,3983,4021,205050,2050,213054,165642,47412,11,5
+ORD00388,18-06-2025,2025,6,June,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Hornet 2.0,Sports,184,White,52,Female,UPI,140008,5630,3928,1245,0,1640,137911,107787,30124,9,4.4
+ORD00390,9/8/2025,2025,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Hornet 2.0,Sports,184,White,39,Female,Finance,143140,6991,5426,1361,0,166,142770,109560,33210,4,3.9
+ORD00426,21-02-2025,2025,2,February,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,SP 125,Commuter,125,White,22,Female,UPI,88205,5174,7104,5559,0,2881,92813,69224,23589,4,4.2
+ORD00434,30-11-2026,2026,11,November,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,Red,52,Male,Cash,213806,5677,7983,6743,205507,2622,220233,168688,51545,1,4.8
+ORD00437,7/12/2026,2026,12,December,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Shine 125,Commuter,125,Black,36,Female,Credit Card,84353,1871,7180,6173,81616,866,94969,70681,24288,15,4
+ORD00438,13-08-2025,2025,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,White,24,Male,UPI,209144,2385,3547,7005,203547,3212,214099,163810,50289,11,4.8
+ORD00486,10/10/2025,2025,10,October,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,CB350,Premium,348,Blue,45,Female,Credit Card,207142,5459,4325,9623,198459,3224,212407,161378,51029,3,4.4
+ORD00493,7/5/2026,2026,5,May,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Unicorn,Premium Commuter,160,White,21,Male,Cash,113960,837,5938,2833,109136,3987,117907,90850,27057,11,4.4
+ORD00495,28-02-2025,2025,2,February,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Hornet 2.0,Sports,184,Grey,36,Female,Finance,142327,3401,6282,6302,0,662,150848,108977,41871,14,3.8
+ORD00499,17-09-2026,2026,9,September,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Unicorn,Premium Commuter,160,Red,32,Male,UPI,113848,4063,4233,4944,105373,4412,114550,92317,22233,14,3.7
+ORD00511,26-07-2026,2026,7,July,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Hornet 2.0,Sports,184,Black,53,Male,Cash,138980,5060,5045,9898,129580,4340,144523,109288,35235,12,4.3
+ORD00513,22-02-2026,2026,2,February,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Activa 6G,Scooter,110,Red,25,Female,Cash,77687,4833,4193,7656,69934,2920,81783,64920,16863,15,4.9
+ORD00541,20-09-2025,2025,9,September,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,SP 125,Commuter,125,Blue,54,Female,Finance,90126,4376,5234,9234,0,884,99334,73401,25933,5,3.9
+ORD00567,7/10/2026,2026,10,October,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,50,Female,Cash,113395,2892,6463,6754,107832,2671,121049,85152,35897,13,4.5
+ORD00581,28-04-2026,2026,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,Red,53,Male,Cash,211348,5181,6751,3526,205797,370,216074,176073,40001,10,3.8
+ORD00614,27-01-2025,2025,1,January,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Hornet 2.0,Sports,184,Red,39,Female,Finance,142041,5369,6631,9984,132651,4021,149266,113687,35579,12,4.8
+ORD00618,27-07-2026,2026,7,July,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Activa 6G,Scooter,110,Red,46,Female,Cash,83807,103,6611,8648,79182,4522,94441,63642,30799,4,4.5
+ORD00651,12/4/2026,2026,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Activa 6G,Scooter,110,Blue,40,Male,UPI,80003,1514,7592,1201,0,1798,85484,60688,24796,1,3.8
+ORD00723,9/8/2025,2025,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Shine 125,Commuter,125,Blue,46,Male,Finance,83419,5670,3686,1596,77065,684,82347,70812,11535,4,4.2
+ORD00724,1/2/2025,2025,2,February,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,CB350,Premium,348,Grey,44,Female,Credit Card,213364,5882,5609,8971,203309,4173,217889,170198,47691,11,4.4
+ORD00747,8/4/2026,2026,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Activa 6G,Scooter,110,Red,45,Female,UPI,82421,3277,3402,6290,75422,3722,85114,65322,19792,6,4.6
+ORD00751,13-03-2026,2026,3,March,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Shine 125,Commuter,125,Red,53,Male,Credit Card,87843,3613,4833,2984,0,788,91259,66629,24630,11,4.7
+ORD00761,17-01-2025,2025,1,January,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,SP 125,Commuter,125,Black,51,Male,Cash,89417,1961,4094,8964,84691,2765,97749,68281,29468,15,4.7
+ORD00782,22-07-2025,2025,7,July,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Shine 125,Commuter,125,Red,38,Male,Credit Card,86360,5584,7703,2831,78046,2730,88580,66003,22577,12,4.9
+ORD00783,21-06-2026,2026,6,June,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Unicorn,Premium Commuter,160,Red,24,Male,Finance,111005,3140,3237,3566,0,154,114514,90451,24063,5,3.5
+ORD00785,3/9/2026,2026,9,September,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Hornet 2.0,Sports,184,Black,28,Male,Cash,137076,3437,7713,2076,0,1663,141765,117842,23923,11,5
+ORD00804,19-03-2026,2026,3,March,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Unicorn,Premium Commuter,160,Blue,47,Male,Finance,109266,5120,7834,8267,0,987,119260,85647,33613,11,4.3
+ORD00813,9/6/2026,2026,6,June,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Shine 125,Commuter,125,Black,46,Female,Credit Card,86615,5212,5336,4419,78004,3399,87759,70720,17039,3,4.8
+ORD00824,9/4/2026,2026,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Activa 6G,Scooter,110,Grey,21,Male,UPI,84371,2704,5372,8537,0,6,95570,61415,34155,4,4.1
+ORD00831,20-11-2025,2025,11,November,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,SP 125,Commuter,125,White,29,Female,Credit Card,90348,3360,7898,4842,84979,2009,97719,75641,22078,7,4
+ORD00858,5/6/2025,2025,6,June,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Activa 6G,Scooter,110,Red,37,Female,Cash,77665,709,7358,3778,72058,4898,83194,61489,21705,9,4.1
+ORD00872,9/9/2025,2025,9,September,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Shine 125,Commuter,125,Red,31,Female,Credit Card,86571,5921,7763,3547,76729,3921,88039,71335,16704,6,4.3
+ORD00882,15-08-2026,2026,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,White,36,Male,Cash,210559,5605,7304,1492,201688,3266,210484,174492,35992,15,5
+ORD00893,14-08-2026,2026,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,CB350,Premium,348,Blue,29,Male,Credit Card,208495,812,6971,5944,203768,3915,216683,159236,57447,8,4.6
+ORD00908,5/1/2026,2026,1,January,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Shine 125,Commuter,125,White,29,Male,Finance,86267,6343,3981,8423,75610,4314,88014,68066,19948,3,4.7
+ORD00914,16-08-2025,2025,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Unicorn,Premium Commuter,160,Blue,23,Male,UPI,114052,6833,5079,3843,104880,2339,113802,89814,23988,7,4.3
+ORD00916,25-11-2026,2026,11,November,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Activa 6G,Scooter,110,Black,21,Female,Cash,77310,1076,4207,6717,74392,1842,85316,62151,23165,6,4.4
+ORD00924,18-02-2026,2026,2,February,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,SP 125,Commuter,125,Grey,26,Male,Finance,91117,530,6768,7566,90529,58,104863,68769,36094,13,4.7
+ORD00939,27-06-2025,2025,6,June,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,40,Male,Cash,107486,5835,7291,1774,99610,2041,108675,89409,19266,8,4.8
+ORD00940,6/8/2026,2026,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,Blue,30,Male,Finance,208623,1357,7017,7435,205680,1586,220132,174988,45144,7,4.9
+ORD00945,27-08-2025,2025,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Shine 125,Commuter,125,White,30,Female,Finance,86467,3207,7376,5594,81493,1767,94463,67638,26825,15,4.4
+ORD00960,22-05-2025,2025,5,May,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Shine 125,Commuter,125,Blue,42,Female,Cash,82765,2510,3101,5446,79956,299,88503,70673,17830,10,3.8
+ORD00969,18-06-2025,2025,6,June,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Hornet 2.0,Sports,184,Blue,27,Male,Credit Card,143600,5517,6038,8652,137726,357,152416,110649,41767,6,3.9
+ORD00972,29-11-2026,2026,11,November,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Activa 6G,Scooter,110,White,50,Male,Credit Card,81840,3494,5228,4226,74154,4192,83608,67065,16543,11,3.6
+ORD00985,9/11/2025,2025,11,November,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Unicorn,Premium Commuter,160,White,51,Male,Cash,108698,6188,6331,4215,101258,1252,111804,92911,18893,5,4.2
+ORD00986,23-05-2025,2025,5,May,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Shine 125,Commuter,125,Blue,53,Male,UPI,84289,3102,5918,3272,0,4652,85725,67264,18461,1,4.5
+ORD01016,5/6/2026,2026,6,June,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Shine 125,Commuter,125,Red,25,Female,UPI,86600,1817,3082,9308,80596,4187,92986,70350,22636,5,4.2
+ORD01031,26-11-2025,2025,11,November,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Hornet 2.0,Sports,184,White,36,Female,Cash,137634,5468,5906,2416,0,4089,136399,118970,17429,11,5
+ORD01072,24-12-2026,2026,12,December,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Shine 125,Commuter,125,Red,47,Female,Finance,86962,5140,3982,8178,0,3732,90250,69703,20547,15,3.7
+ORD01092,18-01-2026,2026,1,January,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,46,Male,Cash,111155,3772,7282,8846,107102,281,123230,83735,39495,4,4
+ORD01115,3/5/2026,2026,5,May,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Hornet 2.0,Sports,184,Black,51,Female,Finance,144186,6180,7409,4598,0,490,149523,117177,32346,1,3.8
+ORD01120,19-05-2026,2026,5,May,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Shine 125,Commuter,125,Blue,41,Female,Finance,89443,435,3042,7667,88383,625,99092,69231,29861,1,4.5
+ORD01122,16-08-2026,2026,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,SP 125,Commuter,125,Blue,35,Male,Credit Card,87630,2581,4484,6040,84718,331,95242,72125,23117,13,4.1
+ORD01142,13-02-2026,2026,2,February,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Shine 125,Commuter,125,Black,41,Female,Credit Card,82619,3266,7126,7300,77074,2279,91500,65220,26280,7,4.3
+ORD01178,31-10-2026,2026,10,October,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Unicorn,Premium Commuter,160,Grey,37,Female,Credit Card,114790,2327,7904,4347,0,4001,120713,92411,28302,6,3.7
+ORD01185,16-08-2026,2026,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,SP 125,Commuter,125,White,50,Female,Credit Card,92403,3830,5331,6628,0,4418,96114,72648,23466,9,3.9
+ORD01199,31-01-2026,2026,1,January,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Shine 125,Commuter,125,Blue,35,Male,Credit Card,85766,6616,6282,2123,0,3164,84391,68815,15576,9,4.3
+ORD01205,25-08-2025,2025,8,August,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Activa 6G,Scooter,110,Red,34,Female,Cash,83263,4060,4375,3155,0,1450,85283,66124,19159,1,4.1
+ORD01207,19-04-2025,2025,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Hornet 2.0,Sports,184,Black,35,Female,Cash,140600,3183,7068,1821,0,401,145905,107915,37990,14,4.2
+ORD01222,14-05-2025,2025,5,May,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Shine 125,Commuter,125,Red,28,Female,Cash,82908,3761,5801,9695,74565,4582,90061,70184,19877,9,3.8
+ORD01230,24-10-2025,2025,10,October,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Activa 6G,Scooter,110,Red,48,Female,Cash,78581,2187,6958,6678,75921,473,89557,67392,22165,2,4.5
+ORD01234,11/10/2025,2025,10,October,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,34,Male,Credit Card,107917,1360,5482,9058,101896,4661,116436,88101,28335,8,3.8
+ORD01235,7/10/2025,2025,10,October,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Hornet 2.0,Sports,184,White,48,Male,Finance,143928,4810,7528,5602,138637,481,151767,115507,36260,6,4.3
+ORD01251,29-06-2026,2026,6,June,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,CB350,Premium,348,Blue,48,Male,Credit Card,213237,2736,6292,9669,209398,1103,225359,169314,56045,12,4.8
+ORD01294,19-01-2026,2026,1,January,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Shine 125,Commuter,125,Blue,42,Male,Finance,85384,2175,3867,8384,79239,3970,91490,69041,22449,3,4.3
+ORD01295,5/4/2026,2026,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,Shine 125,Commuter,125,Red,33,Female,Cash,85042,322,6664,4385,84529,191,95578,69610,25968,4,5
+ORD01315,3/3/2026,2026,3,March,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,Black,47,Female,Cash,211624,6033,6618,7334,0,1756,217787,172861,44926,9,4.7
+ORD01319,29-04-2026,2026,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,SP 125,Commuter,125,White,50,Female,Cash,87864,1092,7547,4560,81802,4970,93909,73519,20390,1,4.2
+ORD01324,2/4/2026,2026,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,SP 125,Commuter,125,Blue,33,Male,UPI,94034,97,5561,2991,0,2595,99894,69562,30332,2,4.9
+ORD01333,26-09-2026,2026,9,September,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Activa 6G,Scooter,110,Black,36,Male,Credit Card,78008,4595,7665,4460,69352,4061,81477,62909,18568,3,4.1
+ORD01342,25-07-2025,2025,7,July,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,23,Female,Finance,107096,4086,5353,1737,0,1561,108539,91159,17380,8,4
+ORD01364,23-02-2026,2026,2,February,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Shine 125,Commuter,125,Black,51,Female,UPI,83378,6809,3678,6698,74355,2214,84731,70482,14249,6,3.5
+ORD01381,23-02-2025,2025,2,February,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Unicorn,Premium Commuter,160,Black,51,Female,Finance,112649,1959,6781,3284,0,3624,117131,91171,25960,4,3.6
+ORD01382,28-10-2025,2025,10,October,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,Hornet 2.0,Sports,184,Black,29,Male,Finance,142047,4009,3787,1853,135665,2373,141305,116238,25067,3,4.3
+ORD01388,20-12-2025,2025,12,December,Q4,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,CB350,Premium,348,Grey,28,Male,Credit Card,207481,704,3830,4538,0,2951,212194,164790,47404,9,4.6
+ORD01401,22-07-2026,2026,7,July,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,SP 125,Commuter,125,Grey,31,Male,Credit Card,92212,3542,6278,2084,0,3948,93084,68768,24316,12,3.6
+ORD01406,28-02-2025,2025,2,February,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Corporate Sale,SP 125,Commuter,125,Blue,27,Female,UPI,93684,4963,3336,6148,86784,1937,96268,74903,21365,6,5
+ORD01453,26-03-2025,2025,3,March,Q1,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,CB350,Premium,348,White,29,Female,UPI,211990,4722,5912,4784,205624,1644,216320,169784,46536,10,4.1
+ORD01461,25-07-2026,2026,7,July,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Activa 6G,Scooter,110,Black,54,Female,Cash,80699,2656,4578,6925,0,3269,86277,63034,23243,9,4
+ORD01462,20-07-2025,2025,7,July,Q3,Uttar Pradesh,Noida,Honda Dealer Noida,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,28,Male,Finance,110553,78,5487,6752,0,1005,121709,85450,36259,14,4.7
+ORD01473,7/4/2025,2025,4,April,Q2,Uttar Pradesh,Noida,Honda Dealer Noida,Online Booking,SP 125,Commuter,125,White,27,Female,Cash,93873,5375,6100,3257,88427,71,97784,74506,23278,14,4.4

@@ -1,0 +1,124 @@
+Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00005,23-11-2025,2025,11,November,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Blue,27,Male,Cash,90754,2850,6951,7719,86615,1289,101285,69400,31885,10,4.9
+ORD00028,3/11/2025,2025,11,November,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,SP 125,Commuter,125,Grey,45,Female,Cash,92099,1866,3464,6713,87094,3139,97271,76401,20870,15,4.8
+ORD00041,4/8/2025,2025,8,August,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,CB350,Premium,348,Grey,40,Female,Credit Card,210885,6783,3770,4350,202069,2033,210189,175192,34997,13,4.7
+ORD00044,3/10/2026,2026,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Hornet 2.0,Sports,184,Red,31,Female,Credit Card,144757,4175,7520,6564,140336,246,154420,115313,39107,3,4.3
+ORD00097,9/8/2025,2025,8,August,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Unicorn,Premium Commuter,160,Grey,30,Male,Finance,110340,4077,6058,6521,103952,2311,116531,82855,33676,15,4.1
+ORD00101,27-04-2026,2026,4,April,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,Blue,24,Female,Finance,213263,1047,3672,6032,207898,4318,217602,160110,57492,6,4.9
+ORD00119,27-05-2025,2025,5,May,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,SP 125,Commuter,125,Grey,37,Female,Cash,92863,4781,6432,3591,86340,1742,96363,73732,22631,9,4.3
+ORD00121,22-02-2025,2025,2,February,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,White,21,Female,Finance,214507,2734,7842,8830,0,1571,226874,159029,67845,4,4.2
+ORD00124,18-12-2026,2026,12,December,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Shine 125,Commuter,125,Grey,27,Male,Cash,87709,6646,6356,2529,0,2953,86995,69652,17343,2,3.6
+ORD00184,7/12/2025,2025,12,December,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Hornet 2.0,Sports,184,Red,25,Male,Finance,138137,3279,6024,1938,130339,4519,138301,116941,21360,12,4.7
+ORD00199,10/9/2026,2026,9,September,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Hornet 2.0,Sports,184,Blue,43,Male,Credit Card,139468,4130,3078,7109,0,4640,140885,113909,26976,3,3.5
+ORD00209,2/4/2025,2025,4,April,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Shine 125,Commuter,125,White,37,Female,Credit Card,87724,1386,3057,8134,0,4034,93495,65321,28174,14,3.9
+ORD00214,3/3/2025,2025,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Hornet 2.0,Sports,184,White,45,Female,Finance,143479,2491,4477,5899,138524,2464,148900,116639,32261,12,3.5
+ORD00222,19-11-2026,2026,11,November,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Hornet 2.0,Sports,184,Red,44,Male,Finance,141797,1783,5338,5233,139781,233,150352,108346,42006,1,3.6
+ORD00242,26-10-2026,2026,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Black,43,Male,Finance,92969,5361,7983,9274,0,3280,101585,74788,26797,3,3.7
+ORD00244,2/6/2026,2026,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Unicorn,Premium Commuter,160,Blue,26,Female,Cash,114581,5077,7998,4038,0,629,120911,83398,37513,15,4.7
+ORD00249,31-01-2025,2025,1,January,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Unicorn,Premium Commuter,160,Red,54,Male,Finance,110011,921,5230,7192,105478,3612,117900,92104,25796,4,4.7
+ORD00251,26-07-2025,2025,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Hornet 2.0,Sports,184,Black,47,Female,Cash,141213,1651,6836,2002,134951,4611,143789,116462,27327,2,3.7
+ORD00255,25-01-2025,2025,1,January,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,35,Female,UPI,114385,3667,5284,9665,0,2238,123429,82614,40815,13,4.5
+ORD00268,2/4/2025,2025,4,April,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Activa 6G,Scooter,110,Grey,50,Female,UPI,78481,1121,4536,3558,0,2460,82994,67721,15273,7,4.2
+ORD00271,8/7/2026,2026,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,CB350,Premium,348,Black,41,Male,UPI,213105,298,3827,6452,209013,3794,219292,158505,60787,6,4.7
+ORD00303,15-09-2025,2025,9,September,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Shine 125,Commuter,125,Blue,55,Female,Cash,89301,5981,4059,9498,82501,819,96058,68681,27377,10,4.5
+ORD00309,19-03-2025,2025,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,50,Male,UPI,142978,5816,7119,7991,136839,323,151949,118956,32993,4,3.8
+ORD00354,28-02-2026,2026,2,February,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Hornet 2.0,Sports,184,Black,33,Male,UPI,138685,2217,4310,7543,0,4067,144254,112797,31457,4,4.3
+ORD00358,19-09-2026,2026,9,September,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Unicorn,Premium Commuter,160,Black,25,Male,Credit Card,108020,860,7691,5395,103112,4048,116198,89330,26868,13,4.4
+ORD00363,22-09-2025,2025,9,September,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Activa 6G,Scooter,110,Blue,51,Female,Cash,82335,180,7028,5270,0,1955,92498,65684,26814,11,3.7
+ORD00371,28-07-2026,2026,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,CB350,Premium,348,Black,52,Male,Credit Card,212311,6597,6500,8755,0,3215,217754,173245,44509,13,4.7
+ORD00372,18-11-2026,2026,11,November,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Activa 6G,Scooter,110,Blue,43,Female,UPI,79041,6754,4611,9329,0,3391,82836,60138,22698,4,3.9
+ORD00377,8/2/2026,2026,2,February,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Shine 125,Commuter,125,Red,36,Male,Credit Card,82892,5124,3846,5797,0,1880,85531,66168,19363,10,3.9
+ORD00380,30-10-2025,2025,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Activa 6G,Scooter,110,Black,38,Female,UPI,78307,182,4495,7204,0,1729,88095,64051,24044,11,4.9
+ORD00386,28-06-2026,2026,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Activa 6G,Scooter,110,Black,31,Female,UPI,81836,894,3726,9066,0,2191,91543,62771,28772,3,4.5
+ORD00430,8/12/2026,2026,12,December,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,SP 125,Commuter,125,Blue,43,Male,Cash,87347,5107,3349,8431,77954,4286,89734,75078,14656,5,5
+ORD00432,5/9/2026,2026,9,September,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Activa 6G,Scooter,110,Blue,50,Female,Finance,81691,5991,4440,5007,72092,3608,81539,61024,20515,5,4.7
+ORD00441,29-08-2026,2026,8,August,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Unicorn,Premium Commuter,160,Blue,53,Female,UPI,108672,1684,4674,9861,102863,4125,117398,86301,31097,13,4.5
+ORD00453,29-07-2026,2026,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,White,21,Male,Cash,211099,4058,5499,5021,204189,2852,214709,164271,50438,14,5
+ORD00454,28-06-2026,2026,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Unicorn,Premium Commuter,160,Red,49,Male,UPI,108076,3173,7064,4215,0,4544,111638,88786,22852,2,4.4
+ORD00506,13-01-2025,2025,1,January,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,CB350,Premium,348,Blue,53,Male,UPI,207216,5266,4515,4690,0,3327,207828,177433,30395,4,4.7
+ORD00509,19-01-2025,2025,1,January,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Hornet 2.0,Sports,184,Red,50,Male,Credit Card,139212,4422,5020,1628,134391,399,141039,113611,27428,11,4.3
+ORD00512,17-05-2025,2025,5,May,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Hornet 2.0,Sports,184,Grey,39,Male,Finance,144248,1013,4205,1027,0,3343,145124,113698,31426,13,4
+ORD00518,4/3/2026,2026,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Hornet 2.0,Sports,184,Black,26,Male,Credit Card,144626,5950,4422,2095,0,3070,142123,112131,29992,13,4.6
+ORD00549,1/10/2025,2025,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Shine 125,Commuter,125,Grey,53,Male,Credit Card,87372,4386,3869,9281,0,4955,91181,65571,25610,6,3.8
+ORD00551,3/12/2025,2025,12,December,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Activa 6G,Scooter,110,White,30,Male,Credit Card,81272,4956,7900,9250,75658,658,92808,61307,31501,13,4.2
+ORD00573,29-03-2026,2026,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,CB350,Premium,348,Blue,25,Female,Finance,213805,6648,4819,3233,203037,4120,211089,173415,37674,4,4
+ORD00588,16-12-2025,2025,12,December,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,SP 125,Commuter,125,Grey,44,Male,Finance,90305,1839,4787,8488,0,665,101076,76009,25067,6,4
+ORD00598,19-06-2025,2025,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,Grey,50,Male,Credit Card,211713,6938,5837,9139,200849,3926,215825,173046,42779,4,4.1
+ORD00604,2/6/2025,2025,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,CB350,Premium,348,Black,31,Female,Credit Card,213778,5306,5891,2794,0,2685,214472,158213,56259,1,3.6
+ORD00636,31-12-2025,2025,12,December,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,SP 125,Commuter,125,Grey,54,Female,UPI,90724,6573,6206,4036,81157,2994,91399,75329,16070,6,3.8
+ORD00638,30-10-2025,2025,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Hornet 2.0,Sports,184,Grey,42,Male,Cash,141066,1428,5963,7602,136077,3561,149642,114941,34701,13,4
+ORD00644,28-03-2025,2025,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Unicorn,Premium Commuter,160,Red,54,Female,Cash,110739,6560,5069,9811,0,580,118479,82786,35693,5,4.8
+ORD00668,19-07-2026,2026,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Shine 125,Commuter,125,Grey,21,Male,Cash,86020,5270,3565,1835,78655,2095,84055,71695,12360,8,4.2
+ORD00672,7/6/2026,2026,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Shine 125,Commuter,125,Grey,32,Female,Credit Card,82788,4722,3050,5734,74979,3087,83763,65347,18416,10,4.7
+ORD00677,24-06-2025,2025,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Activa 6G,Scooter,110,Grey,35,Female,UPI,79733,5693,4237,9826,0,3675,84428,61604,22824,5,4.9
+ORD00684,19-12-2026,2026,12,December,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Shine 125,Commuter,125,Blue,23,Male,Cash,84514,6553,3144,5506,0,3698,82913,67119,15794,14,4.4
+ORD00692,23-07-2026,2026,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Activa 6G,Scooter,110,Red,41,Male,UPI,84630,2927,4032,5328,78008,3695,87368,62309,25059,8,3.9
+ORD00731,18-06-2026,2026,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Grey,32,Male,Credit Card,91367,1993,4746,5381,85833,3541,95960,72868,23092,9,3.9
+ORD00754,26-02-2025,2025,2,February,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,41,Male,UPI,144361,2518,4667,3901,0,2721,147690,112454,35236,11,4.5
+ORD00762,17-05-2025,2025,5,May,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Grey,39,Male,Cash,88051,457,3171,4121,0,3853,91033,72599,18434,14,4.8
+ORD00775,14-11-2026,2026,11,November,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Hornet 2.0,Sports,184,Black,52,Female,UPI,142413,859,6480,1290,141390,164,149160,113567,35593,9,4.9
+ORD00778,22-09-2026,2026,9,September,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Shine 125,Commuter,125,Red,35,Male,UPI,87100,1978,4385,3324,85074,48,92783,69117,23666,12,4.5
+ORD00793,18-10-2026,2026,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,Black,47,Male,Cash,209528,2533,6114,4347,205817,1178,216278,169599,46679,6,3.7
+ORD00806,20-03-2026,2026,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Activa 6G,Scooter,110,Blue,25,Female,Cash,83250,6957,4192,3749,75247,1046,83188,61739,21449,10,3.5
+ORD00809,22-05-2025,2025,5,May,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,CB350,Premium,348,White,46,Female,Finance,207522,3381,5103,4106,203546,595,212755,176492,36263,1,4.2
+ORD00848,10/6/2026,2026,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Activa 6G,Scooter,110,Red,39,Female,Credit Card,83424,1061,3821,1552,81320,1043,86693,66406,20287,2,4.2
+ORD00855,25-09-2025,2025,9,September,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Shine 125,Commuter,125,Black,52,Male,Finance,82807,2056,3750,4283,75886,4865,83919,69011,14908,8,3.7
+ORD00856,30-06-2026,2026,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,CB350,Premium,348,Red,20,Female,Credit Card,214314,982,3126,9099,212885,447,225110,175663,49447,1,3.8
+ORD00877,25-12-2025,2025,12,December,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Black,29,Female,Credit Card,91509,1687,3801,4844,0,2364,96103,75935,20168,13,3.9
+ORD00879,26-06-2026,2026,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Shine 125,Commuter,125,Red,49,Male,Cash,85636,5772,4141,7565,77882,1982,89588,67616,21972,1,3.6
+ORD00885,8/7/2026,2026,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Shine 125,Commuter,125,Black,43,Male,Credit Card,82190,3476,6415,7826,0,224,92731,70262,22469,4,4.3
+ORD00892,9/3/2026,2026,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,Red,41,Female,Finance,213238,1906,4554,5166,0,903,220149,173362,46787,15,4.2
+ORD00894,3/5/2025,2025,5,May,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,CB350,Premium,348,White,45,Male,Credit Card,207164,1969,5717,6506,200250,4945,212473,162814,49659,6,4.1
+ORD00927,10/7/2025,2025,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,SP 125,Commuter,125,Black,22,Female,Cash,92007,1385,6221,1194,0,2777,95260,73961,21299,11,4.4
+ORD00932,5/1/2025,2025,1,January,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Unicorn,Premium Commuter,160,White,51,Female,Credit Card,109396,4360,4313,3367,104551,485,112231,84130,28101,9,4.1
+ORD00948,21-04-2025,2025,4,April,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,22,Male,Cash,112283,3503,6451,9602,0,475,124358,86586,37772,11,4.7
+ORD00961,13-06-2025,2025,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,CB350,Premium,348,Black,32,Male,Credit Card,212298,6079,4404,7403,202177,4042,213984,171831,42153,4,4.7
+ORD00963,4/10/2026,2026,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,SP 125,Commuter,125,Red,23,Female,UPI,91812,6301,3591,6614,81054,4457,91259,69541,21718,3,4
+ORD00987,16-07-2025,2025,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Shine 125,Commuter,125,Grey,30,Male,Cash,88392,289,4072,4469,88053,50,96594,65113,31481,15,4.7
+ORD00992,27-05-2025,2025,5,May,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,Black,51,Male,UPI,212311,2932,4872,3591,208721,658,217184,162590,54594,7,4.9
+ORD00993,7/5/2025,2025,5,May,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Activa 6G,Scooter,110,Red,55,Female,Finance,81633,513,6974,7910,77073,4047,91957,61774,30183,13,3.8
+ORD00998,16-02-2026,2026,2,February,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Blue,23,Male,Cash,90169,4439,4637,4139,0,3861,90645,76097,14548,4,4.2
+ORD01009,25-03-2025,2025,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,43,Male,UPI,110756,1966,6977,7330,105368,3422,119675,93178,26497,8,4.6
+ORD01013,14-06-2025,2025,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,Grey,48,Female,Finance,208505,5272,5867,8709,199698,3535,214274,162307,51967,1,4.1
+ORD01024,21-04-2026,2026,4,April,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,SP 125,Commuter,125,Red,44,Female,Credit Card,87543,1776,4852,5302,81805,3962,91959,68161,23798,2,4.5
+ORD01029,8/3/2025,2025,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Activa 6G,Scooter,110,Blue,32,Female,Cash,77956,448,7827,1204,0,2200,84339,61831,22508,14,4.3
+ORD01040,23-03-2026,2026,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Hornet 2.0,Sports,184,Grey,36,Male,UPI,140186,1874,4580,8205,0,2512,148585,110598,37987,11,4.8
+ORD01041,24-06-2026,2026,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Grey,29,Male,Cash,91073,2239,4419,4175,0,3248,94180,70477,23703,11,4.3
+ORD01044,5/5/2025,2025,5,May,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Grey,40,Male,Credit Card,90133,2909,7207,7409,85204,2020,99820,76115,23705,13,4.4
+ORD01051,29-07-2025,2025,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,CB350,Premium,348,Grey,39,Female,Finance,213787,1774,3053,6391,0,4230,217227,158047,59180,12,4.2
+ORD01053,19-10-2025,2025,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Shine 125,Commuter,125,Black,24,Male,UPI,89847,1621,5278,3459,86241,1985,94978,70503,24475,4,3.7
+ORD01064,16-02-2026,2026,2,February,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Unicorn,Premium Commuter,160,Grey,40,Female,Cash,113533,2304,5526,8317,110021,1208,123864,83382,40482,9,4.7
+ORD01077,19-02-2025,2025,2,February,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Unicorn,Premium Commuter,160,Red,40,Male,UPI,114954,1403,3353,7668,0,4119,120453,88735,31718,14,4.5
+ORD01093,25-06-2025,2025,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Hornet 2.0,Sports,184,Black,55,Male,Credit Card,137997,5195,5803,5644,128890,3912,140337,113909,26428,7,3.8
+ORD01097,26-06-2025,2025,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Black,35,Male,Finance,94669,1436,4052,3243,91948,1285,99243,72032,27211,5,4
+ORD01119,14-03-2025,2025,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,SP 125,Commuter,125,White,36,Female,Cash,89502,3096,3889,5886,86333,73,96108,74053,22055,14,4.8
+ORD01151,5/7/2025,2025,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Shine 125,Commuter,125,Grey,47,Male,Finance,83855,4978,7302,5965,78634,243,91901,67358,24543,10,3.7
+ORD01166,8/4/2026,2026,4,April,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,33,Male,Credit Card,140057,2587,4544,4821,133426,4044,142791,110213,32578,7,4
+ORD01179,25-10-2026,2026,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Hornet 2.0,Sports,184,Black,50,Male,Credit Card,141853,1732,6019,9764,136934,3187,152717,114811,37906,13,4.4
+ORD01186,11/6/2025,2025,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,CB350,Premium,348,Grey,34,Female,Finance,209888,3899,3300,5828,205286,703,214414,162123,52291,13,4.5
+ORD01188,2/3/2025,2025,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Unicorn,Premium Commuter,160,Red,45,Male,UPI,111083,6636,5397,3068,0,2171,110741,92802,17939,13,3.5
+ORD01202,29-10-2026,2026,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Shine 125,Commuter,125,Red,29,Male,Credit Card,87152,4912,3780,6894,80072,2168,90746,72092,18654,10,4.8
+ORD01225,15-09-2026,2026,9,September,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,Red,28,Female,Finance,211390,119,7451,5277,207309,3962,220037,161264,58773,2,4.8
+ORD01237,27-04-2025,2025,4,April,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Shine 125,Commuter,125,Grey,28,Female,UPI,84479,6716,7557,9342,0,4811,89851,65620,24231,5,4.5
+ORD01239,14-09-2025,2025,9,September,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Activa 6G,Scooter,110,Black,29,Male,Credit Card,79884,5945,7068,5913,0,3263,83657,64784,18873,2,3.6
+ORD01247,17-11-2025,2025,11,November,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Activa 6G,Scooter,110,White,40,Female,Cash,84871,4445,3409,2383,79786,640,85578,64169,21409,1,3.6
+ORD01249,8/2/2026,2026,2,February,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Hornet 2.0,Sports,184,Black,41,Male,Finance,140533,2370,5645,1449,135173,2990,142267,114124,28143,9,3.6
+ORD01290,17-10-2025,2025,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Shine 125,Commuter,125,White,46,Female,Cash,84569,3896,5314,1321,0,933,86375,64900,21475,6,4.2
+ORD01302,11/3/2026,2026,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Black,52,Female,Credit Card,92177,3042,3702,1400,86489,2646,91591,72277,19314,3,4.4
+ORD01312,4/12/2025,2025,12,December,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Shine 125,Commuter,125,White,23,Male,Cash,87778,1681,7709,7597,82131,3966,97437,65963,31474,6,4.1
+ORD01313,3/8/2026,2026,8,August,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,White,28,Female,UPI,92038,6531,6148,6341,84159,1348,96648,70694,25954,15,5
+ORD01326,15-10-2026,2026,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Shine 125,Commuter,125,White,26,Female,Credit Card,82475,1608,5617,4219,79166,1701,89002,67194,21808,1,5
+ORD01328,17-09-2025,2025,9,September,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,SP 125,Commuter,125,Grey,52,Male,Finance,89077,2834,6202,9998,85991,252,102191,75797,26394,12,3.6
+ORD01341,13-06-2025,2025,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Hornet 2.0,Sports,184,Blue,31,Male,Cash,142405,3876,6279,2437,0,3033,144212,114036,30176,14,3.8
+ORD01354,25-04-2025,2025,4,April,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,Blue,44,Female,UPI,210936,3659,4935,4502,207201,76,216638,174536,42102,13,4.8
+ORD01369,2/8/2025,2025,8,August,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,SP 125,Commuter,125,White,47,Female,Cash,89425,5229,6072,6888,80119,4077,93079,75583,17496,3,4.2
+ORD01372,30-10-2025,2025,10,October,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Hornet 2.0,Sports,184,Red,44,Male,Credit Card,143843,1054,4658,8808,138644,4145,152110,114258,37852,15,4.7
+ORD01374,5/6/2026,2026,6,June,Q2,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,SP 125,Commuter,125,Grey,52,Male,Credit Card,94140,1416,7948,4804,0,351,105125,74507,30618,5,4
+ORD01376,17-01-2025,2025,1,January,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Hornet 2.0,Sports,184,Black,32,Female,UPI,138770,3750,5054,1862,0,1742,140194,107182,33012,6,3.7
+ORD01411,24-11-2026,2026,11,November,Q4,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Unicorn,Premium Commuter,160,White,39,Female,UPI,113081,2527,3105,8715,0,2938,119436,86908,32528,2,4.7
+ORD01428,21-03-2025,2025,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,Grey,39,Male,UPI,208488,5997,5901,2836,198688,3803,207425,169177,38248,7,3.5
+ORD01429,16-07-2026,2026,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Hornet 2.0,Sports,184,Red,50,Female,Finance,137021,5855,6839,9916,128367,2799,145122,115773,29349,8,3.6
+ORD01440,26-07-2025,2025,7,July,Q3,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,Activa 6G,Scooter,110,Blue,39,Female,Credit Card,84014,4896,4018,9129,74414,4704,87561,60026,27535,7,4.7
+ORD01451,23-03-2026,2026,3,March,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Online Booking,Hornet 2.0,Sports,184,Blue,21,Female,UPI,139097,3229,5825,9693,0,3086,148300,118543,29757,5,4.7
+ORD01475,20-01-2025,2025,1,January,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Corporate Sale,CB350,Premium,348,White,49,Female,UPI,211290,6353,4445,8797,200932,4005,214174,170126,44048,15,4.7
+ORD01489,17-01-2026,2026,1,January,Q1,Uttar Pradesh,Lucknow,Honda Dealer Lucknow,Showroom Walk-in,Hornet 2.0,Sports,184,Red,22,Male,Cash,144016,3166,7422,6288,139395,1455,153105,105183,47922,6,4

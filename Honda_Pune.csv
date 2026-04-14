@@ -1,0 +1,88 @@
+﻿Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00004,6/5/2026,2026,5,May,Q2,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Hornet 2.0,Sports,184,Grey,24,Male,UPI,141068,5592,3787,9562,0,2396,146429,117282,29147,5,4.9
+ORD00008,3/8/2026,2026,8,August,Q3,Maharashtra,Pune,Honda Dealer Pune,Online Booking,SP 125,Commuter,125,Blue,43,Male,Cash,88106,6711,6320,7383,80671,724,94374,73447,20927,8,4.9
+ORD00009,10/1/2026,2026,1,January,Q1,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Hornet 2.0,Sports,184,Black,25,Female,Finance,143964,6877,5023,9913,0,2877,149146,105060,44086,7,3.7
+ORD00048,31-12-2025,2025,12,December,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Shine 125,Commuter,125,Black,33,Male,Credit Card,89311,6758,6110,9826,0,2285,96204,66671,29533,2,4.7
+ORD00051,20-01-2026,2026,1,January,Q1,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Hornet 2.0,Sports,184,Grey,43,Female,Credit Card,138145,5476,4026,2183,127751,4918,133960,107748,26212,1,4.9
+ORD00066,13-09-2026,2026,9,September,Q3,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Activa 6G,Scooter,110,White,54,Female,Cash,77860,2078,7382,9707,71937,3845,89026,65161,23865,11,4
+ORD00068,19-10-2026,2026,10,October,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,SP 125,Commuter,125,Grey,35,Male,UPI,91164,1430,5515,3232,85976,3758,94723,69175,25548,11,4.1
+ORD00095,8/11/2026,2026,11,November,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,CB350,Premium,348,Black,48,Female,Cash,212127,66,5979,3796,211580,481,221355,158294,63061,12,4.3
+ORD00125,3/3/2026,2026,3,March,Q1,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,27,Male,Credit Card,107045,1094,7611,2498,0,3674,112386,86404,25982,6,3.9
+ORD00129,23-09-2025,2025,9,September,Q3,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Shine 125,Commuter,125,Blue,40,Male,UPI,85200,910,5306,4048,84272,18,93626,66253,27373,9,4.2
+ORD00162,26-07-2026,2026,7,July,Q3,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,SP 125,Commuter,125,Black,43,Male,Finance,93945,3503,7804,8484,87136,3306,103424,73100,30324,11,3.8
+ORD00176,18-03-2025,2025,3,March,Q1,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Activa 6G,Scooter,110,Black,24,Male,Credit Card,84698,2429,5595,1806,81207,1062,88608,65210,23398,11,3.6
+ORD00178,29-08-2025,2025,8,August,Q3,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Shine 125,Commuter,125,Grey,29,Male,Credit Card,89800,1151,4164,6763,85898,2751,96825,64648,32177,2,3.8
+ORD00235,18-08-2026,2026,8,August,Q3,Maharashtra,Pune,Honda Dealer Pune,Online Booking,CB350,Premium,348,Black,38,Male,Credit Card,212269,3657,4931,9358,0,869,222032,170804,51228,4,4.3
+ORD00243,20-02-2026,2026,2,February,Q1,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,CB350,Premium,348,Black,30,Male,UPI,208224,2109,4979,7235,206094,21,218308,169124,49184,12,4.6
+ORD00250,26-04-2026,2026,4,April,Q2,Maharashtra,Pune,Honda Dealer Pune,Online Booking,SP 125,Commuter,125,White,25,Female,Credit Card,93563,5392,5861,5376,0,3214,96194,76303,19891,10,4
+ORD00256,4/11/2026,2026,11,November,Q4,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Activa 6G,Scooter,110,Grey,32,Male,UPI,84099,998,3056,6897,80238,2863,90191,64095,26096,6,4.6
+ORD00302,14-06-2025,2025,6,June,Q2,Maharashtra,Pune,Honda Dealer Pune,Online Booking,CB350,Premium,348,Grey,40,Male,Cash,211306,2515,5602,8485,204563,4228,218650,161458,57192,13,4.7
+ORD00328,20-03-2026,2026,3,March,Q1,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,41,Female,Cash,141053,166,3260,9825,140116,771,153201,109360,43841,15,3.9
+ORD00332,30-04-2026,2026,4,April,Q2,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,SP 125,Commuter,125,Black,21,Male,UPI,93420,3420,7277,1882,85526,4474,94685,69721,24964,5,3.5
+ORD00335,22-09-2025,2025,9,September,Q3,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,SP 125,Commuter,125,Black,42,Male,UPI,87708,2246,4724,6763,82900,2562,94387,68882,25505,9,3.7
+ORD00367,8/1/2026,2026,1,January,Q1,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Shine 125,Commuter,125,Grey,45,Male,Credit Card,82143,124,5800,2300,0,4121,85998,65775,20223,15,4.5
+ORD00393,8/4/2026,2026,4,April,Q2,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,CB350,Premium,348,Red,51,Female,UPI,209350,4607,3603,6967,203290,1453,213860,162746,51114,8,4.3
+ORD00394,8/6/2025,2025,6,June,Q2,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Activa 6G,Scooter,110,White,26,Male,UPI,80715,3106,3842,1602,74450,3159,79894,67621,12273,12,4.7
+ORD00396,31-12-2025,2025,12,December,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Hornet 2.0,Sports,184,White,41,Female,Finance,142757,6556,4554,5760,131266,4935,141580,110873,30707,1,4.5
+ORD00401,1/10/2025,2025,10,October,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,CB350,Premium,348,Black,42,Female,UPI,214788,1473,5146,8059,208714,4601,221919,166507,55412,11,4.1
+ORD00412,23-03-2025,2025,3,March,Q1,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Unicorn,Premium Commuter,160,White,45,Male,Finance,107518,665,7280,2591,105465,1388,115336,92590,22746,5,4.9
+ORD00418,6/2/2026,2026,2,February,Q1,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Activa 6G,Scooter,110,Grey,43,Male,UPI,83470,5419,5020,6631,76657,1394,88308,64844,23464,15,4.3
+ORD00463,12/2/2026,2026,2,February,Q1,Maharashtra,Pune,Honda Dealer Pune,Online Booking,CB350,Premium,348,Black,41,Male,UPI,208567,4943,3166,1122,201302,2322,205590,166396,39194,13,4.7
+ORD00465,4/7/2025,2025,7,July,Q3,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Hornet 2.0,Sports,184,White,22,Male,Finance,142414,5597,7369,8068,132396,4421,147833,111893,35940,7,3.7
+ORD00526,24-12-2026,2026,12,December,Q4,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,CB350,Premium,348,Red,38,Female,Finance,209911,1987,7568,4346,0,4133,215705,168523,47182,14,3.9
+ORD00529,17-11-2026,2026,11,November,Q4,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,CB350,Premium,348,White,52,Male,Finance,210748,4044,6161,9401,0,960,221306,172727,48579,15,4.1
+ORD00530,23-07-2025,2025,7,July,Q3,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Shine 125,Commuter,125,Blue,54,Male,Credit Card,85811,6056,5784,8300,75221,4534,89305,68380,20925,7,3.9
+ORD00531,21-03-2026,2026,3,March,Q1,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Shine 125,Commuter,125,Black,33,Male,Credit Card,85083,4180,5440,5663,79157,1746,90260,69500,20760,1,3.5
+ORD00538,12/5/2026,2026,5,May,Q2,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Shine 125,Commuter,125,Black,45,Female,Finance,88782,3928,7786,4279,81973,2881,94038,64134,29904,8,3.9
+ORD00576,1/2/2026,2026,2,February,Q1,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Activa 6G,Scooter,110,Red,52,Female,Cash,81174,2409,4930,5153,78086,679,88169,60228,27941,3,4.6
+ORD00585,19-09-2025,2025,9,September,Q3,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Unicorn,Premium Commuter,160,Red,52,Female,Cash,112323,1756,5059,8157,0,4498,119285,82659,36626,11,4.8
+ORD00602,5/12/2025,2025,12,December,Q4,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Shine 125,Commuter,125,Blue,33,Male,Credit Card,82242,6561,4636,9887,75029,652,89552,66725,22827,8,4.1
+ORD00608,6/3/2025,2025,3,March,Q1,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,CB350,Premium,348,Grey,29,Female,Cash,211647,518,3015,4486,0,1228,217402,177012,40390,14,4.1
+ORD00619,3/10/2025,2025,10,October,Q4,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,CB350,Premium,348,Blue,49,Female,UPI,209349,2456,3912,8237,205856,1037,218005,173287,44718,9,3.8
+ORD00649,5/3/2026,2026,3,March,Q1,Maharashtra,Pune,Honda Dealer Pune,Online Booking,SP 125,Commuter,125,Grey,37,Male,Finance,87768,6553,4243,6439,77066,4149,87748,76427,11321,7,4.2
+ORD00666,16-12-2026,2026,12,December,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,SP 125,Commuter,125,White,53,Female,Cash,87828,2726,6383,7888,80105,4997,94376,68518,25858,11,4.3
+ORD00682,10/5/2025,2025,5,May,Q2,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Shine 125,Commuter,125,White,37,Male,Credit Card,85253,2932,5413,5388,77723,4598,88524,71181,17343,10,3.6
+ORD00693,11/7/2026,2026,7,July,Q3,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Hornet 2.0,Sports,184,Black,25,Female,UPI,143215,1089,3709,9569,0,860,154544,115473,39071,6,5
+ORD00701,11/10/2025,2025,10,October,Q4,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Shine 125,Commuter,125,Red,55,Male,Credit Card,89797,5875,7437,4951,82142,1780,94530,68499,26031,3,4
+ORD00704,17-06-2026,2026,6,June,Q2,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Unicorn,Premium Commuter,160,Grey,38,Male,Finance,108772,6144,3161,5282,100043,2585,108486,91037,17449,2,4.9
+ORD00765,9/1/2025,2025,1,January,Q1,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Activa 6G,Scooter,110,Black,28,Female,Credit Card,77482,3653,3974,6252,0,4785,79270,60817,18453,14,4
+ORD00768,21-11-2026,2026,11,November,Q4,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,46,Female,Cash,114550,3287,6602,8383,0,4618,121630,90751,30879,13,4.1
+ORD00770,5/7/2026,2026,7,July,Q3,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,SP 125,Commuter,125,Black,26,Female,Finance,90266,6716,4487,5977,0,3279,90735,74474,16261,1,3.7
+ORD00773,30-08-2025,2025,8,August,Q3,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,CB350,Premium,348,Grey,48,Male,Finance,207615,2265,4860,1174,200783,4567,206817,161190,45627,1,4.3
+ORD00779,26-03-2025,2025,3,March,Q1,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Hornet 2.0,Sports,184,Black,44,Female,UPI,139701,1689,7918,9434,0,283,155081,118836,36245,8,4.8
+ORD00780,4/9/2025,2025,9,September,Q3,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Unicorn,Premium Commuter,160,Grey,44,Female,Cash,111453,4850,7081,9191,101789,4814,118061,83251,34810,4,4.4
+ORD00837,25-07-2026,2026,7,July,Q3,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Activa 6G,Scooter,110,Black,30,Male,Cash,81488,5015,6291,9469,0,1210,91023,67889,23134,5,4
+ORD00838,5/10/2025,2025,10,October,Q4,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,SP 125,Commuter,125,Black,44,Male,UPI,87058,1375,5375,3019,0,2477,91600,67737,23863,6,4.1
+ORD00843,2/4/2026,2026,4,April,Q2,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,SP 125,Commuter,125,White,42,Female,Credit Card,92931,1477,7381,8499,88834,2620,104714,70725,33989,3,4.9
+ORD00888,15-11-2025,2025,11,November,Q4,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Activa 6G,Scooter,110,Blue,50,Male,Credit Card,83571,1425,3886,9903,77491,4655,91280,64986,26294,3,4.4
+ORD00900,18-04-2025,2025,4,April,Q2,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Activa 6G,Scooter,110,Black,36,Male,Credit Card,81454,3839,5655,5261,0,659,87872,64520,23352,10,4.4
+ORD00922,1/12/2026,2026,12,December,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Unicorn,Premium Commuter,160,Black,32,Female,Finance,111043,480,3535,8836,0,4112,118822,86870,31952,3,4.8
+ORD00923,12/9/2026,2026,9,September,Q3,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,CB350,Premium,348,Black,31,Male,Cash,209198,1819,4271,6686,0,4542,213794,173290,40504,6,4
+ORD00936,28-10-2025,2025,10,October,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,CB350,Premium,348,Red,41,Female,Cash,214185,4381,4982,9914,0,3750,220950,178167,42783,11,4.1
+ORD00946,5/11/2025,2025,11,November,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Unicorn,Premium Commuter,160,Blue,49,Female,Finance,112793,3325,6144,9420,0,1025,124007,83375,40632,6,4.1
+ORD00950,20-07-2025,2025,7,July,Q3,Maharashtra,Pune,Honda Dealer Pune,Online Booking,SP 125,Commuter,125,Grey,54,Male,Finance,93124,5746,3895,2156,0,4621,88808,71453,17355,13,4.9
+ORD00978,25-10-2026,2026,10,October,Q4,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Unicorn,Premium Commuter,160,Grey,23,Male,Credit Card,112268,628,6566,1113,111471,169,119150,83053,36097,2,3.6
+ORD00999,11/9/2025,2025,9,September,Q3,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Shine 125,Commuter,125,Grey,25,Male,Finance,85722,1265,7171,3327,83678,779,94176,66573,27603,11,3.9
+ORD01012,6/5/2025,2025,5,May,Q2,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,SP 125,Commuter,125,Red,43,Male,Cash,94915,2938,4187,8427,0,992,103599,75308,28291,13,5
+ORD01047,20-07-2025,2025,7,July,Q3,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Activa 6G,Scooter,110,Blue,46,Male,Cash,79482,5225,5313,9457,72528,1729,87298,65473,21825,12,4.7
+ORD01052,1/6/2025,2025,6,June,Q2,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Shine 125,Commuter,125,White,44,Male,Credit Card,84027,1743,7020,9867,77468,4816,94355,65768,28587,2,5
+ORD01079,17-02-2025,2025,2,February,Q1,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Activa 6G,Scooter,110,Black,38,Male,Cash,79699,6744,3346,7402,70816,2139,81564,60646,20918,10,3.9
+ORD01080,6/2/2025,2025,2,February,Q1,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Hornet 2.0,Sports,184,White,23,Female,Finance,143476,5861,7007,9201,133221,4394,149429,112043,37386,12,3.8
+ORD01094,21-06-2025,2025,6,June,Q2,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,SP 125,Commuter,125,Red,53,Female,UPI,89463,3747,3393,8599,81589,4127,93581,70998,22583,14,4.1
+ORD01116,16-12-2026,2026,12,December,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Hornet 2.0,Sports,184,Black,29,Female,Credit Card,140146,3815,6790,3087,0,299,145909,109878,36031,10,4
+ORD01127,20-01-2026,2026,1,January,Q1,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,SP 125,Commuter,125,Red,20,Female,Credit Card,93763,2644,4073,9001,0,2952,101241,73185,28056,11,4.7
+ORD01150,18-04-2026,2026,4,April,Q2,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Hornet 2.0,Sports,184,Red,38,Female,Finance,141940,2774,3166,2683,137099,2067,142948,105767,37181,13,4.4
+ORD01157,15-09-2026,2026,9,September,Q3,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Hornet 2.0,Sports,184,Grey,47,Female,Credit Card,138534,1204,5594,6767,135125,2205,147486,109249,38237,3,4.6
+ORD01194,11/1/2025,2025,1,January,Q1,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Shine 125,Commuter,125,White,53,Female,Cash,82307,921,6735,8960,0,3321,93760,69028,24732,2,3.9
+ORD01218,22-06-2026,2026,6,June,Q2,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Activa 6G,Scooter,110,Black,36,Female,Finance,79757,6478,6533,2731,71011,2268,80275,65916,14359,9,4.5
+ORD01221,30-05-2026,2026,5,May,Q2,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Hornet 2.0,Sports,184,Grey,47,Male,UPI,139785,1302,4316,5314,137865,618,147495,105664,41831,11,4.4
+ORD01228,14-09-2025,2025,9,September,Q3,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,CB350,Premium,348,Grey,45,Male,Credit Card,210085,5794,7172,4212,201939,2352,213323,178486,34837,15,3.9
+ORD01258,20-07-2025,2025,7,July,Q3,Maharashtra,Pune,Honda Dealer Pune,Online Booking,CB350,Premium,348,Black,55,Male,Finance,207600,4077,5747,2225,0,3057,208438,170304,38134,6,4.1
+ORD01268,18-11-2025,2025,11,November,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,CB350,Premium,348,Black,26,Male,Cash,207128,134,5482,4927,204105,2889,214514,162866,51648,11,4.7
+ORD01305,25-09-2026,2026,9,September,Q3,Maharashtra,Pune,Honda Dealer Pune,Online Booking,CB350,Premium,348,Red,35,Male,Finance,212026,5606,7568,7099,206030,390,220697,158192,62505,13,4.1
+ORD01384,19-02-2025,2025,2,February,Q1,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,25,Female,Cash,110766,4237,3254,5424,103404,3125,112082,82898,29184,12,4.6
+ORD01403,11/1/2025,2025,1,January,Q1,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Activa 6G,Scooter,110,Red,29,Male,Credit Card,80066,2773,6273,1614,0,1760,83420,61482,21938,1,5
+ORD01430,24-03-2025,2025,3,March,Q1,Maharashtra,Pune,Honda Dealer Pune,Online Booking,Shine 125,Commuter,125,Black,55,Male,UPI,82366,4191,6068,1447,76974,1201,84489,68372,16117,9,4.7
+ORD01445,21-10-2026,2026,10,October,Q4,Maharashtra,Pune,Honda Dealer Pune,Showroom Walk-in,Activa 6G,Scooter,110,Red,26,Female,Finance,78356,4222,6788,5562,72673,1461,85023,65122,19901,10,4.6
+ORD01452,19-10-2026,2026,10,October,Q4,Maharashtra,Pune,Honda Dealer Pune,Online Booking,SP 125,Commuter,125,Grey,37,Female,Finance,91005,758,3580,6442,0,4022,96247,73051,23196,12,3.5
+ORD01483,18-03-2026,2026,3,March,Q1,Maharashtra,Pune,Honda Dealer Pune,Corporate Sale,Hornet 2.0,Sports,184,White,55,Male,UPI,138115,1898,4336,4591,0,4961,140183,118373,21810,13,4

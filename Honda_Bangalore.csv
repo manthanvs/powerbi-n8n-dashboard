@@ -1,0 +1,108 @@
+Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00010,1/11/2025,2025,11,November,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Unicorn,Premium Commuter,160,Blue,22,Female,Finance,113304,6286,6311,1298,0,4736,109891,84122,25769,14,4.8
+ORD00075,7/9/2025,2025,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,SP 125,Commuter,125,Grey,40,Male,Finance,93196,6669,5907,4820,82373,4154,93100,74252,18848,10,4.1
+ORD00080,15-09-2026,2026,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Unicorn,Premium Commuter,160,Black,55,Male,Cash,109906,1645,7637,3167,104789,3472,115593,87536,28057,1,4.3
+ORD00110,9/5/2026,2026,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,CB350,Premium,348,Blue,53,Female,Cash,209218,6811,7237,1156,0,1352,209448,170882,38566,6,3.5
+ORD00131,23-12-2026,2026,12,December,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,CB350,Premium,348,White,55,Female,Credit Card,214365,2012,5379,3689,212200,153,221268,159874,61394,10,4.3
+ORD00136,28-09-2026,2026,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Activa 6G,Scooter,110,White,31,Male,Finance,77803,2771,3510,3801,0,4090,78253,60950,17303,10,4.8
+ORD00149,17-01-2025,2025,1,January,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Unicorn,Premium Commuter,160,Blue,49,Female,Credit Card,111931,4085,5183,1271,104877,2969,111331,85757,25574,15,4.1
+ORD00168,11/6/2025,2025,6,June,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Activa 6G,Scooter,110,Red,45,Male,UPI,84504,6414,5013,1759,74874,3216,81646,60007,21639,8,4.3
+ORD00189,3/5/2026,2026,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Hornet 2.0,Sports,184,White,26,Male,Finance,142085,6270,3349,7418,132495,3320,143262,115637,27625,15,4.8
+ORD00205,11/2/2026,2026,2,February,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Unicorn,Premium Commuter,160,Black,36,Male,UPI,114624,3009,6168,4443,109426,2189,120037,88995,31042,13,4.6
+ORD00252,3/4/2025,2025,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,CB350,Premium,348,Black,51,Female,Cash,213681,4015,4923,2573,0,2970,214192,163843,50349,1,3.9
+ORD00281,21-03-2025,2025,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Unicorn,Premium Commuter,160,Blue,23,Female,Credit Card,113131,1432,5259,9423,0,3294,123087,85437,37650,14,4.7
+ORD00292,20-07-2025,2025,7,July,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,CB350,Premium,348,White,41,Female,Finance,213549,6572,5488,5105,0,524,217046,176559,40487,7,4.9
+ORD00339,30-04-2026,2026,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Hornet 2.0,Sports,184,Blue,49,Male,UPI,137534,4096,7285,4921,0,3425,142219,106395,35824,12,4.7
+ORD00351,5/12/2025,2025,12,December,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Hornet 2.0,Sports,184,Black,39,Male,Cash,140731,1578,5811,6271,0,3264,147971,118627,29344,10,3.8
+ORD00357,2/1/2025,2025,1,January,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Activa 6G,Scooter,110,Blue,44,Male,Credit Card,82553,3901,6319,5916,77644,1008,89879,64820,25059,6,3.6
+ORD00361,17-10-2026,2026,10,October,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,CB350,Premium,348,Black,52,Female,Finance,214630,1802,4151,1937,0,2875,216041,159502,56539,6,3.9
+ORD00369,1/4/2026,2026,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,31,Female,Finance,114746,827,3781,8589,109613,4306,121983,87815,34168,13,4
+ORD00385,18-10-2026,2026,10,October,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,SP 125,Commuter,125,Blue,26,Female,Finance,92450,5384,5034,3828,0,2323,93605,73881,19724,1,4
+ORD00395,16-11-2025,2025,11,November,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,SP 125,Commuter,125,Red,34,Female,Finance,91635,5607,7337,3031,0,4382,92014,71698,20316,14,3.7
+ORD00398,26-11-2025,2025,11,November,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,CB350,Premium,348,Blue,26,Male,Credit Card,211496,969,4552,1215,206725,3802,212492,169940,42552,12,4.4
+ORD00400,10/4/2025,2025,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Hornet 2.0,Sports,184,Red,26,Male,Credit Card,142897,6491,4560,4099,0,4527,140538,117535,23003,13,4.8
+ORD00403,16-05-2025,2025,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Shine 125,Commuter,125,Red,28,Female,Finance,88694,689,3540,1559,85737,2268,90836,70748,20088,1,4.7
+ORD00411,7/7/2026,2026,7,July,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,SP 125,Commuter,125,Black,46,Male,UPI,89485,6476,6804,6252,0,2246,93819,67668,26151,9,4.9
+ORD00415,23-02-2026,2026,2,February,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,CB350,Premium,348,Blue,35,Female,UPI,207971,5381,3796,8648,0,2129,212905,164899,48006,1,4.1
+ORD00421,20-07-2026,2026,7,July,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Shine 125,Commuter,125,White,33,Female,Cash,85253,257,3937,2295,81970,3026,88202,69588,18614,3,3.7
+ORD00424,28-03-2026,2026,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Shine 125,Commuter,125,Black,45,Female,UPI,84645,442,6162,5628,83949,254,95739,71296,24443,5,4.2
+ORD00429,6/3/2025,2025,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Shine 125,Commuter,125,White,23,Male,Cash,85950,5078,4281,10000,78055,2817,92336,69057,23279,8,3.7
+ORD00447,4/4/2026,2026,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,SP 125,Commuter,125,Grey,52,Female,Cash,94209,6350,4705,9543,0,509,101598,72865,28733,5,5
+ORD00449,26-09-2025,2025,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Hornet 2.0,Sports,184,White,53,Male,Credit Card,140326,1826,5236,3583,0,3541,143778,106990,36788,5,4.6
+ORD00458,1/12/2025,2025,12,December,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Activa 6G,Scooter,110,White,51,Female,Finance,83139,726,7176,7957,79160,3253,94293,66924,27369,8,3.7
+ORD00473,17-02-2025,2025,2,February,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Activa 6G,Scooter,110,Black,25,Male,UPI,81560,415,7991,3964,78609,2536,90564,60514,30050,1,4.4
+ORD00484,18-08-2025,2025,8,August,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Activa 6G,Scooter,110,Blue,28,Female,Finance,80415,3474,4288,5054,75804,1137,85146,63926,21220,6,4.2
+ORD00510,25-03-2026,2026,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Shine 125,Commuter,125,White,41,Male,Credit Card,83083,950,3433,1736,78585,3548,83754,72050,11704,8,4.4
+ORD00517,9/5/2026,2026,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Shine 125,Commuter,125,Grey,53,Female,UPI,83471,4733,3570,3895,0,1872,84331,64299,20032,6,3.5
+ORD00533,15-12-2025,2025,12,December,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,CB350,Premium,348,Grey,39,Male,UPI,213951,4407,6067,9471,0,1386,223696,164975,58721,2,3.5
+ORD00550,11/4/2025,2025,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,SP 125,Commuter,125,Blue,30,Female,Cash,92325,6826,4742,7233,82028,3471,94003,76338,17665,6,4
+ORD00575,15-09-2025,2025,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Unicorn,Premium Commuter,160,White,52,Male,Finance,113953,2068,5630,7768,0,933,124350,87748,36602,1,4.4
+ORD00579,9/3/2025,2025,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Shine 125,Commuter,125,Blue,47,Female,Cash,87508,5325,3868,2247,79713,2470,85828,69532,16296,3,4.2
+ORD00584,4/5/2026,2026,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,SP 125,Commuter,125,White,27,Female,UPI,91853,3318,4327,3461,0,1112,95211,67833,27378,2,3.7
+ORD00593,8/12/2025,2025,12,December,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Hornet 2.0,Sports,184,Grey,40,Female,Credit Card,141267,360,7337,4242,137936,2971,149515,109619,39896,14,4.1
+ORD00599,18-11-2026,2026,11,November,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,SP 125,Commuter,125,Grey,25,Female,UPI,87115,3099,3213,7415,83536,480,94164,73660,20504,8,3.9
+ORD00624,17-09-2026,2026,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,SP 125,Commuter,125,White,51,Male,Cash,90761,3638,6597,6366,85058,2065,98021,69507,28514,7,4.5
+ORD00650,27-05-2025,2025,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,30,Female,Credit Card,141839,4993,4773,2220,133754,3092,140747,108139,32608,5,4.4
+ORD00663,6/3/2026,2026,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Unicorn,Premium Commuter,160,White,53,Female,Credit Card,112613,142,4446,9892,109072,3399,123410,92195,31215,15,4.4
+ORD00667,31-08-2026,2026,8,August,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Shine 125,Commuter,125,Grey,43,Female,UPI,89483,5717,4323,7437,80583,3183,92343,71171,21172,15,4.5
+ORD00674,30-01-2026,2026,1,January,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,SP 125,Commuter,125,Red,28,Female,Credit Card,87933,5810,4649,6305,80181,1942,91135,69143,21992,4,4.5
+ORD00678,8/5/2025,2025,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Hornet 2.0,Sports,184,White,36,Female,Finance,141367,3235,6280,3004,134143,3989,143427,105337,38090,4,4.1
+ORD00686,21-04-2026,2026,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Activa 6G,Scooter,110,Blue,31,Male,Cash,77535,6735,3674,9908,0,3645,80737,67199,13538,14,4.2
+ORD00687,18-03-2025,2025,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,CB350,Premium,348,Grey,22,Male,UPI,213472,3120,7910,9530,209355,997,226795,178477,48318,14,3.8
+ORD00688,30-04-2026,2026,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Unicorn,Premium Commuter,160,Blue,54,Female,Credit Card,112240,4310,4795,3681,0,2433,113973,90173,23800,12,4.7
+ORD00700,4/6/2025,2025,6,June,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Hornet 2.0,Sports,184,White,35,Female,Cash,142177,4816,3219,3710,135552,1809,142481,116857,25624,1,4.4
+ORD00705,2/7/2026,2026,7,July,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,CB350,Premium,348,Blue,30,Male,Credit Card,207569,3699,4193,4023,201021,2849,209237,175352,33885,3,4.8
+ORD00706,13-10-2025,2025,10,October,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,CB350,Premium,348,Black,51,Male,Finance,213228,1509,4392,3155,211283,436,218830,169534,49296,12,4.5
+ORD00708,9/7/2025,2025,7,July,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Hornet 2.0,Sports,184,White,47,Female,UPI,140367,4553,5202,3025,0,4402,139639,107530,32109,2,4.7
+ORD00737,5/5/2026,2026,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,SP 125,Commuter,125,White,24,Female,Cash,90618,2952,5320,6314,87033,633,98667,74233,24434,9,4.5
+ORD00749,27-08-2026,2026,8,August,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Shine 125,Commuter,125,Blue,33,Male,Cash,85520,6222,4942,4454,78214,1084,87610,69016,18594,3,3.9
+ORD00821,28-03-2026,2026,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Unicorn,Premium Commuter,160,Red,37,Male,Credit Card,107600,6071,6583,4741,0,4072,108781,90532,18249,3,4.9
+ORD00846,17-01-2026,2026,1,January,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,CB350,Premium,348,Black,29,Female,Credit Card,207591,806,7391,4586,205469,1316,217446,165444,52002,8,3.7
+ORD00854,30-03-2026,2026,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Activa 6G,Scooter,110,White,54,Female,Cash,79950,6480,6464,2117,70026,3444,78607,64102,14505,5,5
+ORD00859,19-02-2025,2025,2,February,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Shine 125,Commuter,125,White,22,Male,UPI,89586,2769,4384,1371,82124,4693,87879,72242,15637,8,4.1
+ORD00862,25-04-2026,2026,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Shine 125,Commuter,125,Black,50,Male,Finance,89700,6948,4354,3798,0,1773,89131,64061,25070,9,3.7
+ORD00863,26-04-2025,2025,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Shine 125,Commuter,125,White,51,Female,Cash,88902,2647,4508,6249,82494,3761,93251,70558,22693,12,4.4
+ORD00868,22-04-2026,2026,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,SP 125,Commuter,125,Blue,44,Male,UPI,89432,1604,3984,4058,85980,1848,94022,75303,18719,1,3.9
+ORD00871,1/6/2025,2025,6,June,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,CB350,Premium,348,Blue,33,Female,Cash,211894,4760,7122,6000,203595,3539,216717,170688,46029,3,4.1
+ORD00876,30-01-2025,2025,1,January,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Shine 125,Commuter,125,Black,28,Female,Cash,87953,5222,5334,4706,0,3235,89536,64678,24858,8,3.7
+ORD00896,26-09-2026,2026,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Shine 125,Commuter,125,Grey,47,Female,UPI,85250,6891,7180,1383,0,1524,85398,65309,20089,3,5
+ORD00925,17-03-2026,2026,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Activa 6G,Scooter,110,White,37,Male,UPI,77923,1011,7392,7085,0,399,90990,63240,27750,7,3.8
+ORD00928,11/8/2026,2026,8,August,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Shine 125,Commuter,125,Red,45,Male,Cash,84625,1309,3942,1889,81003,2313,86834,67292,19542,11,4.5
+ORD00956,22-02-2025,2025,2,February,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,CB350,Premium,348,Red,38,Female,UPI,212493,489,4103,6896,207128,4876,218127,159930,58197,12,4.4
+ORD00979,7/8/2025,2025,8,August,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,CB350,Premium,348,Blue,26,Male,Credit Card,210682,1170,3456,9098,0,4736,217330,166465,50865,4,4.5
+ORD00990,8/2/2026,2026,2,February,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Shine 125,Commuter,125,Red,40,Female,UPI,88901,6682,3000,1499,80573,1646,85072,70834,14238,4,3.5
+ORD00997,22-11-2026,2026,11,November,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Shine 125,Commuter,125,Black,27,Male,Credit Card,82546,3815,3026,7703,74421,4310,85150,69616,15534,5,3.9
+ORD01005,28-11-2026,2026,11,November,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Hornet 2.0,Sports,184,Blue,42,Female,Finance,137155,5112,3093,1266,131007,1036,135366,108772,26594,10,4.4
+ORD01008,26-03-2026,2026,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Unicorn,Premium Commuter,160,White,25,Female,Cash,113867,1864,5488,2103,0,2978,116616,88246,28370,3,3.6
+ORD01025,2/3/2025,2025,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Shine 125,Commuter,125,Grey,23,Female,Finance,83552,6815,4331,3731,73610,3127,81672,63790,17882,6,4.3
+ORD01036,29-01-2025,2025,1,January,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,CB350,Premium,348,White,45,Female,Credit Card,207780,634,5255,5002,203917,3229,214174,177194,36980,10,3.9
+ORD01066,15-10-2026,2026,10,October,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Shine 125,Commuter,125,Blue,45,Male,Finance,84472,479,5074,1507,80331,3662,86912,71616,15296,12,3.7
+ORD01076,2/6/2025,2025,6,June,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Hornet 2.0,Sports,184,Red,28,Female,Finance,137219,4068,5890,4155,128481,4670,138526,115911,22615,15,3.8
+ORD01088,21-02-2025,2025,2,February,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,23,Female,Finance,113914,510,5464,8809,0,3959,123718,86973,36745,3,4.3
+ORD01124,7/9/2025,2025,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Activa 6G,Scooter,110,Red,36,Female,Finance,79812,2675,5343,7803,0,3691,86592,61167,25425,15,4.4
+ORD01146,9/6/2025,2025,6,June,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Unicorn,Premium Commuter,160,Blue,45,Male,Cash,113079,2198,5928,2081,0,3228,115662,90108,25554,9,4.7
+ORD01148,11/11/2026,2026,11,November,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,32,Female,Cash,110058,2506,6562,1546,106076,1476,114184,88561,25623,15,4.3
+ORD01154,4/4/2025,2025,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Shine 125,Commuter,125,Black,32,Male,UPI,84501,2424,7185,5275,78414,3663,90874,68647,22227,8,4
+ORD01170,19-05-2026,2026,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,SP 125,Commuter,125,Red,50,Female,Credit Card,87109,5164,5000,6330,79770,2175,91100,74258,16842,12,5
+ORD01181,14-05-2025,2025,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,CB350,Premium,348,Grey,26,Male,Credit Card,214446,129,4671,2957,213560,757,221188,167332,53856,3,3.7
+ORD01190,22-07-2026,2026,7,July,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,44,Female,Credit Card,111892,3920,6032,5199,106375,1597,117606,84346,33260,2,4.3
+ORD01191,3/3/2026,2026,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,38,Male,UPI,114143,2639,6577,2609,111446,58,120632,88495,32137,10,4.2
+ORD01213,5/5/2025,2025,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,CB350,Premium,348,Grey,40,Male,UPI,211872,1574,4666,6289,206056,4242,217011,166836,50175,2,4.7
+ORD01214,9/9/2025,2025,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,SP 125,Commuter,125,White,28,Female,Cash,87092,6299,7391,6684,0,2636,92232,68352,23880,4,4.7
+ORD01257,19-05-2026,2026,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Shine 125,Commuter,125,Blue,49,Male,Credit Card,82819,5548,3570,8473,76622,649,88665,71141,17524,3,4.4
+ORD01301,25-10-2026,2026,10,October,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Shine 125,Commuter,125,Red,24,Female,Cash,86546,2866,3927,3394,0,3508,87493,69092,18401,11,4.6
+ORD01307,2/10/2026,2026,10,October,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Activa 6G,Scooter,110,Grey,30,Female,Credit Card,82606,2424,7277,9270,76080,4102,92627,64247,28380,10,4.3
+ORD01318,6/9/2025,2025,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,SP 125,Commuter,125,Red,37,Female,UPI,88676,2433,4520,2078,0,2088,90753,71574,19179,5,4.7
+ORD01329,23-07-2025,2025,7,July,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Activa 6G,Scooter,110,White,49,Female,Cash,82941,5119,7456,6781,74286,3536,88523,65570,22953,11,4.2
+ORD01334,4/3/2025,2025,3,March,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Unicorn,Premium Commuter,160,White,24,Male,UPI,109182,936,6876,7491,0,4162,118451,86752,31699,11,3.7
+ORD01336,23-01-2026,2026,1,January,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Activa 6G,Scooter,110,White,46,Male,Cash,78515,4590,7689,9030,68998,4927,85717,62263,23454,10,5
+ORD01363,26-02-2026,2026,2,February,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,SP 125,Commuter,125,Black,21,Female,Credit Card,87608,3538,6930,8225,0,213,99012,75708,23304,7,4.6
+ORD01370,28-04-2026,2026,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,CB350,Premium,348,Blue,47,Female,Finance,213789,2638,4758,6947,209600,1551,221305,172012,49293,6,4.3
+ORD01407,11/5/2025,2025,5,May,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Hornet 2.0,Sports,184,Blue,37,Female,Credit Card,144968,5940,4022,6999,0,676,149373,117838,31535,3,4.2
+ORD01412,9/12/2026,2026,12,December,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Activa 6G,Scooter,110,Grey,21,Male,Cash,78068,2723,6008,2303,0,630,83026,66999,16027,1,3.8
+ORD01421,7/7/2025,2025,7,July,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Showroom Walk-in,Hornet 2.0,Sports,184,Red,25,Male,Finance,140851,2045,3026,5667,0,437,147062,108036,39026,9,4.9
+ORD01422,10/4/2026,2026,4,April,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Unicorn,Premium Commuter,160,White,40,Female,UPI,107683,1476,5717,4322,105305,902,115344,91761,23583,5,4.7
+ORD01434,26-09-2026,2026,9,September,Q3,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,Hornet 2.0,Sports,184,Red,40,Male,Credit Card,139505,4527,5126,4008,130926,4052,140060,108517,31543,4,4.1
+ORD01446,19-10-2026,2026,10,October,Q4,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Shine 125,Commuter,125,Red,20,Female,Cash,83748,5678,4143,8638,77649,421,90430,69544,20886,3,3.6
+ORD01464,2/2/2026,2026,2,February,Q1,Karnataka,Bangalore,Honda Dealer Bangalore,Corporate Sale,Unicorn,Premium Commuter,160,Black,54,Male,Cash,107075,78,4155,3331,106269,728,113755,91531,22224,5,4.2
+ORD01470,11/6/2026,2026,6,June,Q2,Karnataka,Bangalore,Honda Dealer Bangalore,Online Booking,SP 125,Commuter,125,White,32,Male,Credit Card,92137,1451,3397,5427,0,2434,97076,71668,25408,14,4.4

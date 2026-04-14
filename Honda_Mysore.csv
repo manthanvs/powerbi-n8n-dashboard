@@ -1,0 +1,92 @@
+Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00022,26-07-2025,2025,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,SP 125,Commuter,125,Blue,43,Female,Cash,90319,5392,3888,5351,83722,1205,92961,74062,18899,8,5
+ORD00030,22-12-2025,2025,12,December,Q4,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,CB350,Premium,348,Red,23,Male,Credit Card,214896,5968,3869,9163,0,1652,220308,165021,55287,8,4.3
+ORD00042,17-12-2025,2025,12,December,Q4,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Hornet 2.0,Sports,184,Blue,49,Male,Finance,144601,103,6890,9209,0,4009,156588,111461,45127,11,3.9
+ORD00063,19-01-2025,2025,1,January,Q1,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,SP 125,Commuter,125,Black,45,Male,UPI,94764,3407,6333,5786,0,4502,98974,76372,22602,6,5
+ORD00087,18-04-2025,2025,4,April,Q2,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Hornet 2.0,Sports,184,Black,52,Female,Finance,139479,1264,3544,2065,0,3671,140153,115257,24896,6,3.6
+ORD00109,13-10-2025,2025,10,October,Q4,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Unicorn,Premium Commuter,160,Grey,48,Male,UPI,107890,6511,7483,5603,100639,740,113725,90481,23244,7,4.7
+ORD00112,1/5/2025,2025,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Unicorn,Premium Commuter,160,White,20,Female,Credit Card,110442,4712,6187,2394,0,1812,112499,89436,23063,5,4.2
+ORD00134,21-08-2026,2026,8,August,Q3,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Unicorn,Premium Commuter,160,Black,34,Male,Cash,109411,438,7611,4175,0,3330,117429,89092,28337,10,4.5
+ORD00159,5/12/2026,2026,12,December,Q4,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Unicorn,Premium Commuter,160,White,30,Male,Cash,108395,6235,4457,6211,97930,4230,108598,87623,20975,3,4.3
+ORD00164,28-03-2025,2025,3,March,Q1,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,CB350,Premium,348,Black,23,Male,Credit Card,207509,2716,3184,3302,204532,261,211018,176345,34673,9,3.7
+ORD00169,5/9/2026,2026,9,September,Q3,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Shine 125,Commuter,125,White,52,Female,Finance,89168,3649,5664,4222,80703,4816,90589,71297,19292,10,4.9
+ORD00171,7/2/2025,2025,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Hornet 2.0,Sports,184,Red,44,Male,Finance,139767,4107,5716,1619,130691,4969,138026,115425,22601,5,4.1
+ORD00183,22-02-2026,2026,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,SP 125,Commuter,125,Blue,27,Female,UPI,87729,6895,3940,6137,0,3821,87090,71254,15836,1,4.9
+ORD00185,8/5/2025,2025,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Shine 125,Commuter,125,White,40,Male,Cash,82098,5695,6879,5181,0,2032,86431,68386,18045,13,4.2
+ORD00187,29-03-2025,2025,3,March,Q1,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Unicorn,Premium Commuter,160,White,46,Female,UPI,108561,2388,5221,9036,0,3742,116688,84739,31949,5,4.5
+ORD00210,24-01-2026,2026,1,January,Q1,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Hornet 2.0,Sports,184,Red,50,Female,Cash,142610,1902,6260,6477,0,4328,149117,114644,34473,7,5
+ORD00219,15-09-2026,2026,9,September,Q3,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Hornet 2.0,Sports,184,Red,42,Male,UPI,143499,3472,7723,4114,135346,4681,147183,107819,39364,10,4.3
+ORD00263,25-04-2026,2026,4,April,Q2,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Hornet 2.0,Sports,184,White,55,Male,Cash,141903,278,4486,8854,0,4152,150813,105761,45052,3,3.6
+ORD00275,17-07-2025,2025,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Activa 6G,Scooter,110,White,44,Female,Finance,80941,5467,7354,7916,0,4271,86473,66722,19751,10,3.7
+ORD00286,19-07-2025,2025,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Unicorn,Premium Commuter,160,White,40,Female,Finance,107459,384,3193,8132,106166,909,117491,90255,27236,2,4.6
+ORD00300,26-07-2026,2026,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Unicorn,Premium Commuter,160,Blue,54,Female,UPI,112905,6752,5777,8598,105620,533,119995,92702,27293,4,4.4
+ORD00312,31-03-2026,2026,3,March,Q1,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,CB350,Premium,348,Blue,36,Female,Finance,211799,2597,3378,8968,0,1350,220198,165751,54447,12,4.3
+ORD00323,15-10-2025,2025,10,October,Q4,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,CB350,Premium,348,Grey,21,Female,Credit Card,209733,4883,5853,3854,201613,3237,211320,164389,46931,7,4.7
+ORD00373,14-04-2025,2025,4,April,Q2,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Activa 6G,Scooter,110,Black,48,Female,Finance,84025,1691,7691,5167,78273,4061,91131,62114,29017,6,4.6
+ORD00392,20-01-2026,2026,1,January,Q1,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Shine 125,Commuter,125,White,27,Male,Credit Card,84994,5429,7415,3584,0,1753,88811,71348,17463,5,4
+ORD00409,17-01-2026,2026,1,January,Q1,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Unicorn,Premium Commuter,160,Black,48,Female,Finance,112528,4805,7227,2594,0,912,116632,88445,28187,1,4
+ORD00439,23-05-2026,2026,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,SP 125,Commuter,125,Red,31,Female,Finance,93863,6459,5231,5423,84321,3083,94975,74492,20483,5,3.9
+ORD00457,20-08-2025,2025,8,August,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,SP 125,Commuter,125,Blue,49,Female,UPI,92590,5034,7708,3327,83636,3920,94671,69319,25352,2,4.9
+ORD00480,8/6/2025,2025,6,June,Q2,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Hornet 2.0,Sports,184,Blue,23,Male,Finance,137465,523,7303,3843,136552,390,147698,114755,32943,14,3.7
+ORD00485,26-02-2026,2026,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Hornet 2.0,Sports,184,Red,47,Male,Cash,137056,5917,6382,5990,129741,1398,142113,106534,35579,1,4.6
+ORD00577,1/12/2026,2026,12,December,Q4,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Hornet 2.0,Sports,184,Grey,32,Male,Credit Card,139742,1659,5467,7466,0,2312,148704,117203,31501,14,4.4
+ORD00600,14-01-2025,2025,1,January,Q1,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Shine 125,Commuter,125,Blue,36,Female,Finance,83074,848,3064,6477,78195,4031,87736,69175,18561,7,4.2
+ORD00605,31-10-2025,2025,10,October,Q4,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Shine 125,Commuter,125,Red,34,Male,Cash,83677,1327,5020,8378,0,2559,93189,66662,26527,5,4.8
+ORD00621,22-04-2025,2025,4,April,Q2,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Shine 125,Commuter,125,Blue,55,Male,Cash,84101,235,4734,9910,0,3128,95382,69738,25644,7,4.4
+ORD00652,19-02-2026,2026,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,SP 125,Commuter,125,Blue,42,Male,UPI,94435,3060,6040,4897,0,2425,99887,69924,29963,4,4.9
+ORD00660,10/1/2025,2025,1,January,Q1,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,CB350,Premium,348,Red,51,Female,UPI,210885,6120,7058,8885,201082,3683,217025,160948,56077,3,4.8
+ORD00669,31-08-2026,2026,8,August,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,CB350,Premium,348,Blue,31,Female,UPI,212338,1977,3867,3832,0,4384,213676,176673,37003,8,4.9
+ORD00671,1/2/2026,2026,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,CB350,Premium,348,Blue,22,Female,UPI,209677,795,3023,8281,0,3113,217073,167503,49570,5,4.9
+ORD00689,17-08-2026,2026,8,August,Q3,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,SP 125,Commuter,125,Grey,23,Female,Finance,92462,166,3734,5202,0,2038,99194,67873,31321,14,3.8
+ORD00698,27-05-2026,2026,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,SP 125,Commuter,125,Red,34,Male,Finance,93917,5489,4498,7343,0,981,99288,73342,25946,9,4
+ORD00720,25-07-2026,2026,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Shine 125,Commuter,125,White,29,Female,Credit Card,83708,2290,6773,5689,0,161,93719,67333,26386,2,4.2
+ORD00729,12/5/2026,2026,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Shine 125,Commuter,125,White,31,Male,Finance,85865,3091,5882,5443,78864,3910,90189,66433,23756,14,4.8
+ORD00732,18-10-2026,2026,10,October,Q4,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Hornet 2.0,Sports,184,Black,49,Male,Cash,138617,5507,5299,5695,132260,850,143254,107909,35345,11,4.6
+ORD00743,30-08-2026,2026,8,August,Q3,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Shine 125,Commuter,125,Grey,49,Male,Finance,87936,4337,4149,9316,0,4828,92236,65265,26971,10,4.4
+ORD00745,31-03-2025,2025,3,March,Q1,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Activa 6G,Scooter,110,Black,42,Male,Finance,82068,1278,6843,2693,76142,4648,85678,63016,22662,13,4.4
+ORD00755,26-01-2026,2026,1,January,Q1,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,CB350,Premium,348,White,38,Female,Finance,207181,191,8000,7769,205208,1782,220977,166573,54404,2,4.7
+ORD00769,24-06-2025,2025,6,June,Q2,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,28,Female,Credit Card,141209,892,7565,9798,137008,3309,154371,117595,36776,14,4.1
+ORD00774,10/4/2025,2025,4,April,Q2,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Activa 6G,Scooter,110,Blue,50,Female,Credit Card,78676,4499,4145,2793,70412,3765,77350,65091,12259,14,3.5
+ORD00781,24-02-2026,2026,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,SP 125,Commuter,125,Black,37,Male,Finance,90386,1392,6272,9661,88573,421,104506,76306,28200,5,4.6
+ORD00789,9/11/2026,2026,11,November,Q4,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,CB350,Premium,348,Grey,40,Female,UPI,213875,1508,3043,8494,209424,2943,220961,171898,49063,10,5
+ORD00791,26-05-2025,2025,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,53,Male,Cash,138051,5422,7480,8669,132386,243,148535,110083,38452,11,3.6
+ORD00816,11/11/2026,2026,11,November,Q4,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,CB350,Premium,348,Red,30,Female,Cash,214930,597,6958,6686,0,2679,225298,174402,50896,2,4.2
+ORD00822,16-07-2025,2025,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Unicorn,Premium Commuter,160,Red,55,Male,Cash,109201,1468,3249,6867,0,3551,114298,83081,31217,13,4.1
+ORD00829,30-10-2025,2025,10,October,Q4,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Hornet 2.0,Sports,184,Blue,37,Male,Cash,142544,839,5889,8178,0,3683,152089,107497,44592,14,3.6
+ORD00873,26-08-2026,2026,8,August,Q3,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,SP 125,Commuter,125,White,31,Male,Cash,90403,3773,5503,4801,81799,4831,92103,72365,19738,2,4.4
+ORD00880,18-04-2026,2026,4,April,Q2,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Activa 6G,Scooter,110,Red,27,Female,Cash,84042,716,3131,6377,81234,2092,90742,64357,26385,1,3.9
+ORD00887,1/1/2026,2026,1,January,Q1,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Shine 125,Commuter,125,Blue,22,Male,Cash,88483,291,5682,4345,84072,4120,94099,66080,28019,5,4.6
+ORD00930,13-03-2025,2025,3,March,Q1,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,29,Male,UPI,113768,5686,3046,4040,103245,4837,110331,91748,18583,13,3.9
+ORD00933,7/8/2026,2026,8,August,Q3,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,55,Male,Cash,111198,5212,3064,3946,101222,4764,108232,89942,18290,13,3.9
+ORD00954,28-09-2026,2026,9,September,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Unicorn,Premium Commuter,160,Blue,25,Female,UPI,109223,6288,4110,5199,101289,1646,110598,83889,26709,4,4.4
+ORD00962,16-06-2025,2025,6,June,Q2,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,SP 125,Commuter,125,Grey,53,Female,Cash,91368,2126,3813,3588,87794,1448,95195,67906,27289,2,4.1
+ORD00970,6/2/2025,2025,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,SP 125,Commuter,125,Grey,54,Male,UPI,92318,1482,3370,1706,85846,4990,90922,68821,22101,7,4
+ORD01011,26-11-2026,2026,11,November,Q4,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Shine 125,Commuter,125,White,48,Male,Cash,84782,659,6182,9999,0,1371,98933,64476,34457,1,3.8
+ORD01017,19-02-2026,2026,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,CB350,Premium,348,Black,28,Female,Credit Card,209876,901,6214,7716,0,18,222887,166610,56277,5,4.4
+ORD01022,5/8/2025,2025,8,August,Q3,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Hornet 2.0,Sports,184,Black,23,Female,Cash,143026,382,4892,9749,0,2122,155163,107845,47318,8,4.8
+ORD01035,13-07-2025,2025,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,SP 125,Commuter,125,Blue,22,Female,UPI,92289,5448,7810,9053,0,3594,100110,69251,30859,5,4.3
+ORD01054,25-05-2025,2025,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Hornet 2.0,Sports,184,Black,51,Male,Cash,144197,6002,5176,2943,133512,4683,141631,109023,32608,10,4.2
+ORD01063,14-04-2026,2026,4,April,Q2,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Hornet 2.0,Sports,184,Grey,37,Male,Cash,139499,4744,3918,4167,133348,1407,141433,114710,26723,14,4.7
+ORD01075,2/9/2026,2026,9,September,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Hornet 2.0,Sports,184,Grey,44,Female,UPI,138954,6290,5041,3978,132451,213,141470,115985,25485,14,4.6
+ORD01096,3/5/2026,2026,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Hornet 2.0,Sports,184,Grey,44,Female,UPI,142534,2334,5438,8027,0,1879,151786,116547,35239,6,4
+ORD01113,8/8/2025,2025,8,August,Q3,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,CB350,Premium,348,White,36,Female,Cash,211632,5400,5334,1732,202449,3783,209515,178304,31211,7,4.4
+ORD01128,26-03-2025,2025,3,March,Q1,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,52,Male,UPI,108740,5121,6744,4632,101327,2292,112703,89252,23451,12,3.9
+ORD01134,11/5/2026,2026,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Activa 6G,Scooter,110,Blue,54,Male,UPI,84167,1028,7567,1893,0,2896,89703,61064,28639,9,4.8
+ORD01147,13-05-2025,2025,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Shine 125,Commuter,125,Red,45,Male,UPI,85056,421,4710,6482,83408,1227,94600,68686,25914,10,4.6
+ORD01171,1/7/2026,2026,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Shine 125,Commuter,125,Grey,53,Female,Cash,84614,484,3793,4139,0,878,91184,71232,19952,7,4.7
+ORD01197,11/2/2026,2026,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Unicorn,Premium Commuter,160,Grey,30,Female,Credit Card,111788,828,5960,2644,0,2508,117056,86466,30590,6,4.4
+ORD01209,27-07-2025,2025,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Shine 125,Commuter,125,Grey,44,Male,Cash,84669,3915,4675,3217,78704,2050,86596,66173,20423,15,4.8
+ORD01212,4/10/2025,2025,10,October,Q4,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Activa 6G,Scooter,110,Red,52,Female,UPI,83588,2023,4427,3174,80633,932,88234,65528,22706,8,4.6
+ORD01259,16-05-2026,2026,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Shine 125,Commuter,125,Grey,27,Female,Finance,88975,5062,6902,4751,83197,716,94850,67435,27415,14,4.1
+ORD01271,4/2/2026,2026,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,SP 125,Commuter,125,Grey,30,Female,Cash,87096,2218,6390,8365,0,3996,95637,67922,27715,9,4.8
+ORD01272,6/1/2026,2026,1,January,Q1,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Activa 6G,Scooter,110,Grey,43,Male,Finance,77350,6957,7212,9782,65804,4589,82798,61223,21575,2,3.8
+ORD01285,31-07-2026,2026,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Hornet 2.0,Sports,184,Grey,32,Female,Finance,143338,1041,3821,7779,138973,3324,150573,107673,42900,12,4.1
+ORD01299,1/2/2026,2026,2,February,Q1,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,34,Male,Finance,108073,1728,5651,3991,103082,3263,112724,88442,24282,10,4.6
+ORD01359,29-09-2025,2025,9,September,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Unicorn,Premium Commuter,160,Red,50,Female,UPI,111189,5543,4141,8103,0,3339,114551,88675,25876,13,3.9
+ORD01391,6/3/2025,2025,3,March,Q1,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,SP 125,Commuter,125,Grey,37,Female,Credit Card,90150,5836,5234,7298,0,3077,93769,69327,24442,15,4.7
+ORD01410,30-07-2025,2025,7,July,Q3,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Hornet 2.0,Sports,184,Black,27,Male,Credit Card,141697,4563,5292,5759,136082,1052,147133,109396,37737,8,4.8
+ORD01426,23-05-2026,2026,5,May,Q2,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,Unicorn,Premium Commuter,160,Red,40,Female,Cash,112822,2313,6229,1349,0,3200,114887,86658,28229,7,4.9
+ORD01427,28-09-2025,2025,9,September,Q3,Karnataka,Mysore,Honda Dealer Mysore,Corporate Sale,CB350,Premium,348,Blue,35,Female,Credit Card,213741,4504,7293,7385,0,4463,219452,161939,57513,13,4.5
+ORD01432,6/4/2025,2025,4,April,Q2,Karnataka,Mysore,Honda Dealer Mysore,Showroom Walk-in,SP 125,Commuter,125,Grey,31,Male,Credit Card,93449,1611,5920,7848,90871,967,104639,73622,31017,11,4.4
+ORD01439,10/1/2026,2026,1,January,Q1,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Activa 6G,Scooter,110,Red,34,Female,Cash,83320,6640,4039,1854,73722,2958,79615,65337,14278,7,4.7
+ORD01463,21-11-2026,2026,11,November,Q4,Karnataka,Mysore,Honda Dealer Mysore,Online Booking,Activa 6G,Scooter,110,Black,24,Female,Credit Card,77523,3723,6982,4464,69569,4231,81015,62944,18071,3,3.6

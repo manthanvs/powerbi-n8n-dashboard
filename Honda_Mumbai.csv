@@ -1,0 +1,114 @@
+Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00033,2025-12-01,2025,1,January,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Activa 6G,Scooter,110,Blue,53,Female,Cash,77385,3829,6005,5716,0,991,84286,65750,18536,10,3.9
+ORD00052,21-08-2026,2026,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Shine 125,Commuter,125,White,37,Female,UPI,83199,3426,4360,3644,79480,293,87484,65538,21946,6,4.6
+ORD00072,16-05-2025,2025,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Unicorn,Premium Commuter,160,White,30,Male,UPI,114562,3520,5729,6315,107232,3810,119276,93135,26141,7,4
+ORD00079,18-10-2025,2025,10,October,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Unicorn,Premium Commuter,160,Blue,51,Male,UPI,109183,1625,6463,5709,106785,773,118957,84238,34719,10,4
+ORD00085,30-04-2025,2025,4,April,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Shine 125,Commuter,125,White,32,Female,Cash,82473,2643,6880,5311,78127,1703,90318,71924,18394,4,4.4
+ORD00088,25-01-2025,2025,1,January,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,CB350,Premium,348,Black,28,Male,Finance,210368,5917,5204,7377,201283,3168,213864,177185,36679,11,4.4
+ORD00092,16-08-2026,2026,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,CB350,Premium,348,Black,24,Male,Cash,211705,2069,7394,8014,205485,4151,220893,162070,58823,3,4.7
+ORD00093,25-09-2025,2025,9,September,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Hornet 2.0,Sports,184,Blue,47,Male,UPI,137112,6593,4487,1728,0,2762,133972,113116,20856,7,3.9
+ORD00096,2026-06-03,2026,3,March,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Shine 125,Commuter,125,Grey,40,Female,Finance,84531,5561,4949,3652,0,1079,86492,69232,17260,11,3.5
+ORD00099,2025-11-06,2025,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,SP 125,Commuter,125,Grey,44,Female,Finance,90591,2769,6478,5922,0,3042,97180,71818,25362,4,4.4
+ORD00118,2025-10-06,2025,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Hornet 2.0,Sports,184,Blue,44,Female,Cash,138019,5780,7283,6217,129789,2450,143289,107955,35334,7,4.2
+ORD00120,23-11-2026,2026,11,November,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,SP 125,Commuter,125,Red,45,Female,Finance,88754,6542,6623,2635,79229,2983,88487,73326,15161,1,4.1
+ORD00135,14-02-2025,2025,2,February,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Unicorn,Premium Commuter,160,Grey,25,Female,Credit Card,111409,3819,4331,2213,0,599,113535,92675,20860,6,3.7
+ORD00143,15-10-2025,2025,10,October,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Hornet 2.0,Sports,184,Red,38,Female,Credit Card,139045,5770,7491,9564,132017,1258,149072,115587,33485,15,3.9
+ORD00153,2026-06-12,2026,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,SP 125,Commuter,125,Blue,39,Female,Credit Card,90715,5018,5637,9157,83640,2057,98434,74919,23515,8,4.6
+ORD00166,26-08-2026,2026,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Activa 6G,Scooter,110,Red,49,Female,Cash,81563,2328,5719,4775,0,223,89506,63257,26249,15,4.5
+ORD00180,22-08-2025,2025,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Shine 125,Commuter,125,White,29,Male,Cash,86495,1386,6942,2692,84964,145,94598,64595,30003,10,3.6
+ORD00193,2026-10-07,2026,7,July,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,33,Male,Finance,113783,677,3530,1932,111849,1257,117311,91103,26208,10,4.1
+ORD00207,2025-02-02,2025,2,February,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Shine 125,Commuter,125,Blue,41,Female,Credit Card,83576,278,6663,7851,81659,1639,96173,68298,27875,5,4.7
+ORD00223,2025-10-12,2025,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Shine 125,Commuter,125,Red,55,Female,Cash,85776,903,7633,4195,0,3393,93308,67849,25459,8,4.2
+ORD00236,16-05-2026,2026,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,39,Male,Finance,140760,4738,7881,9511,132341,3681,149733,109452,40281,13,4.3
+ORD00239,23-06-2025,2025,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,SP 125,Commuter,125,White,39,Male,Finance,94531,3113,6927,9500,90119,1299,106546,74021,32525,4,4.4
+ORD00273,30-04-2026,2026,4,April,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,CB350,Premium,348,Red,55,Female,Finance,213257,797,7529,6365,208289,4171,222183,172348,49835,13,4.3
+ORD00285,13-10-2026,2026,10,October,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,SP 125,Commuter,125,White,47,Female,Cash,90629,7,3001,2459,86192,4430,91652,72010,19642,3,4.4
+ORD00287,2025-04-05,2025,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Activa 6G,Scooter,110,White,46,Female,Credit Card,77316,2801,7770,5295,0,3966,83614,65570,18044,9,3.9
+ORD00306,2025-07-06,2025,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,CB350,Premium,348,White,30,Female,Cash,210195,4609,5649,1970,203567,2019,211186,173373,37813,13,4.9
+ORD00333,15-12-2026,2026,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Unicorn,Premium Commuter,160,Black,36,Female,Credit Card,111593,5019,6495,6251,0,2439,116881,89894,26987,4,4.5
+ORD00337,2025-04-03,2025,3,March,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Shine 125,Commuter,125,White,44,Female,Cash,86454,4569,6199,4347,0,4948,87483,66009,21474,8,4.7
+ORD00338,27-10-2025,2025,10,October,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Shine 125,Commuter,125,Black,37,Female,Finance,85479,3159,4719,4092,79998,2322,88809,69639,19170,14,4.5
+ORD00350,2025-03-08,2025,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,21,Male,Cash,109880,1621,4583,2861,0,57,115646,85909,29737,14,4
+ORD00356,27-12-2025,2025,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,SP 125,Commuter,125,Red,25,Male,UPI,94647,793,7292,1980,0,1163,101963,68221,33742,5,4
+ORD00366,2025-11-02,2025,2,February,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Activa 6G,Scooter,110,Red,45,Male,Credit Card,80542,288,3510,4638,77803,2451,85951,66486,19465,1,3.9
+ORD00436,2026-10-12,2026,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,CB350,Premium,348,White,23,Male,Finance,210651,5192,7614,8805,201204,4255,217623,159369,58254,7,4.1
+ORD00440,15-10-2026,2026,10,October,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,21,Male,Finance,143400,1753,7357,2906,137814,3833,148077,116573,31504,10,3.8
+ORD00481,18-05-2025,2025,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Unicorn,Premium Commuter,160,Blue,26,Male,Cash,107517,3572,6407,8437,100214,3731,115058,88249,26809,2,4.2
+ORD00502,16-01-2026,2026,1,January,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Activa 6G,Scooter,110,White,50,Male,Cash,82247,2858,6938,1814,0,2961,85180,67268,17912,7,5
+ORD00514,2026-04-10,2026,10,October,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Shine 125,Commuter,125,White,24,Female,Cash,83273,619,6449,6717,79087,3567,92253,67349,24904,9,4.8
+ORD00519,19-06-2026,2026,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Unicorn,Premium Commuter,160,White,52,Male,UPI,107653,6544,3134,1325,96796,4313,101255,90392,10863,2,4
+ORD00521,18-05-2025,2025,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,SP 125,Commuter,125,Black,37,Female,Cash,91899,6362,4919,7478,84981,556,97378,70790,26588,2,4.3
+ORD00527,2025-06-06,2025,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Red,37,Female,Cash,90683,4029,6051,4936,0,1429,96212,74610,21602,12,4.6
+ORD00536,2026-11-05,2026,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,CB350,Premium,348,Grey,53,Male,Credit Card,208155,5104,3636,6036,0,2715,210008,158152,51856,3,3.5
+ORD00545,20-11-2026,2026,11,November,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,SP 125,Commuter,125,Blue,24,Male,Credit Card,93453,541,3294,5835,89248,3664,98377,69013,29364,1,4.9
+ORD00560,26-07-2026,2026,7,July,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Activa 6G,Scooter,110,White,29,Female,Credit Card,81350,5471,7743,6179,0,4859,84942,65253,19689,1,4.4
+ORD00569,30-12-2026,2026,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,CB350,Premium,348,White,27,Female,Cash,210235,2887,5483,5754,0,2584,216001,168206,47795,1,4.9
+ORD00578,23-01-2026,2026,1,January,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Activa 6G,Scooter,110,Blue,40,Female,Cash,82114,6910,7973,5807,0,1225,87759,62113,25646,4,4.7
+ORD00583,23-08-2026,2026,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,CB350,Premium,348,Black,36,Female,UPI,212271,6199,5673,9772,204736,1336,220181,173857,46324,11,4.7
+ORD00603,2026-05-07,2026,7,July,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Hornet 2.0,Sports,184,Black,49,Female,Finance,142912,2319,7925,3558,139456,1137,150939,109484,41455,9,4.4
+ORD00654,18-08-2025,2025,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Shine 125,Commuter,125,Blue,21,Male,Cash,86556,6181,5394,1567,75534,4841,82495,69660,12835,4,4.6
+ORD00655,2025-07-12,2025,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Hornet 2.0,Sports,184,Red,39,Male,Cash,140969,1893,5241,9397,0,3771,149943,115859,34084,3,5
+ORD00664,16-08-2026,2026,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Hornet 2.0,Sports,184,Red,41,Female,Cash,143627,859,6926,2624,141105,1663,150655,117634,33021,3,4.4
+ORD00676,27-03-2026,2026,3,March,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,CB350,Premium,348,White,34,Male,UPI,208914,2386,7672,3185,204874,1654,215731,168264,47467,11,4.4
+ORD00695,28-01-2025,2025,1,January,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,CB350,Premium,348,Grey,50,Female,Cash,213917,6252,7170,6081,0,3123,217793,168343,49450,8,4.4
+ORD00709,20-12-2025,2025,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,47,Female,Finance,111185,5117,4820,6302,0,1498,115692,90166,25526,6,4.4
+ORD00711,13-05-2026,2026,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Hornet 2.0,Sports,184,Blue,50,Male,Credit Card,139920,166,3387,8028,135500,4254,146915,107957,38958,1,4.7
+ORD00712,15-05-2026,2026,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Shine 125,Commuter,125,Blue,53,Male,Credit Card,87784,6614,5504,9305,0,161,95818,65318,30500,10,4.2
+ORD00718,2025-07-04,2025,4,April,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Blue,44,Female,UPI,87423,3250,4025,4836,0,4120,88914,72917,15997,14,4.7
+ORD00735,13-09-2025,2025,9,September,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,SP 125,Commuter,125,Grey,34,Female,UPI,89046,5952,5224,4114,78132,4962,87470,71486,15984,9,3.8
+ORD00790,2026-05-06,2026,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Hornet 2.0,Sports,184,White,49,Female,Cash,137381,3428,4719,6810,133920,33,145449,107160,38289,15,3.7
+ORD00797,14-03-2025,2025,3,March,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Shine 125,Commuter,125,Red,25,Male,Credit Card,85104,6099,7879,5153,77614,1391,90646,70192,20454,12,4
+ORD00812,25-10-2026,2026,10,October,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,SP 125,Commuter,125,Blue,50,Female,Credit Card,91969,3567,6680,6897,0,560,101419,76115,25304,2,4.8
+ORD00815,18-06-2025,2025,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,53,Male,UPI,142525,235,7210,8649,137564,4726,153423,105550,47873,12,4.7
+ORD00830,29-06-2025,2025,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Activa 6G,Scooter,110,Black,54,Male,Cash,83902,44,7623,6271,0,4516,93236,63433,29803,3,3.9
+ORD00845,14-12-2026,2026,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,CB350,Premium,348,Black,42,Male,Finance,212949,2972,7354,6750,0,1760,222321,159804,62517,10,4.7
+ORD00853,31-03-2025,2025,3,March,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Unicorn,Premium Commuter,160,Blue,43,Male,UPI,109239,3768,7830,2269,0,2245,113325,89771,23554,13,3.8
+ORD00857,2025-10-05,2025,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,CB350,Premium,348,Grey,35,Male,UPI,210704,735,5939,2773,205737,4232,214449,159877,54572,15,4
+ORD00866,14-07-2025,2025,7,July,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,SP 125,Commuter,125,Red,38,Male,Credit Card,90036,5436,3843,5042,83890,710,92775,68821,23954,5,4.9
+ORD00883,2025-03-04,2025,4,April,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Unicorn,Premium Commuter,160,Grey,53,Male,UPI,110238,3216,7969,3389,105647,1375,117005,85493,31512,4,4.2
+ORD00909,13-07-2026,2026,7,July,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Hornet 2.0,Sports,184,Grey,35,Female,Credit Card,137106,4155,3567,8340,130804,2147,142711,117485,25226,9,3.6
+ORD00913,2026-02-08,2026,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Shine 125,Commuter,125,Red,26,Female,Credit Card,82609,5924,7611,8923,73314,3371,89848,64334,25514,7,3.5
+ORD00951,21-02-2025,2025,2,February,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,SP 125,Commuter,125,Blue,45,Male,Cash,92125,4941,5461,2061,83363,3821,90885,69568,21317,13,4.4
+ORD00973,28-12-2025,2025,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Black,29,Male,Finance,89594,2246,5672,4049,85959,1389,95680,70088,25592,12,4.7
+ORD00977,16-07-2025,2025,7,July,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Unicorn,Premium Commuter,160,White,22,Male,UPI,110639,2648,4837,8535,0,238,121125,90204,30921,12,4.1
+ORD01004,31-12-2026,2026,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Unicorn,Premium Commuter,160,White,32,Female,UPI,113006,156,7194,4888,0,3275,121657,84373,37284,15,4.4
+ORD01042,14-11-2025,2025,11,November,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,CB350,Premium,348,Grey,20,Female,Finance,208792,1434,7217,2218,207250,108,216685,157758,58927,5,4.8
+ORD01043,2026-03-09,2026,9,September,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Shine 125,Commuter,125,Red,32,Female,UPI,87487,2031,6458,8477,83428,2028,98363,64837,33526,5,3.9
+ORD01083,16-09-2025,2025,9,September,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Activa 6G,Scooter,110,Blue,35,Female,UPI,83663,1739,4486,7895,81016,908,93397,67391,26006,13,4.3
+ORD01085,27-12-2025,2025,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Blue,55,Female,UPI,89536,6561,6846,4735,78130,4845,89711,71457,18254,5,4.7
+ORD01089,27-06-2025,2025,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Shine 125,Commuter,125,White,55,Male,UPI,89991,3134,3154,9796,84963,1894,97913,64922,32991,14,4.4
+ORD01102,2026-05-09,2026,9,September,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Activa 6G,Scooter,110,Blue,47,Male,Credit Card,80584,6077,7732,4224,73369,1138,85325,66927,18398,11,4.8
+ORD01117,19-04-2025,2025,4,April,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Hornet 2.0,Sports,184,Grey,32,Female,Cash,137187,1878,7612,4322,131538,3771,143472,110690,32782,13,5
+ORD01118,20-07-2026,2026,7,July,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,SP 125,Commuter,125,Grey,39,Male,Cash,90369,6063,5037,7833,0,2918,94258,70886,23372,8,3.9
+ORD01123,20-03-2026,2026,3,March,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Unicorn,Premium Commuter,160,White,38,Female,UPI,110769,2110,7530,1102,104417,4242,113049,87168,25881,8,4.7
+ORD01136,23-12-2025,2025,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Activa 6G,Scooter,110,Red,45,Female,Cash,84362,192,7121,1439,0,3571,89159,65680,23479,7,4.5
+ORD01155,2026-03-11,2026,11,November,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,CB350,Premium,348,White,26,Male,UPI,214161,4066,5926,5894,207027,3068,218847,176760,42087,10,4.2
+ORD01162,18-10-2025,2025,10,October,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Shine 125,Commuter,125,White,35,Male,Credit Card,88162,2675,6922,3799,81121,4366,91842,70150,21692,7,5
+ORD01183,2026-06-04,2026,4,April,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Shine 125,Commuter,125,Red,44,Female,Finance,88710,2540,7130,5633,81268,4902,94031,64083,29948,13,4
+ORD01192,27-02-2026,2026,2,February,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,SP 125,Commuter,125,Red,21,Female,Cash,90537,4089,4140,4317,0,943,93962,71995,21967,5,3.9
+ORD01204,24-01-2025,2025,1,January,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Shine 125,Commuter,125,White,54,Male,Cash,88210,3577,4663,2596,0,1605,90287,64937,25350,7,4.9
+ORD01206,28-05-2025,2025,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,SP 125,Commuter,125,Red,47,Male,Finance,88530,848,3061,7584,82723,4959,93368,71534,21834,9,4.8
+ORD01270,16-08-2025,2025,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Hornet 2.0,Sports,184,Red,39,Male,Finance,140130,3666,6289,1583,135048,1416,142920,114922,27998,2,3.7
+ORD01274,2026-06-02,2026,2,February,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Grey,38,Female,Finance,93860,5829,3559,2557,85326,2705,91442,69578,21864,1,4.1
+ORD01280,2025-09-07,2025,7,July,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Blue,24,Female,Credit Card,87751,6062,7281,4827,78168,3521,90276,76164,14112,9,4.4
+ORD01293,2026-12-12,2026,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Blue,37,Female,UPI,92897,2981,3698,9466,88567,1349,101731,68431,33300,1,3.8
+ORD01306,2026-05-09,2026,9,September,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,CB350,Premium,348,Black,35,Female,Cash,214360,4232,5698,6158,206967,3161,218823,175099,43724,14,3.7
+ORD01309,26-11-2026,2026,11,November,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,CB350,Premium,348,Grey,37,Female,Credit Card,208778,5540,7602,6844,199653,3585,214099,172481,41618,15,4.1
+ORD01321,2025-06-09,2025,9,September,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Hornet 2.0,Sports,184,Red,42,Male,Credit Card,138179,6775,4808,1122,127322,4082,133252,109841,23411,14,4.9
+ORD01322,2026-12-10,2026,10,October,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Blue,54,Male,Credit Card,89310,2732,5891,2450,84251,2327,92592,68517,24075,15,5
+ORD01356,21-11-2026,2026,11,November,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Shine 125,Commuter,125,Blue,26,Male,Cash,86522,5795,7548,3974,0,1539,90710,67428,23282,4,4
+ORD01361,2026-05-02,2026,2,February,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Blue,36,Female,UPI,92227,6235,5975,8348,82621,3371,96944,75881,21063,14,5
+ORD01362,16-07-2026,2026,7,July,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Grey,42,Female,Finance,91955,5336,5463,6477,0,4908,93651,69970,23681,5,4.9
+ORD01371,2026-09-10,2026,10,October,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Unicorn,Premium Commuter,160,Grey,21,Male,Finance,108143,1307,6094,9804,103272,3564,119170,93479,25691,11,3.8
+ORD01387,2026-02-03,2026,3,March,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Activa 6G,Scooter,110,Red,20,Female,UPI,78795,4833,3828,3485,72578,1384,79891,64620,15271,6,3.8
+ORD01402,2026-08-12,2026,12,December,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Hornet 2.0,Sports,184,Red,44,Female,Finance,142984,5678,4397,3472,0,1352,143823,113617,30206,6,3.7
+ORD01418,2025-08-11,2025,11,November,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,Unicorn,Premium Commuter,160,White,39,Male,Finance,114906,160,5162,2900,111884,2862,119946,85904,34042,15,5
+ORD01419,13-01-2026,2026,1,January,Q1,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,CB350,Premium,348,White,51,Male,UPI,210321,2556,6854,9883,202939,4826,219676,164634,55042,7,4.8
+ORD01423,24-05-2025,2025,5,May,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,SP 125,Commuter,125,Grey,42,Male,Credit Card,87859,936,4745,3926,82222,4701,90893,71598,19295,11,4.5
+ORD01431,26-04-2025,2025,4,April,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,SP 125,Commuter,125,Black,30,Male,Credit Card,92327,5632,5376,4176,0,2227,94020,69927,24093,15,3.7
+ORD01441,22-06-2026,2026,6,June,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,CB350,Premium,348,Grey,42,Female,UPI,213518,633,6458,8570,208767,4118,223795,170890,52905,5,4.3
+ORD01485,27-04-2026,2026,4,April,Q2,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Activa 6G,Scooter,110,White,54,Female,UPI,82017,3954,7238,2896,0,3551,84646,62177,22469,15,4.9
+ORD01486,30-08-2026,2026,8,August,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,Activa 6G,Scooter,110,White,23,Female,Cash,80798,3729,5381,1077,73668,3401,80126,61914,18212,4,3.8
+ORD01487,18-09-2026,2026,9,September,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Showroom Walk-in,SP 125,Commuter,125,Red,31,Male,UPI,87443,698,3664,4213,0,4628,89994,75266,14728,10,4.6
+ORD01493,2025-09-07,2025,7,July,Q3,Maharashtra,Mumbai,Honda Dealer Mumbai,Corporate Sale,Unicorn,Premium Commuter,160,Grey,39,Female,UPI,108936,413,7495,7474,105860,2663,120829,86883,33946,5,3.7
+ORD01499,14-11-2026,2026,11,November,Q4,Maharashtra,Mumbai,Honda Dealer Mumbai,Online Booking,SP 125,Commuter,125,Black,33,Female,Credit Card,93138,6665,7355,3098,81726,4747,92179,72782,19397,11,5

@@ -1,0 +1,143 @@
+﻿Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00002,15-01-2025,2025,1,January,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Activa 6G,Scooter,110,White,39,Male,Credit Card,79559,4165,6848,5632,71022,4372,83502,64631,18871,10,3.7
+ORD00006,3/7/2026,2026,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,Unicorn,Premium Commuter,160,Red,52,Female,Cash,112002,4947,4530,6479,102804,4251,113813,87991,25822,14,3.6
+ORD00016,29-12-2025,2025,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Hornet 2.0,Sports,184,Red,26,Female,Cash,140764,3230,3154,6663,0,2023,145328,107973,37355,7,4.2
+ORD00023,27-02-2025,2025,2,February,Q1,Gujarat,Surat,Honda Dealer Surat,Online Booking,Activa 6G,Scooter,110,Grey,43,Male,UPI,79945,4247,4169,5075,74972,726,84216,64863,19353,2,5
+ORD00043,24-11-2026,2026,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,Shine 125,Commuter,125,Grey,31,Female,UPI,83690,4600,5268,9291,0,439,93210,71872,21338,5,4.7
+ORD00057,1/6/2025,2025,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,Unicorn,Premium Commuter,160,Black,27,Female,Finance,113655,3993,5912,9820,105804,3858,121536,90518,31018,11,4.8
+ORD00058,25-07-2026,2026,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Unicorn,Premium Commuter,160,Black,36,Male,UPI,112676,3824,7448,4501,108327,525,120276,86522,33754,1,3.7
+ORD00061,20-06-2026,2026,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,Unicorn,Premium Commuter,160,Blue,21,Male,Credit Card,110274,5635,4942,2879,99963,4676,107784,85195,22589,5,4.6
+ORD00083,30-03-2025,2025,3,March,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,SP 125,Commuter,125,Grey,39,Male,UPI,93218,1093,5696,8882,0,4301,102402,68452,33950,5,5
+ORD00084,11/10/2026,2026,10,October,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Activa 6G,Scooter,110,Black,34,Female,Cash,77791,4610,5910,6267,0,2731,82627,64444,18183,15,4.1
+ORD00103,10/9/2025,2025,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Shine 125,Commuter,125,Red,53,Female,Finance,85847,4592,6942,1633,76389,4866,84964,65213,19751,7,4.4
+ORD00115,7/2/2026,2026,2,February,Q1,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Shine 125,Commuter,125,Black,43,Male,UPI,82176,2078,4711,9183,79429,669,93323,71050,22273,4,4.5
+ORD00123,12/9/2025,2025,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,SP 125,Commuter,125,Blue,34,Male,UPI,87965,4554,6767,1750,79527,3884,88044,74172,13872,11,4
+ORD00130,17-07-2026,2026,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,SP 125,Commuter,125,Black,20,Male,UPI,93536,227,6908,9675,0,4746,105146,68221,36925,10,4.1
+ORD00139,9/9/2025,2025,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Unicorn,Premium Commuter,160,Red,41,Male,Credit Card,107374,5512,6636,3977,98304,3558,108917,89806,19111,8,4.8
+ORD00144,19-11-2025,2025,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,23,Male,Credit Card,139624,5462,7572,1299,0,4288,138745,118776,19969,4,5
+ORD00147,8/1/2026,2026,1,January,Q1,Gujarat,Surat,Honda Dealer Surat,Online Booking,Activa 6G,Scooter,110,Black,29,Male,UPI,79803,4465,3126,7519,70823,4515,81468,61134,20334,2,3.9
+ORD00150,31-05-2026,2026,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Unicorn,Premium Commuter,160,Black,35,Male,Finance,109360,1533,7611,5051,103624,4203,116286,85750,30536,4,3.8
+ORD00152,15-08-2025,2025,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,Blue,34,Male,Finance,142218,3201,4945,1795,138627,390,145367,109391,35976,1,4.6
+ORD00155,16-09-2025,2025,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,SP 125,Commuter,125,White,48,Male,Cash,88645,3307,5716,6131,81220,4118,93067,68379,24688,15,3.8
+ORD00157,7/7/2026,2026,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,Hornet 2.0,Sports,184,White,25,Male,Finance,141265,738,7610,8640,0,456,156321,110719,45602,7,3.9
+ORD00174,10/5/2026,2026,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,41,Male,Cash,110913,2132,3237,2979,0,1790,113207,90342,22865,15,3.8
+ORD00233,16-02-2025,2025,2,February,Q1,Gujarat,Surat,Honda Dealer Surat,Online Booking,CB350,Premium,348,Red,28,Female,Cash,208007,1227,4742,4383,202610,4170,211735,172032,39703,6,3.7
+ORD00240,17-12-2026,2026,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,Shine 125,Commuter,125,White,29,Female,Credit Card,89752,174,3831,7756,0,683,100482,67413,33069,12,4.3
+ORD00248,8/8/2026,2026,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,Grey,37,Male,UPI,142383,372,7408,1014,0,4945,145488,116531,28957,2,4.4
+ORD00257,22-04-2025,2025,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,SP 125,Commuter,125,Black,29,Female,Credit Card,90864,4557,4284,2254,0,1906,90939,74067,16872,13,4.4
+ORD00283,30-11-2025,2025,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Shine 125,Commuter,125,Grey,24,Female,Credit Card,84539,3644,5016,2641,80287,608,87944,66083,21861,10,3.9
+ORD00316,27-08-2025,2025,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,Hornet 2.0,Sports,184,Red,37,Female,Credit Card,139773,2505,3061,6766,0,2482,144613,110577,34036,8,3.9
+ORD00360,11/8/2026,2026,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,CB350,Premium,348,Blue,33,Female,Finance,208048,2187,6132,5778,202554,3307,214464,171339,43125,1,4.7
+ORD00387,20-06-2025,2025,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,Grey,38,Male,Finance,139751,5960,4614,3716,130302,3489,138632,106314,32318,13,4.4
+ORD00389,21-09-2025,2025,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,Shine 125,Commuter,125,Grey,38,Male,Finance,89814,2271,3642,7430,85312,2231,96384,68703,27681,7,4.1
+ORD00419,4/2/2026,2026,2,February,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Unicorn,Premium Commuter,160,Black,29,Female,Cash,110184,1877,5079,3137,108259,48,116475,91942,24533,6,4.9
+ORD00425,21-03-2026,2026,3,March,Q1,Gujarat,Surat,Honda Dealer Surat,Online Booking,Activa 6G,Scooter,110,Grey,45,Male,Credit Card,83503,6921,3011,3235,0,1462,81366,60963,20403,10,4.1
+ORD00431,27-03-2026,2026,3,March,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Activa 6G,Scooter,110,Grey,27,Female,Credit Card,80772,5370,6801,3161,0,975,84389,64667,19722,9,4.7
+ORD00433,27-06-2025,2025,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Shine 125,Commuter,125,Blue,22,Female,UPI,84215,4857,3449,7096,0,2633,87270,66759,20511,2,3.6
+ORD00451,30-08-2026,2026,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,Hornet 2.0,Sports,184,Grey,39,Female,Credit Card,141420,3279,5524,4984,0,3877,144772,106651,38121,1,4.9
+ORD00472,19-06-2026,2026,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Activa 6G,Scooter,110,Red,47,Male,Finance,81986,5916,6250,3225,74852,1218,84327,65315,19012,5,5
+ORD00482,30-04-2025,2025,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,Shine 125,Commuter,125,Grey,40,Male,Finance,83882,3593,5649,2952,77164,3125,85765,67539,18226,11,3.5
+ORD00487,19-08-2025,2025,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,SP 125,Commuter,125,Black,26,Female,Cash,93667,4489,6734,1391,88701,477,96826,75699,21127,9,3.6
+ORD00491,13-07-2025,2025,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Shine 125,Commuter,125,Blue,23,Female,UPI,85042,2643,6172,7980,80933,1466,95085,65510,29575,12,4.7
+ORD00492,17-02-2026,2026,2,February,Q1,Gujarat,Surat,Honda Dealer Surat,Online Booking,Shine 125,Commuter,125,Grey,20,Male,Cash,86973,4435,3383,7616,79615,2923,90614,64770,25844,5,4.8
+ORD00504,4/8/2025,2025,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Shine 125,Commuter,125,White,26,Female,Credit Card,82512,4623,3477,7110,0,495,87981,71419,16562,2,4.6
+ORD00540,25-06-2025,2025,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,SP 125,Commuter,125,Blue,40,Female,Cash,89341,599,5508,4123,0,3377,94996,73399,21597,5,3.5
+ORD00557,20-11-2025,2025,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Unicorn,Premium Commuter,160,Grey,21,Female,UPI,111220,4496,7149,8734,104649,2075,120532,84380,36152,12,3.7
+ORD00558,21-08-2026,2026,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,Black,27,Male,Finance,142024,2852,7060,9341,136846,2326,153247,106579,46668,6,4.3
+ORD00559,14-06-2026,2026,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,SP 125,Commuter,125,Black,30,Male,Credit Card,88414,2845,7339,9723,81708,3861,98770,71592,27178,12,3.6
+ORD00564,5/5/2025,2025,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,SP 125,Commuter,125,Grey,40,Female,Cash,93416,1919,3723,1701,88674,2823,94098,69493,24605,11,3.8
+ORD00568,14-06-2025,2025,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,SP 125,Commuter,125,Blue,33,Female,UPI,90024,2395,6343,4751,85722,1907,96816,70994,25822,11,4.4
+ORD00570,28-08-2025,2025,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,Black,23,Female,Cash,208942,2460,6586,3401,0,3858,212611,167384,45227,3,4.8
+ORD00572,14-12-2026,2026,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,Activa 6G,Scooter,110,Grey,50,Female,Credit Card,78713,5916,7734,4704,0,337,84898,62795,22103,5,4.1
+ORD00580,29-09-2025,2025,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,SP 125,Commuter,125,White,40,Female,UPI,94251,2994,4820,1119,0,2652,94544,70908,23636,1,4.7
+ORD00589,1/11/2026,2026,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,Unicorn,Premium Commuter,160,Red,26,Male,Finance,113384,1603,5965,6328,109375,2406,121668,87459,34209,12,4.2
+ORD00591,2/5/2025,2025,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,Unicorn,Premium Commuter,160,Blue,45,Male,Finance,112656,1210,3203,4116,109587,1859,116906,88769,28137,7,3.7
+ORD00592,27-08-2026,2026,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,Hornet 2.0,Sports,184,Red,54,Female,Finance,142592,2332,3679,8031,0,2231,149739,114487,35252,3,4.6
+ORD00601,25-09-2025,2025,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,White,25,Male,Finance,208206,6008,4686,3661,199935,2263,208282,169099,39183,15,3.6
+ORD00606,7/1/2025,2025,1,January,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,Blue,26,Female,UPI,141229,6310,7585,7917,0,3941,146480,110869,35611,13,3.5
+ORD00610,1/11/2026,2026,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,SP 125,Commuter,125,White,52,Male,UPI,88390,3590,3052,4805,0,67,92590,70057,22533,9,3.8
+ORD00611,9/6/2026,2026,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,Unicorn,Premium Commuter,160,Grey,51,Female,Finance,114334,1125,6555,8341,111054,2155,125950,90080,35870,4,3.8
+ORD00625,19-04-2026,2026,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Hornet 2.0,Sports,184,Red,50,Female,Cash,142337,216,3084,7507,0,1889,150823,106031,44792,2,4.7
+ORD00647,28-12-2025,2025,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,Red,29,Male,UPI,211287,670,4234,9048,210014,603,223296,167059,56237,15,4.8
+ORD00656,21-11-2025,2025,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,SP 125,Commuter,125,White,27,Male,Credit Card,93813,768,3219,1038,0,2929,94373,69461,24912,1,4.1
+ORD00661,16-02-2025,2025,2,February,Q1,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Hornet 2.0,Sports,184,Red,47,Male,UPI,138730,2298,7682,7441,134350,2082,149473,116152,33321,4,4
+ORD00662,13-04-2025,2025,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,SP 125,Commuter,125,White,27,Female,Cash,89975,2130,5871,8188,85600,2245,99659,68232,31427,1,4.7
+ORD00675,4/4/2025,2025,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,Red,21,Female,UPI,139056,6720,3082,6704,0,743,141379,115903,25476,15,4.7
+ORD00685,5/1/2026,2026,1,January,Q1,Gujarat,Surat,Honda Dealer Surat,Online Booking,SP 125,Commuter,125,Black,35,Male,Cash,94244,2080,6933,5191,0,3088,101200,75304,25896,12,4.1
+ORD00694,23-10-2026,2026,10,October,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,CB350,Premium,348,Red,35,Female,UPI,207672,3129,3255,1831,0,3796,205833,161290,44543,11,4.9
+ORD00703,15-05-2025,2025,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Hornet 2.0,Sports,184,Black,45,Female,Cash,138061,5412,3991,1199,129893,2756,135083,107449,27634,1,3.8
+ORD00716,26-11-2026,2026,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Activa 6G,Scooter,110,Black,30,Female,UPI,78016,2632,5567,9317,0,4013,86255,65583,20672,7,4.5
+ORD00721,9/12/2025,2025,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,SP 125,Commuter,125,Blue,28,Male,Credit Card,87411,3763,4528,4815,0,1341,91650,71056,20594,1,5
+ORD00738,7/4/2025,2025,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,SP 125,Commuter,125,Red,32,Male,Credit Card,93061,2307,4856,2294,0,3627,94277,70641,23636,9,4.6
+ORD00739,20-03-2025,2025,3,March,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Shine 125,Commuter,125,Red,54,Male,UPI,87650,2461,4359,4187,0,2902,90833,69281,21552,1,5
+ORD00750,5/8/2026,2026,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,CB350,Premium,348,Red,44,Female,Credit Card,208264,2779,5748,3368,205313,172,214429,168987,45442,7,4.8
+ORD00752,12/4/2025,2025,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,Activa 6G,Scooter,110,Red,36,Female,Credit Card,81358,5472,3478,2175,72816,3070,78469,64429,14040,14,4.5
+ORD00759,26-01-2026,2026,1,January,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,Blue,21,Female,Cash,143025,6323,7573,6175,0,3674,146776,114599,32177,13,5
+ORD00764,25-12-2025,2025,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,Shine 125,Commuter,125,Blue,40,Male,Finance,87251,3313,6224,6393,0,1545,95010,70470,24540,5,3.6
+ORD00776,30-11-2026,2026,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,CB350,Premium,348,White,50,Male,Cash,213334,1635,7956,7700,207500,4199,223156,174486,48670,3,4.8
+ORD00805,8/11/2025,2025,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Shine 125,Commuter,125,Blue,32,Male,Finance,82770,6140,6541,9010,0,2090,90091,71143,18948,4,4
+ORD00807,10/7/2025,2025,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Unicorn,Premium Commuter,160,White,38,Male,Credit Card,107391,5012,5740,2903,0,1452,109570,86538,23032,12,3.8
+ORD00818,14-11-2025,2025,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,SP 125,Commuter,125,Blue,27,Female,Finance,87165,6081,6208,9280,77981,3103,93469,70952,22517,14,3.9
+ORD00825,23-06-2026,2026,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,Black,24,Male,Credit Card,213528,5429,4887,9706,207183,916,221776,166456,55320,9,4.7
+ORD00839,25-08-2025,2025,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Unicorn,Premium Commuter,160,Red,40,Female,Cash,107004,5646,4059,1984,97103,4255,103146,91129,12017,12,4.8
+ORD00840,26-02-2025,2025,2,February,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,Blue,43,Male,Credit Card,213094,1629,4073,3559,209430,2035,217062,170840,46222,3,4
+ORD00869,6/1/2026,2026,1,January,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,SP 125,Commuter,125,White,42,Male,UPI,89218,2749,4060,8771,85499,970,98330,75757,22573,1,4.7
+ORD00886,13-07-2025,2025,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,Unicorn,Premium Commuter,160,Black,21,Male,UPI,108635,5303,5786,8927,0,220,117825,85550,32275,11,4.6
+ORD00889,24-04-2025,2025,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,SP 125,Commuter,125,White,21,Female,UPI,91740,1418,3884,6382,87250,3072,97516,73675,23841,6,4.7
+ORD00897,1/6/2025,2025,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,49,Female,UPI,108208,4184,6320,7531,0,588,117287,84844,32443,10,4.7
+ORD00917,11/3/2026,2026,3,March,Q1,Gujarat,Surat,Honda Dealer Surat,Online Booking,Activa 6G,Scooter,110,Red,51,Female,Finance,81181,2161,7259,7512,0,2995,90796,62581,28215,11,4.2
+ORD00934,7/6/2025,2025,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,Activa 6G,Scooter,110,White,32,Female,Cash,81897,1160,7740,2001,79633,1104,89374,60996,28378,5,4.3
+ORD00937,10/3/2025,2025,3,March,Q1,Gujarat,Surat,Honda Dealer Surat,Online Booking,SP 125,Commuter,125,White,45,Female,Credit Card,90773,1324,5036,2952,86337,3112,94325,70912,23413,14,4.5
+ORD00964,20-06-2025,2025,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,53,Male,UPI,143613,5185,4987,9084,135706,2722,149777,106390,43387,1,3.9
+ORD00967,15-09-2026,2026,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,CB350,Premium,348,Black,30,Male,Finance,209134,751,3957,6615,0,2790,216165,171664,44501,3,4.7
+ORD00971,9/10/2025,2025,10,October,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Activa 6G,Scooter,110,Black,54,Male,Finance,79896,6392,5008,4052,0,53,82511,66658,15853,10,3.8
+ORD00980,26-08-2025,2025,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,SP 125,Commuter,125,Blue,31,Female,UPI,91934,5146,7249,5639,82473,4315,95361,68141,27220,9,4.3
+ORD01010,11/12/2025,2025,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,Unicorn,Premium Commuter,160,Red,38,Male,Cash,113996,2969,6036,9707,107772,3255,123515,83207,40308,2,4.9
+ORD01038,11/12/2025,2025,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,Shine 125,Commuter,125,Blue,48,Female,Credit Card,87714,1749,7489,9172,81286,4679,97947,67846,30101,10,3.7
+ORD01046,20-12-2025,2025,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,Grey,44,Female,Cash,143895,712,4703,8509,139990,3193,153202,112122,41080,3,4.9
+ORD01055,24-06-2026,2026,6,June,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,CB350,Premium,348,Black,50,Male,Credit Card,212821,5947,4418,2551,0,19,213824,173430,40394,8,4.9
+ORD01057,3/10/2026,2026,10,October,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,33,Female,Credit Card,137683,1618,4042,8539,131768,4297,144349,109308,35041,2,3.8
+ORD01068,19-08-2026,2026,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,CB350,Premium,348,Red,31,Female,Cash,209047,6139,6729,2824,201619,1289,211172,172172,39000,11,4.4
+ORD01069,18-02-2025,2025,2,February,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,White,52,Female,Finance,142244,2016,3717,1558,0,295,145208,112971,32237,2,3.6
+ORD01071,28-05-2026,2026,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,Grey,35,Female,Finance,211852,3018,7796,1374,207183,1651,216353,174881,41472,2,4.6
+ORD01098,23-07-2026,2026,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,Black,32,Male,Cash,138762,6191,7516,5134,132101,470,144751,116040,28711,12,4.3
+ORD01099,4/10/2025,2025,10,October,Q4,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,SP 125,Commuter,125,Black,54,Female,UPI,92807,1932,7448,7512,90664,211,105624,73254,32370,9,4.5
+ORD01103,22-09-2026,2026,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Shine 125,Commuter,125,Blue,25,Male,Credit Card,86825,6969,5234,6535,0,4693,86932,70056,16876,4,4.9
+ORD01104,17-11-2025,2025,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Shine 125,Commuter,125,Red,28,Female,Finance,84807,2627,5204,1407,81844,336,88455,68620,19835,2,3.6
+ORD01107,4/5/2026,2026,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Unicorn,Premium Commuter,160,Blue,35,Female,Credit Card,111009,2607,6492,8936,106807,1595,122235,85603,36632,9,4.4
+ORD01110,7/1/2026,2026,1,January,Q1,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,SP 125,Commuter,125,Blue,38,Female,Cash,88308,518,5687,1869,0,460,94886,72645,22241,11,4.5
+ORD01111,7/11/2026,2026,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,SP 125,Commuter,125,Red,54,Male,Credit Card,87342,3823,4176,3059,0,4536,86218,74316,11902,14,3.6
+ORD01130,26-03-2025,2025,3,March,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Activa 6G,Scooter,110,White,28,Female,Cash,84309,2798,7933,6730,78998,2513,93661,65187,28474,4,3.9
+ORD01141,9/7/2025,2025,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Hornet 2.0,Sports,184,White,37,Female,Cash,142565,149,7869,6242,139061,3355,153172,112415,40757,12,4.6
+ORD01144,18-04-2026,2026,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Shine 125,Commuter,125,Black,39,Female,Cash,88315,217,5916,5524,0,2694,96844,70244,26600,5,3.6
+ORD01149,13-05-2026,2026,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,Shine 125,Commuter,125,Blue,37,Female,Cash,88162,2844,5985,1934,83069,2249,90988,66761,24227,13,4.9
+ORD01172,5/10/2026,2026,10,October,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Shine 125,Commuter,125,White,25,Female,Cash,87527,721,3528,6448,84409,2397,94385,66939,27446,2,4.8
+ORD01173,15-04-2026,2026,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,Black,50,Male,Cash,212699,1761,7531,4817,0,2588,220698,168778,51920,12,4.7
+ORD01193,20-11-2025,2025,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,Black,30,Male,Cash,211586,4714,6003,1668,204688,2184,212359,158714,53645,9,3.9
+ORD01201,2/10/2025,2025,10,October,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,CB350,Premium,348,Grey,31,Female,UPI,208358,5014,3677,6566,201533,1811,211776,161690,50086,9,3.9
+ORD01208,9/7/2025,2025,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,Hornet 2.0,Sports,184,White,49,Male,Finance,144934,1095,7088,9756,0,656,160027,105863,54164,11,3.7
+ORD01227,29-12-2026,2026,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,Red,55,Male,UPI,208976,4215,4152,4848,0,2992,210769,164695,46074,10,4.1
+ORD01254,15-10-2025,2025,10,October,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,SP 125,Commuter,125,Red,49,Male,UPI,89143,2957,6473,3117,0,385,95391,68352,27039,11,3.7
+ORD01261,15-07-2026,2026,7,July,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,Grey,54,Male,Cash,208711,5550,6758,2405,0,4945,207379,169859,37520,11,4.9
+ORD01264,8/5/2025,2025,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,CB350,Premium,348,Grey,50,Male,Finance,207410,2471,6224,6936,204378,561,217538,164057,53481,1,4
+ORD01275,4/11/2025,2025,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Online Booking,Shine 125,Commuter,125,Grey,35,Female,UPI,87080,1887,7783,7515,80621,4572,95919,68419,27500,12,3.9
+ORD01279,4/1/2026,2026,1,January,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Hornet 2.0,Sports,184,Black,47,Male,Finance,142680,6343,7615,5575,0,1839,147688,108358,39330,8,3.6
+ORD01291,14-12-2025,2025,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,CB350,Premium,348,Grey,35,Male,Finance,214986,1242,5560,8861,0,2067,226098,163511,62587,12,3.8
+ORD01311,4/12/2025,2025,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Hornet 2.0,Sports,184,White,28,Male,Credit Card,144698,5724,4018,5453,135315,3659,144786,105228,39558,7,4.5
+ORD01338,30-01-2026,2026,1,January,Q1,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,SP 125,Commuter,125,Grey,20,Female,Finance,88207,6680,7450,9896,79267,2260,96613,74338,22275,7,3.8
+ORD01343,12/4/2026,2026,4,April,Q2,Gujarat,Surat,Honda Dealer Surat,Online Booking,CB350,Premium,348,White,48,Female,Cash,211380,1697,5358,8711,204795,4888,218864,162704,56160,2,4.7
+ORD01346,27-11-2025,2025,11,November,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,CB350,Premium,348,Black,24,Male,Cash,211439,2908,6539,8520,205086,3445,220145,175379,44766,15,4
+ORD01348,7/1/2026,2026,1,January,Q1,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,CB350,Premium,348,Grey,37,Female,Cash,209824,6930,4510,2457,0,126,209735,166302,43433,3,3.8
+ORD01353,28-09-2025,2025,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Shine 125,Commuter,125,Red,23,Female,UPI,82726,5644,5978,1147,74903,2179,82028,69169,12859,9,3.6
+ORD01360,27-09-2026,2026,9,September,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,37,Female,UPI,111357,161,6103,2004,0,1156,118147,86843,31304,5,4.8
+ORD01380,19-12-2025,2025,12,December,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Activa 6G,Scooter,110,Red,38,Male,Credit Card,79682,71,3514,6709,0,1807,88027,62223,25804,10,5
+ORD01389,3/5/2025,2025,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Unicorn,Premium Commuter,160,Red,47,Male,Credit Card,107950,5500,5074,3734,97700,4750,106508,85703,20805,8,4
+ORD01397,27-05-2025,2025,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,White,21,Female,UPI,208337,6074,6392,1519,197959,4304,205870,171124,34746,5,4.2
+ORD01400,26-08-2025,2025,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Online Booking,Activa 6G,Scooter,110,White,43,Female,Finance,82501,1791,7413,4066,0,3323,88866,66797,22069,13,4.1
+ORD01424,25-08-2025,2025,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,CB350,Premium,348,Black,35,Male,Cash,212986,6120,5925,9332,0,1390,220733,164814,55919,5,3.7
+ORD01433,9/8/2026,2026,8,August,Q3,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,CB350,Premium,348,Red,41,Male,Finance,209792,2332,7966,7988,204411,3049,220365,172759,47606,8,4.1
+ORD01443,1/5/2025,2025,5,May,Q2,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,38,Male,Credit Card,108325,216,4251,7775,0,4434,115701,85140,30561,9,4.7
+ORD01447,17-02-2025,2025,2,February,Q1,Gujarat,Surat,Honda Dealer Surat,Online Booking,CB350,Premium,348,Red,29,Male,Finance,207504,4866,7684,5166,0,901,214587,172204,42383,3,4.5
+ORD01457,4/3/2026,2026,3,March,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,Activa 6G,Scooter,110,Blue,32,Male,Cash,84418,1460,5493,7401,79060,3898,91954,63864,28090,13,4
+ORD01467,9/2/2026,2026,2,February,Q1,Gujarat,Surat,Honda Dealer Surat,Corporate Sale,SP 125,Commuter,125,White,39,Male,UPI,90818,941,6595,3590,0,2623,97439,74426,23013,9,4.9
+ORD01482,13-10-2026,2026,10,October,Q4,Gujarat,Surat,Honda Dealer Surat,Showroom Walk-in,Hornet 2.0,Sports,184,Black,55,Female,Credit Card,139240,2292,7658,3586,0,2359,145833,108374,37459,3,4.7

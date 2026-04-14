@@ -1,0 +1,100 @@
+Order_ID,Order_Date,Year,MonthIndex,Month,Quarter,State,City,Dealer_Name,Sales_Channel,Bike_Model,Bike_Segment,Engine_CC,Color,Customer_Age,Customer_Gender,Payment_Mode,On_Road_Price,Discount,Insurance_Amount,Accessories_Amount,Finance_Amount,Exchange_Bonus,Net_Sales_Amount,Cost_Price,Gross_Profit,Delivery_Days,Customer_Rating
+ORD00021,2/6/2026,2026,6,June,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Unicorn,Premium Commuter,160,White,49,Female,Finance,107647,2672,6641,6111,0,912,116815,85040,31775,10,3.6
+ORD00047,13-09-2026,2026,9,September,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Shine 125,Commuter,125,Red,46,Female,Credit Card,88929,3489,7492,8927,81483,3957,97902,65481,32421,13,3.6
+ORD00053,19-09-2025,2025,9,September,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Hornet 2.0,Sports,184,White,39,Female,Credit Card,143600,807,5818,6222,142700,93,154740,109353,45387,4,4.9
+ORD00064,15-06-2026,2026,6,June,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Unicorn,Premium Commuter,160,Grey,34,Female,Credit Card,112387,2085,4441,6823,108497,1805,119761,87697,32064,14,4.3
+ORD00106,7/2/2026,2026,2,February,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,Black,34,Female,Finance,81155,4943,4219,2915,71557,4655,78691,62762,15929,11,3.6
+ORD00116,23-04-2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Unicorn,Premium Commuter,160,White,44,Female,Finance,114027,6426,7656,2122,0,2324,115055,88139,26916,11,4.8
+ORD00141,6/1/2026,2026,1,January,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,SP 125,Commuter,125,Grey,29,Male,Cash,88781,3243,4589,2031,0,1955,90203,74370,15833,13,3.9
+ORD00158,14-04-2025,2025,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Hornet 2.0,Sports,184,Red,29,Female,Cash,140690,2049,3142,9374,0,2222,148935,107219,41716,4,3.5
+ORD00160,17-04-2025,2025,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,SP 125,Commuter,125,Black,38,Female,Credit Card,89793,4097,6740,7632,84485,1211,98857,69751,29106,15,4.2
+ORD00167,16-11-2026,2026,11,November,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Unicorn,Premium Commuter,160,Black,30,Female,Cash,108558,934,4786,5361,0,3904,113867,90256,23611,6,4.1
+ORD00170,14-05-2025,2025,5,May,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Shine 125,Commuter,125,Blue,36,Male,UPI,83476,3173,5101,1252,77959,2344,84312,66304,18008,14,3.9
+ORD00175,20-08-2025,2025,8,August,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Hornet 2.0,Sports,184,Grey,36,Female,Finance,140782,6231,4151,1920,0,605,140017,106935,33082,13,4.5
+ORD00192,1/10/2025,2025,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,CB350,Premium,348,Black,36,Female,Cash,213735,1842,6638,1439,211004,889,219081,175420,43661,11,4.8
+ORD00197,16-05-2025,2025,5,May,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,SP 125,Commuter,125,Blue,23,Female,Credit Card,90600,3217,5769,2869,0,4897,91124,68911,22213,11,4.1
+ORD00198,17-05-2025,2025,5,May,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,CB350,Premium,348,Grey,52,Female,Credit Card,214701,3086,6088,9377,210843,772,226308,172083,54225,10,4.2
+ORD00203,10/2/2025,2025,2,February,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,26,Female,Finance,112908,5346,7246,5907,105492,2070,118645,85595,33050,7,4.2
+ORD00218,2/7/2025,2025,7,July,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Shine 125,Commuter,125,Blue,21,Female,Cash,86257,1525,6439,3122,80524,4208,90085,66168,23917,12,4
+ORD00228,17-11-2026,2026,11,November,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,Grey,38,Female,UPI,84101,854,4097,8310,0,3620,92034,60436,31598,6,4.6
+ORD00262,5/6/2025,2025,6,June,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Activa 6G,Scooter,110,Blue,55,Female,Credit Card,83892,1605,6860,3977,0,4240,88884,64712,24172,1,4.8
+ORD00270,15-07-2026,2026,7,July,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,CB350,Premium,348,Black,53,Male,UPI,207806,6716,4770,6080,0,2692,209248,162423,46825,15,4
+ORD00289,22-06-2026,2026,6,June,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Unicorn,Premium Commuter,160,Red,37,Male,Credit Card,109167,5866,3804,2802,0,1289,108618,89791,18827,2,4.3
+ORD00297,30-04-2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Shine 125,Commuter,125,White,39,Male,Finance,84997,4450,7402,1589,79147,1400,88138,68085,20053,11,3.8
+ORD00298,29-07-2025,2025,7,July,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,CB350,Premium,348,Blue,29,Female,Cash,212856,4660,7965,8079,204430,3766,220474,176011,44463,13,3.9
+ORD00322,4/4/2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,Grey,23,Female,UPI,82256,3592,6116,2475,0,803,86452,66209,20243,1,4.9
+ORD00327,25-05-2025,2025,5,May,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,53,Male,Cash,138691,4766,5600,6109,129620,4305,141329,115145,26184,10,4.3
+ORD00330,2/9/2026,2026,9,September,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,SP 125,Commuter,125,Black,21,Female,Cash,91886,1840,7592,6670,0,2138,102170,73611,28559,13,4.8
+ORD00353,12/2/2025,2025,2,February,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Hornet 2.0,Sports,184,Black,31,Female,UPI,138996,4588,4124,7013,131399,3009,142536,109166,33370,14,4.6
+ORD00368,21-06-2026,2026,6,June,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Shine 125,Commuter,125,Red,37,Female,Cash,89763,6203,4159,8348,80783,2777,93290,63924,29366,9,3.9
+ORD00378,3/6/2026,2026,6,June,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,CB350,Premium,348,Red,47,Male,Credit Card,209550,2150,4953,7176,0,262,219267,174961,44306,12,5
+ORD00381,30-12-2025,2025,12,December,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,CB350,Premium,348,Blue,55,Male,Credit Card,210677,6326,4936,9756,202324,2027,217016,171371,45645,6,4.7
+ORD00382,4/1/2025,2025,1,January,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Shine 125,Commuter,125,Red,34,Male,UPI,84026,6858,6927,3307,0,3409,83993,70022,13971,12,4
+ORD00460,18-10-2026,2026,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Unicorn,Premium Commuter,160,Grey,20,Female,Cash,108662,533,4419,5756,106662,1467,116837,83206,33631,8,3.8
+ORD00462,16-11-2025,2025,11,November,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,CB350,Premium,348,Red,22,Female,UPI,207802,5685,7068,7031,197441,4676,211540,158403,53137,12,5
+ORD00470,14-12-2025,2025,12,December,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Hornet 2.0,Sports,184,Blue,48,Male,Finance,144960,5686,3250,4956,136069,3205,144275,110917,33358,1,4.4
+ORD00478,11/10/2025,2025,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Unicorn,Premium Commuter,160,Blue,32,Female,UPI,113339,2674,7527,1632,0,1763,118061,85558,32503,3,4.3
+ORD00497,15-03-2025,2025,3,March,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Hornet 2.0,Sports,184,Red,30,Female,Credit Card,143116,4121,4716,1621,137039,1956,143376,118928,24448,2,3.7
+ORD00516,30-04-2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Activa 6G,Scooter,110,Red,54,Female,UPI,77095,2642,4146,9063,70191,4262,83400,63874,19526,5,5
+ORD00528,20-11-2025,2025,11,November,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Activa 6G,Scooter,110,Grey,31,Male,Credit Card,80999,4306,3058,6240,76152,541,85450,63884,21566,14,3.8
+ORD00534,21-08-2025,2025,8,August,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Unicorn,Premium Commuter,160,Red,37,Female,Finance,107968,3678,7815,5538,0,3067,114576,83559,31017,6,3.5
+ORD00546,19-03-2026,2026,3,March,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Activa 6G,Scooter,110,Grey,39,Female,Cash,84940,4637,7356,9213,76071,4232,92640,61638,31002,11,4.4
+ORD00555,9/8/2025,2025,8,August,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Unicorn,Premium Commuter,160,White,48,Male,Cash,110811,6506,4448,9864,102986,1319,117298,87013,30285,9,4.9
+ORD00628,24-10-2026,2026,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,Grey,34,Male,Credit Card,80033,6633,6986,5447,0,754,85079,63523,21556,15,4.7
+ORD00632,27-08-2025,2025,8,August,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,Blue,55,Male,Cash,83337,1477,7675,8567,0,3733,94369,66905,27464,13,3.6
+ORD00635,17-05-2026,2026,5,May,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Activa 6G,Scooter,110,Red,41,Female,Credit Card,77761,6236,4197,2986,0,4068,74640,67092,7548,5,4.3
+ORD00645,20-12-2026,2026,12,December,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Unicorn,Premium Commuter,160,Blue,26,Male,Finance,113106,1974,7598,2439,109668,1464,119705,92674,27031,15,3.8
+ORD00653,10/4/2025,2025,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Activa 6G,Scooter,110,Grey,20,Female,UPI,78469,988,3225,2449,74614,2867,80288,66849,13439,15,4.3
+ORD00665,24-07-2025,2025,7,July,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,SP 125,Commuter,125,Blue,53,Male,UPI,92235,3079,3868,1997,85438,3718,91303,71011,20292,8,4.3
+ORD00691,16-11-2026,2026,11,November,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,CB350,Premium,348,Black,51,Male,Cash,210477,2468,6665,8857,0,3656,219875,164204,55671,9,4.6
+ORD00699,24-08-2025,2025,8,August,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Unicorn,Premium Commuter,160,Grey,36,Female,Finance,108826,6674,4535,6490,0,3239,109938,89873,20065,13,4.5
+ORD00713,19-04-2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Activa 6G,Scooter,110,Red,23,Male,UPI,80430,1492,6287,5071,0,1211,89085,60441,28644,13,4.8
+ORD00725,19-04-2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,SP 125,Commuter,125,Black,31,Female,Cash,91715,6834,4925,8807,80247,4634,93979,73032,20947,9,5
+ORD00734,13-10-2026,2026,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,SP 125,Commuter,125,Grey,30,Male,Cash,89171,1752,7781,8838,84226,3193,100845,67803,33042,15,3.6
+ORD00742,29-01-2025,2025,1,January,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,Red,50,Female,Credit Card,81666,4773,7087,5096,73952,2941,86135,60267,25868,8,4.8
+ORD00784,21-12-2025,2025,12,December,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Activa 6G,Scooter,110,Red,36,Female,Cash,82380,880,5128,5062,0,2804,88886,66183,22703,8,4.4
+ORD00794,22-08-2025,2025,8,August,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,SP 125,Commuter,125,Red,54,Male,Credit Card,88078,4577,3129,9755,0,4898,91487,71019,20468,12,4.9
+ORD00795,4/5/2025,2025,5,May,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Hornet 2.0,Sports,184,Red,48,Female,UPI,144106,4556,7994,2036,135492,4058,145522,115928,29594,15,4.5
+ORD00808,7/10/2026,2026,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Unicorn,Premium Commuter,160,White,27,Female,Finance,107511,4319,4157,3864,99590,3602,107611,89199,18412,4,4.1
+ORD00833,28-04-2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Shine 125,Commuter,125,Grey,32,Male,Finance,88148,4279,6510,6057,0,3960,92476,71771,20705,7,5
+ORD00844,10/10/2025,2025,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Shine 125,Commuter,125,Grey,21,Female,Credit Card,86959,3019,7153,2906,81500,2440,91559,69597,21962,4,3.7
+ORD00865,5/6/2025,2025,6,June,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Hornet 2.0,Sports,184,Grey,45,Male,Credit Card,141838,3950,5333,5349,136513,1375,147195,117645,29550,2,4.2
+ORD00870,4/3/2025,2025,3,March,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Unicorn,Premium Commuter,160,Black,54,Male,Cash,113346,2703,6486,2370,0,2325,117174,87336,29838,1,3.7
+ORD00915,4/8/2026,2026,8,August,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,Blue,30,Male,UPI,77140,1672,6200,4251,0,400,85519,64553,20966,5,4.7
+ORD00919,22-02-2025,2025,2,February,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Hornet 2.0,Sports,184,White,46,Male,Credit Card,141134,6923,7300,7560,0,2484,146587,114692,31895,5,4.5
+ORD00935,7/12/2025,2025,12,December,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Hornet 2.0,Sports,184,White,54,Male,Finance,137796,4331,5614,8070,0,1401,145748,110961,34787,13,4
+ORD00949,20-02-2026,2026,2,February,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,White,38,Female,Cash,84555,5478,7026,5575,76952,2125,89553,66152,23401,9,4.9
+ORD00984,25-01-2026,2026,1,January,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,SP 125,Commuter,125,Red,35,Female,Credit Card,91536,2798,6279,2851,0,4808,93060,69188,23872,4,4.7
+ORD00996,18-06-2026,2026,6,June,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Hornet 2.0,Sports,184,Red,38,Female,Credit Card,140591,5301,6288,2919,132200,3090,141407,118158,23249,7,3.6
+ORD01015,17-04-2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Shine 125,Commuter,125,Black,26,Male,Finance,85354,1438,6496,8827,81209,2707,96532,64210,32322,2,3.8
+ORD01023,9/3/2026,2026,3,March,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,29,Male,Cash,108631,3010,4944,7264,105434,187,117642,90364,27278,13,4.2
+ORD01030,30-12-2026,2026,12,December,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Unicorn,Premium Commuter,160,Red,30,Male,UPI,111427,5758,4133,9954,0,2855,116901,92334,24567,7,3.9
+ORD01033,1/10/2025,2025,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,SP 125,Commuter,125,Blue,48,Female,Cash,87988,1624,5119,9682,84356,2008,99157,73075,26082,14,3.7
+ORD01039,3/4/2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,CB350,Premium,348,Blue,47,Female,Cash,213695,6680,5174,3005,205964,1051,214143,166530,47613,14,4.2
+ORD01045,7/10/2025,2025,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Activa 6G,Scooter,110,Blue,42,Female,Cash,77462,6633,7458,6860,70774,55,85092,62945,22147,15,3.9
+ORD01048,23-01-2025,2025,1,January,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,CB350,Premium,348,Red,38,Female,Credit Card,208705,203,5297,3622,0,4135,213286,158132,55154,7,4.2
+ORD01074,10/3/2026,2026,3,March,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,White,55,Female,UPI,78495,368,4866,1892,75551,2576,82309,62752,19557,6,5
+ORD01084,24-07-2026,2026,7,July,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Unicorn,Premium Commuter,160,Red,35,Male,Finance,110453,79,6569,9777,107933,2441,124279,85696,38583,7,3.7
+ORD01106,3/4/2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,Blue,49,Male,Credit Card,82292,3386,5717,3577,77724,1182,87018,67391,19627,4,4.3
+ORD01114,15-05-2025,2025,5,May,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,SP 125,Commuter,125,Blue,42,Male,Cash,93297,4032,6060,3488,85510,3755,95058,72114,22944,9,4.3
+ORD01135,18-07-2026,2026,7,July,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,SP 125,Commuter,125,White,51,Male,Finance,93377,3157,5308,9636,0,1997,103167,69032,34135,12,4.5
+ORD01156,1/10/2026,2026,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,CB350,Premium,348,Grey,21,Male,Credit Card,207130,6788,6845,2638,198761,1581,208244,174009,34235,10,4.1
+ORD01164,20-03-2026,2026,3,March,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,47,Female,Credit Card,110461,1667,5801,8448,106320,2474,120569,84838,35731,7,4.4
+ORD01175,27-11-2026,2026,11,November,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Hornet 2.0,Sports,184,Blue,37,Female,Credit Card,138146,3360,5366,2893,0,1547,141498,108690,32808,13,4
+ORD01215,10/7/2026,2026,7,July,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,CB350,Premium,348,Black,30,Female,Finance,211619,1867,3179,7059,205835,3917,216073,173289,42784,5,4.5
+ORD01216,29-08-2025,2025,8,August,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Unicorn,Premium Commuter,160,Blue,54,Female,Finance,112385,5041,4296,3306,0,3944,111002,86302,24700,14,3.9
+ORD01229,23-09-2026,2026,9,September,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Hornet 2.0,Sports,184,Red,20,Female,Cash,137180,3294,3019,8192,132432,1454,143643,108521,35122,15,3.7
+ORD01255,27-04-2025,2025,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,CB350,Premium,348,White,36,Male,Credit Card,211662,5160,4931,8308,202055,4447,215294,159304,55990,9,5
+ORD01289,14-02-2026,2026,2,February,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Activa 6G,Scooter,110,Blue,36,Female,Cash,82994,6271,6776,2332,0,3048,82783,66489,16294,9,3.7
+ORD01292,4/2/2026,2026,2,February,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Unicorn,Premium Commuter,160,Grey,47,Female,Credit Card,113026,966,5735,6187,111109,951,123031,93188,29843,13,3.6
+ORD01314,29-11-2025,2025,11,November,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Hornet 2.0,Sports,184,Red,26,Female,UPI,137083,350,6967,3893,0,534,147059,117286,29773,10,4.8
+ORD01331,25-04-2025,2025,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Shine 125,Commuter,125,Grey,42,Male,Finance,87627,884,6996,2695,0,3980,92454,67603,24851,14,4.2
+ORD01355,5/7/2026,2026,7,July,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Unicorn,Premium Commuter,160,Red,48,Male,Credit Card,107298,5371,7941,3445,0,4992,108321,89355,18966,9,3.6
+ORD01375,6/2/2025,2025,2,February,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Shine 125,Commuter,125,Blue,49,Male,Credit Card,88836,2831,6970,3144,81038,4967,91152,64370,26782,9,3.6
+ORD01409,3/8/2025,2025,8,August,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,SP 125,Commuter,125,Blue,30,Male,Cash,94791,5890,4897,1695,0,3786,91707,72403,19304,15,4.5
+ORD01437,5/10/2026,2026,10,October,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,Hornet 2.0,Sports,184,Blue,49,Female,UPI,139810,3473,7633,6307,0,3626,146651,110901,35750,1,4.1
+ORD01456,17-06-2026,2026,6,June,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Online Booking,SP 125,Commuter,125,Red,49,Male,Finance,93363,3500,7605,6771,87598,2265,101974,70389,31585,15,4.7
+ORD01472,4/4/2026,2026,4,April,Q2,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,SP 125,Commuter,125,Black,24,Male,Finance,91267,6027,6245,8559,81072,4168,95876,69494,26382,13,4.5
+ORD01478,27-03-2025,2025,3,March,Q1,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Hornet 2.0,Sports,184,Blue,53,Female,UPI,143845,469,5994,2219,141358,2018,149571,107889,41682,9,4.8
+ORD01490,7/11/2025,2025,11,November,Q4,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Corporate Sale,Shine 125,Commuter,125,White,42,Male,Credit Card,85288,402,6921,3206,84853,33,94980,70046,24934,14,3.7
+ORD01494,13-08-2025,2025,8,August,Q3,Uttar Pradesh,Kanpur,Honda Dealer Kanpur,Showroom Walk-in,Shine 125,Commuter,125,White,46,Male,Credit Card,84596,2188,5886,1496,0,4665,85125,66831,18294,12,5
