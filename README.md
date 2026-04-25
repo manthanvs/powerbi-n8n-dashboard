@@ -3,7 +3,7 @@
 Welcome to the **Honda Two-Wheeler Analytics Project**! This repository demonstrates an end-to-end data pipeline: from capturing unstructured sales data via email, automating ingestion into a PostgreSQL database, to visualizing the key KPI metrics in an interactive Power BI dashboard.
 
 <div align="center">
-  <img src="images/images/honda-png-22028.png" width="300" alt="Honda Logo"/>
+  <img src="images/honda-png-22028.png" width="300" alt="Honda Logo"/>
 </div>
 
 ---
